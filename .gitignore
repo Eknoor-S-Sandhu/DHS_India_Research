@@ -1,14 +1,18 @@
-# Raw and processed microdata — never commit
-data/raw/*
-data/processed/*
-*.dta
-*.sav
-*.zip
-*.ZIP
+# Exclude all raw DHS microdata specifically
+data/raw/NFHS_Microdata/*
+!data/raw/NFHS_Microdata/.gitkeep
 
-!data/raw/.gitkeep
+# Everything else in data/raw/ (e.g. NFHS3-6_state_panel) is tracked normally
+
+# Processed data — still excluded unless you want specific outputs tracked
+data/processed/*
 !data/processed/.gitkeep
 
+# Extra safety net: restricted microdata file types, wherever they appear
+*.dta
+*.sav
+
+# OS/system files
 .DS_Store
 .ipynb_checkpoints/
 __pycache__/
