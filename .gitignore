@@ -1,0 +1,14 @@
+# Raw and processed microdata — never commit
+data/raw/*
+data/processed/*
+*.dta
+*.sav
+*.zip
+*.ZIP
+
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
