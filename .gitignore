@@ -4,9 +4,8 @@ data/raw/NFHS_Microdata/*
 
 # Everything else in data/raw/ (e.g. NFHS3-6_state_panel) is tracked normally
 
-# Processed data — still excluded unless you want specific outputs tracked
-data/processed/*
-!data/processed/.gitkeep
+# Processed data is tracked normally -- crosswalks, panel outputs, etc.
+# (no exclusion rule needed here anymore)
 
 # Extra safety net: restricted microdata file types, wherever they appear
 *.dta
