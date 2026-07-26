@@ -1,0 +1,3086 @@
+                                                   IAHR74FL                                                   
+                                                IAHR74FL_DICT                                                 
+
+                                        IAHR74FL.DCF                                                          
+                                    Last Modified:  6/26/2018  10:44:34 PM                                    
+
+--------------------------------------------------------------------------------------------------------------
+Level Name                    Level Label                                                  Type            Rec
+  Record Name                   Record Label                                              Value  Req  Max  Len
+--------------------------------------------------------------------------------------------------------------
+HOUSEHOLD                     HOUSEHOLD                                                                       
+  RECORD1                       RECORD1                                                          Yes    1  9461
+Level: HOUSEHOLD                                       Record: RECORD1
+--------------------------------------------------------------------------------------------------------------
+                                                                                 Data Item            Dec Zero
+Item Name              Item Label                                     Start  Len Type Type  Occ  Dec Char Fill
+--------------------------------------------------------------------------------------------------------------
+HHID              (id) Case Identification                                1   12   AN    I    1    0   No   No
+                         (record type)                                    0    0   AN    I    1    0   No   No
+HV000                  Country code and phase                            13    3   AN    I    1    0   No   No
+HV001                  Cluster number                                    16    8    N    I    1    0   No   No
+HV002                  Household number                                  24    4    N    I    1    0   No   No
+HV003                  Respondent's line number (answering Household q   28    3    N    I    1    0   No   No
+                               0      Incomplete household
+                               1:999  
+HV004                  Ultimate area unit                                31    4    N    I    1    0   No   No
+HV005                  Household sample weight (6 decimals)              35    8    N    I    1    0   No   No
+HV006                  Month of interview                                43    2    N    I    1    0   No   No
+                               1:12  
+HV007                  Year of interview                                 45    4    N    I    1    0   No   No
+                               2015:2016  
+HV008                  Date of interview (CMC)                           49    4    N    I    1    0   No   No
+HV009                  Number of household members                       53    2    N    I    1    0   No   No
+                               0:90  
+HV010                  Number of eligible women in household             55    2    N    I    1    0   No   No
+                               0:20  
+HV011                  Number of eligible men in household               57    2    N    I    1    0   No   No
+                               0:20  
+HV012                  Number of de jure members                         59    2    N    I    1    0   No   No
+                               0:90  
+HV013                  Number of de facto members                        61    2    N    I    1    0   No   No
+                               0:90  
+HV014                  Number of children 5 and under (de jure)          63    2    N    I    1    0   No   No
+                               0:20  
+HV015                  Result of household interview                     65    1    N    I    1    0   No   No
+                               1  Completed
+                               2  No Household member/no competent member at home
+                               3  Entire Household absent for extended period of time
+                               4  Postponed
+                               5  Refused
+                               6  Dwelling vacant or address not a dwelling
+                               7  Dwelling destroyed
+                               8  Dwelling not found
+                               9  Other
+HV016                  Day of interview                                  66    2    N    I    1    0   No   No
+                               1:31  
+HV017                  Number of visits                                  68    1    N    I    1    0   No   No
+                               1:8  
+                           (m) 9    Missing
+HV018                  Interviewer identification                        69    3    N    I    1    0   No   No
+                               1:944  
+                           (m) 999    Missing
+HV019                  NA - Keyer identification                         72    2    N    I    1    0   No   No
+HV020                  Ever-married sample                               74    1    N    I    1    0   No   No
+                               0  All woman sample
+                               1  Ever married sample
+HV021                  Primary sampling unit                             75    6    N    I    1    0   No   No
+HV022                  Sample strata for sampling errors                 81    5    N    I    1    0   No   No
+HV023                  Stratification used in sample design              86    5    N    I    1    0   No   No
+HV024                  State                                             91    2    N    I    1    0   No   No
+                               1   Andaman and Nicobar Islands
+                               2   Andhra Pradesh
+                               3   Arunachal Pradesh
+                               4   Assam
+                               5   Bihar
+                               6   Chandigarh
+                               7   Chhattisgarh
+                               8   Dadra and Nagar Haveli
+                               9   Daman and Diu
+                               10  Goa
+                               11  Gujarat
+                               12  Haryana
+                               13  Himachal Pradesh
+                               14  Jammu and Kashmir
+                               15  Jharkhand
+                               16  Karnataka
+                               17  Kerala
+                               18  Lakshadweep
+                               19  Madhya Pradesh
+                               20  Maharashtra
+                               21  Manipur
+                               22  Meghalaya
+                               23  Mizoram
+                               24  Nagaland
+                               25  Delhi
+                               26  Odisha
+                               27  Puducherry
+                               28  Punjab
+                               29  Rajasthan
+                               30  Sikkim
+                               31  Tamil Nadu
+                               32  Tripura
+                               33  Uttar Pradesh
+                               34  Uttarakhand
+                               35  West Bengal
+                               36  Telangana
+HV025                  Type of place of residence                        93    1    N    I    1    0   No   No
+                               1  Urban
+                               2  Rural
+HV026                  NA - Place of residence                           94    1    N    I    1    0   No   No
+                               0  Capital, large city
+                               1  Small city
+                               2  Town
+                               3  Countryside
+                           (m) 9  Missing
+HV027                  Household selected for male interview             95    1    N    I    1    0   No   No
+                               0  Not selected
+                               1  Men's survey
+                               2  Husband's survey
+HV028                  Household weight for male subsample (6 decimals   96    8    N    I    1    0   No   No
+HV030                  Field supervisor                                 104    3    N    I    1    0   No   No
+                               1:940  
+                           (m) 999    Missing
+HV031                  NA - Field editor                                107    3    N    I    1    0   No   No
+HV032                  NA - Office editor                               110    2    N    I    1    0   No   No
+HV035                  Number of eligible children for height and weig  112    2    N    I    1    0   No   No
+                               0:20  
+HV040                  Cluster altitude in meters                       114    4    N    I    1    0   No   No
+                               -5:8000  
+                           (m) 9999     Missing
+HV041                  Total adults measured                            118    2    N    I    1    0   No   No
+                               0:22  
+HV042                  Household selected for hemoglobin                120    1    N    I    1    0   No   No
+                               0  Not selected
+                               1  Selected
+HV044                  Household selected for Domestic Violence module  121    1    N    I    1    0   No   No
+                               0  Household not selected
+                               1  Household selected
+                          (na)    Not applicable
+HV201                  Source of drinking water                         122    2    N    I    1    0   No   No
+                               10  PIPED WATER
+                               11  Piped into dwelling
+                               12  Piped to yard/plot
+                               13  Public tap/standpipe
+                               20  TUBE WELL WATER
+                               21  Tube well or borehole
+                               30  DUG WELL (OPEN/PROTECTED)
+                               31  Protected well
+                               32  Unprotected well
+                               40  SURFACE WATER
+                               41  Protected spring
+                               42  Unprotected spring
+                               43  River/dam/lake/ponds/stream/canal/irrigation channel
+                               51  Rainwater
+                               61  Tanker truck
+                               62  Cart with small tank
+                               71  Bottled water
+                               72  Community RO Plant
+                               96  Other
+                           (m) 99  Missing
+HV202                  NA - Source of non-drinking water                124    2    N    I    1    0   No   No
+                               10  PIPED WATER
+                               11  Piped into dwelling
+                               12  Piped to yard/plot
+                               13  Public tap/standpipe
+                               20  TUBE WELL WATER
+                               21  Tube well or borehole
+                               30  DUG WELL (OPEN/PROTECTED)
+                               31  Protected well
+                               32  Unprotected well
+                               40  SURFACE WATER
+                               41  Protected spring
+                               42  Unprotected spring
+                               43  River/dam/lake/ponds/stream/canal/irrigation channel
+                               51  Rainwater
+                               61  Tanker truck
+                               62  Cart with small tank
+                               71  Bottled water
+                               96  Other
+                           (m) 99  Missing
+                          (na)     Not applicable
+HV204                  Time to get to water source (minutes)            126    3    N    I    1    0   No   No
+                               0      Delivered to dwelling
+                               1:900  
+                               996    On premises
+                               998    Don't know
+                           (m) 999    Missing
+                          (na)        Not applicable
+HV205                  Type of toilet facility                          129    2    N    I    1    0   No   No
+                               10  FLUSH TOILET
+                               11  Flush to piped sewer system
+                               12  Flush to septic tank
+                               13  Flush to pit latrine
+                               14  Flush to somewhere else
+                               15  Flush, don't know where
+                               20  PIT TOILET LATRINE
+                               21  Ventilated Improved Pit latrine (VIP)
+                               22  Pit latrine with slab
+                               23  Pit latrine without slab/open pit
+                               30  NO FACILITY
+                               31  No facility/bush/field
+                               41  Composting toilet
+                               44  Dry toilet
+                               96  Other
+                           (m) 99  Missing
+HV206                  Has electricity                                  131    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV207                  Has radio                                        132    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV208                  Has television                                   133    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV209                  Has refrigerator                                 134    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV210                  Has bicycle                                      135    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV211                  Has motorcycle/scooter                           136    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV212                  Has car/truck                                    137    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV213                  Main floor material                              138    2    N    I    1    0   No   No
+                               10  NATURAL
+                               11  Mud/clay/earth
+                               12  Sand
+                               13  Dung
+                               20  RUDIMENTARY
+                               21  Raw wood planks
+                               22  Palm, bamboo
+                               23  Brick
+                               24  Stone
+                               30  FINISHED
+                               31  Parquet, polished wood
+                               32  Vinyl, asphalt strips
+                               33  Ceramic tiles
+                               34  Cement
+                               35  Carpet
+                               36  Polished stone/marble/granite
+                               96  other
+                           (m) 99  Missing
+HV214                  Main wall material                               140    2    N    I    1    0   No   No
+                               10  NATURAL
+                               11  No walls
+                               12  Cane/palm/trunks
+                               13  Mud
+                               14  Grass/reeds/thatch
+                               20  RUDIMENTARY
+                               21  Bamboo with mud
+                               22  Stone with mud
+                               23  Plywood
+                               24  Cardboard
+                               25  Unburnt brick
+                               26  Raw/reused wood
+                               30  FINISHED
+                               31  Cement/concrete
+                               32  Stone with lime/cement
+                               33  Burnt bricks
+                               34  Cement blocks
+                               35  Wood planks/shingles
+                               36  GI/metal/asbestos sheets
+                               96  other
+                           (m) 99  Missing
+HV215                  Main roof material                               142    2    N    I    1    0   No   No
+                               10  NATURAL
+                               11  No roof
+                               12  Thatch/palm leaf
+                               13  Mud
+                               14  Sod/mud and grass mixture
+                               15  Plastic/polythene sheeting
+                               20  RUDIMENTARY
+                               21  Rustic mat
+                               22  Palm/bamboo
+                               23  Raw wood planks/timber
+                               24  Unburnt bricks
+                               25  Loosely packed stone
+                               30  FINISHED
+                               31  Metal/GI
+                               32  Wood
+                               33  Calamine/cement fibre
+                               34  Asbestos sheets
+                               35  RCC/RBC/cement/concrete
+                               36  Roofing shingles
+                               37  Tiles
+                               38  Slate
+                               39  Burnt brick
+                               96  Other
+                           (m) 99  Missing
+HV216                  Number of rooms used for sleeping                144    2    N    I    1    0   No   No
+                               0:24  
+                               25    25 or more rooms
+                           (m) 99    Missing
+HV217                  Relationship structure                           146    1    N    I    1    0   No   No
+                               0  No adults
+                               1  One adult
+                               2  Two adults, opposite sex
+                               3  Two adults, same sex
+                               4  Three+ related adults
+                               5  Unrelated adults
+HV218                  Line number of head of household                 147    2    N    I    1    0   No   No
+                               1:90  
+HV219                  Sex of head of household                         149    1    N    I    1    0   No   No
+                               1  Male
+                               2  Female
+                           (m) 9  Missing
+HV220                  Age of head of household                         150    2    N    I    1    0   No   No
+                               0:96  
+                               97    97+
+                               98    Don't know
+                           (m) 99    Missing
+HV221                  Has telephone (land-line)                        152    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV225                  Share toilet with other households               153    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV226                  Type of cooking fuel                             154    2    N    I    1    0   No   No
+                               1   Electricity
+                               2   LPG, natural gas
+                               4   Biogas
+                               5   Kerosene
+                               6   Coal, lignite
+                               7   Charcoal
+                               8   Wood
+                               9   Straw/shrubs/grass
+                               10  Agricultural crop
+                               11  Animal dung
+                               95  No food cooked in house
+                               96  Other
+                           (m) 99  Missing
+HV227                  Has mosquito bed net for sleeping                156    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV228                  Children under 5 slept under mosquito bed net l  157    1    N    I    1    0   No   No
+                               0  No
+                               1  All children
+                               2  Some children
+                               3  No net in household
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV230A                 Place where household members wash their hands   158    1    N    I    1    0   No   No
+                               1  Observed
+                               2  Not observed: not in dwelling
+                               3  Not observed: no permission to see
+                               4  Not observed: other reason
+                           (m) 9  Missing
+HV230B                 Presence of water at hand washing place          159    1    N    I    1    0   No   No
+                               0  Water not available
+                               1  Water is available
+                           (m) 9  Missing
+HV232                  Items present: Soap or detergent                 160    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    NotAppl
+HV232B                 Items present: Ash, mud, sand                    161    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    NotAppl
+HV232C                 NA - Items present: CS                           162    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    NotAppl
+HV232D                 NA - Items present: CS                           163    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    NotAppl
+HV232E                 NA - Items present: CS                           164    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    NotAppl
+HV232Y                 Items present: None                              165    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes: no cleansing agent observed
+                           (m) 9  Missing
+                          (na)    NotAppl
+HV234                  NA - Result of salt test for iodine (PPM)        166    3    N    I    1    0   No   No
+                               0    0 PPM (no iodine)
+                               7    Below 15 PPM
+                               15   15 PPM and above
+                               30   30 PPM
+                               994  Salt not tested
+                               995  No salt in household
+                           (m) 999  Missing
+HV234A                 Result of salt test for iodine                   169    1    N    I    1    0   No   No
+                               0  No iodine
+                               1  Iodine present
+                               3  No salt in household
+                               6  Salt not tested
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV235                  Location of source for water                     170    1    N    I    1    0   No   No
+                               1  In own dwelling
+                               2  In own yard/plot
+                               3  Elsewhere
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV236                  Person fetching water                            171    1    N    I    1    0   No   No
+                               1  Adult woman
+                               2  Adult man
+                               3  Female child under 15 years old
+                               4  Male child under 15 years old
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237                  Anything done to water to make safe to drink     172    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237A                 Water usually treated by: boil                   173    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237B                 Water usually treated by: add bleach/chlorine    174    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237C                 Water usually treated by: strain through a clot  175    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237D                 Water usually treated by: use water filter       176    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237E                 NA - Water usually treated by: solar disinfecti  177    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237F                 Water usually treated by: let it stand and sett  178    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237G                 Water usually treated by: use alum               179    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237H                 Water usually treated by: use electric purifier  180    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237I                 NA - Water usually treated by: CS                181    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237J                 NA - Water usually treated by: CS                182    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237K                 NA - Water usually treated by: CS                183    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237X                 Water usually treated by: other                  184    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV237Z                 Water usually treated by: don't know             185    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes: don't know what is done to water
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV238                  Number of households sharing toilet              186    2    N    I    1    0   No   No
+                               2:9  
+                               95   10 or more households
+                               98   Don't know
+                           (m) 99   Missing
+                          (na)      Not applicable
+HV239                  Food cooked on stove or open fire  (see SH39)    188    1    N    I    1    0   No   No
+                               1  Open fire (including Chullah)
+                               2  Stove
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV240                  NA - Household has a chimney, hood or neither    189    1    N    I    1    0   No   No
+                               0  Neither chimney or hood
+                               1  Chimney
+                               2  Hood
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV241                  Food cooked in the house/separate building/outd  190    1    N    I    1    0   No   No
+                               1  In the house
+                               2  In a separate building
+                               3  Outdoors
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV242                  Household has separate room used as kitchen      191    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV243A                 Has mobile telephone                             192    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV243B                 Has watch                                        193    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV243C                 Has animal-drawn cart                            194    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV243D                 NA - Has boat with a motor                       195    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV244                  Owns land usable for agriculture                 196    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV245                  Hectares of agricultural land (1 decimal)  (see  197    3    N    I    1    0   No   No
+                               0      Less than 0.1 hectares
+                               1:949  
+                               950    95.0 hectares or more
+                               998    Unknown
+                           (m) 999    Missing
+                          (na)        Not applicable
+HV246                  Owns livestock, herds or farm animals            200    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV246A                 NA - Owns cattle                                 201    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246B                 NA - Owns cows/bulls                             203    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246C                 NA - Owns horses/donkeys/mules                   205    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246D                 NA - Owns goats                                  207    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246E                 NA - Owns sheep                                  209    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246F                 NA - Owns chickens                               211    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246G                 NA - Owns CS                                     213    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246H                 NA - Owns CS                                     215    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246I                 NA - Owns CS                                     217    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246J                 NA - Owns CS                                     219    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV246K                 NA - Owns CS                                     221    2    N    I    1    0   No   No
+                               0     None
+                               1:94  
+                               95    95 or more
+                               98    Unknown
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV247                  Has bank account                                 223    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+HV252                  Frequency household members smoke inside the ho  224    1    N    I    1    0   No   No
+                               0  Never
+                               1  Daily
+                               2  Weekly
+                               3  Monthly
+                               4  Less than monthly
+                           (m) 9  Missing
+HV253                  NA - Has dwelling been sprayed against mosquito  225    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253A                 NA - Dwelling sprayed by: government worker/pro  226    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253B                 NA - Dwelling sprayed by: private company        227    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253C                 NA - Dwelling sprayed by: NGO                    228    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253D                 NA - Dwelling sprayed by: CS                     229    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253E                 NA - Dwelling sprayed by: CS                     230    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253F                 NA - Dwelling sprayed by: CS                     231    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253G                 NA - Dwelling sprayed by: CS                     232    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253H                 NA - Dwelling sprayed by: CS                     233    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253X                 NA - Dwelling sprayed by: other                  234    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV253Z                 NA - Dwelling sprayed by: don't know             235    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes: don't know who sprayed the dwelling
+                               8  Don't know if it was sprayed
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV270                  Wealth index                                     236    1    N    I    1    0   No   No
+                               1  Poorest
+                               2  Poorer
+                               3  Middle
+                               4  Richer
+                               5  Richest
+HV271                  Wealth index factor score (5 decimals)           237    8    N    I    1    0   No   No
+HML1                   Number of mosquito bed nets                      245    2    N    I    1    0   No   No
+                               0:97  
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HML1A                  Number of mosquito bed nets with specific infor  247    1    N    I    1    0   No   No
+                               0:7  
+                          (na)      Not applicable
+HML2                   Number of children under mosquito bed net previ  248    2    N    I    1    0   No   No
+                               0:50  
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHV005                 State household weight (6 decimals)              250    8    N    I    1    0   No   No
+SHV028                 State weight for households selected for men's   258    8    N    I    1    0   No   No
+SHDISTRI               District                                         266    4    N    I    1    0   No   No
+                               1    Kupwara
+                               2    Badgam
+                               3    Leh
+                               4    Kargil
+                               5    Punch
+                               6    Rajouri
+                               7    Kathua
+                               8    Baramula
+                               9    Bandipore
+                               10   Srinagar
+                               11   Ganderbal
+                               12   Pulwama
+                               13   Shupiyan
+                               14   Anantnag
+                               15   Kulgam
+                               16   Doda
+                               17   Ramban
+                               18   Kishtwar
+                               19   Udhampur
+                               20   Reasi
+                               21   Jammu
+                               22   Samba
+                               23   Chamba
+                               24   Kangra
+                               25   Lahul and Spiti
+                               26   Kullu
+                               27   Mandi
+                               28   Hamirpur
+                               29   Una
+                               30   Bilaspur
+                               31   Solan
+                               32   Sirmaur
+                               33   Shimla
+                               34   Kinnaur
+                               35   Gurdaspur
+                               36   Kapurthala
+                               37   Jalandhar
+                               38   Hoshiarpur
+                               39   Sangrur
+                               40   Fatehgarh Sahib
+                               41   Ludhiana
+                               42   Moga
+                               43   Firozpur
+                               44   Muktsar
+                               45   Faridkot
+                               46   Bathinda
+                               47   Mansa
+                               48   Patiala
+                               49   Amritsar
+                               50   Tarn Taran
+                               51   Rupnagar
+                               52   Sahibzada Ajit Singh Nagar
+                               53   Shahid Bhagat Singh Nagar
+                               54   Barnala
+                               55   Chandigarh
+                               56   Uttarkashi
+                               57   Chamoli
+                               58   Rudraprayag
+                               59   Tehri Garhwal
+                               60   Dehradun
+                               61   Garhwal
+                               62   Pithoragarh
+                               63   Bageshwar
+                               64   Almora
+                               65   Champawat
+                               66   Nainital
+                               67   Udham Singh Nagar
+                               68   Hardwar
+                               69   Panchkula
+                               70   Ambala
+                               71   Yamunanagar
+                               72   Kurukshetra
+                               73   Kaithal
+                               74   Karnal
+                               75   Panipat
+                               76   Sonipat
+                               77   Jind
+                               78   Fatehabad
+                               79   Sirsa
+                               80   Hisar
+                               81   Bhiwani
+                               82   Rohtak
+                               83   Jhajjar
+                               84   Mahendragarh
+                               85   Rewari
+                               86   Gurgaon
+                               87   Mewat
+                               88   Faridabad
+                               89   Palwal
+                               90   North West
+                               91   North
+                               92   North East
+                               93   East
+                               94   New Delhi
+                               95   Central
+                               96   West
+                               97   South West
+                               98   South
+                               99   Ganganagar
+                               100  Hanumangarh
+                               101  Bikaner
+                               102  Churu
+                               103  Jhunjhunun
+                               104  Alwar
+                               105  Bharatpur
+                               106  Dhaulpur
+                               107  Karauli
+                               108  Sawai Madhopur
+                               109  Dausa
+                               110  Jaipur
+                               111  Sikar
+                               112  Nagaur
+                               113  Jodhpur
+                               114  Jaisalmer
+                               115  Barmer
+                               116  Jalor
+                               117  Sirohi
+                               118  Pali
+                               119  Ajmer
+                               120  Tonk
+                               121  Bundi
+                               122  Bhilwara
+                               123  Rajsamand
+                               124  Dungarpur
+                               125  Banswara
+                               126  Chittaurgarh
+                               127  Kota
+                               128  Baran
+                               129  Jhalawar
+                               130  Udaipur
+                               131  Pratapgarh
+                               132  Saharanpur
+                               133  Muzaffarnagar
+                               134  Bijnor
+                               135  Moradabad
+                               136  Rampur
+                               137  Jyotiba Phule Nagar
+                               138  Meerut
+                               139  Baghpat
+                               140  Ghaziabad
+                               141  Gautam Buddha Nagar
+                               142  Bulandshahr
+                               143  Aligarh
+                               144  Mahamaya Nagar
+                               145  Mathura
+                               146  Agra
+                               147  Firozabad
+                               148  Mainpuri
+                               149  Budaun
+                               150  Bareilly
+                               151  Pilibhit
+                               152  Shahjahanpur
+                               153  Kheri
+                               154  Sitapur
+                               155  Hardoi
+                               156  Unnao
+                               157  Lucknow
+                               158  Rae Bareli
+                               159  Farrukhabad
+                               160  Kannauj
+                               161  Etawah
+                               162  Auraiya
+                               163  Kanpur Dehat
+                               164  Kanpur Nagar
+                               165  Jalaun
+                               166  Jhansi
+                               167  Lalitpur
+                               168  Hamirpur
+                               169  Mahoba
+                               170  Banda
+                               171  Chitrakoot
+                               172  Fatehpur
+                               173  Pratapgarh
+                               174  Kaushambi
+                               175  Allahabad
+                               176  Bara Banki
+                               177  Faizabad
+                               178  Ambedkar Nagar
+                               179  Sultanpur
+                               180  Bahraich
+                               181  Shrawasti
+                               182  Balrampur
+                               183  Gonda
+                               184  Siddharth Nagar
+                               185  Basti
+                               186  Sant Kabir Nagar
+                               187  Mahrajganj
+                               188  Gorakhpur
+                               189  Kushinagar
+                               190  Deoria
+                               191  Azamgarh
+                               192  Mau
+                               193  Ballia
+                               194  Jaunpur
+                               195  Ghazipur
+                               196  Chandauli
+                               197  Varanasi
+                               198  Sant Ravidas Nagar (Bhadohi)
+                               199  Mirzapur
+                               200  Sonbhadra
+                               201  Etah
+                               202  Kanshiram Nagar
+                               203  Pashchim Champaran
+                               204  Purba Champaran
+                               205  Sheohar
+                               206  Sitamarhi
+                               207  Madhubani
+                               208  Supaul
+                               209  Araria
+                               210  Kishanganj
+                               211  Purnia
+                               212  Katihar
+                               213  Madhepura
+                               214  Saharsa
+                               215  Darbhanga
+                               216  Muzaffarpur
+                               217  Gopalganj
+                               218  Siwan
+                               219  Saran
+                               220  Vaishali
+                               221  Samastipur
+                               222  Begusarai
+                               223  Khagaria
+                               224  Bhagalpur
+                               225  Banka
+                               226  Munger
+                               227  Lakhisarai
+                               228  Sheikhpura
+                               229  Nalanda
+                               230  Patna
+                               231  Bhojpur
+                               232  Buxar
+                               233  Kaimur (Bhabua)
+                               234  Rohtas
+                               235  Aurangabad
+                               236  Gaya
+                               237  Nawada
+                               238  Jamui
+                               239  Jehanabad
+                               240  Arwal
+                               241  North  District
+                               242  West District
+                               243  South District
+                               244  East District
+                               245  Tawang
+                               246  West Kameng
+                               247  East Kameng
+                               248  Papumpare
+                               249  Upper Subansiri
+                               250  West Siang
+                               251  East Siang
+                               252  Upper Siang
+                               253  Changlang
+                               254  Tirap
+                               255  Lower Subansiri
+                               256  Kurung Kumey
+                               257  Dibang Valley
+                               258  Lower Dibang Valley
+                               259  Lohit
+                               260  Anjaw
+                               261  Mon
+                               262  Mokokchung
+                               263  Zunheboto
+                               264  Wokha
+                               265  Dimapur
+                               266  Phek
+                               267  Tuensang
+                               268  Longleng
+                               269  Kiphire
+                               270  Kohima
+                               271  Peren
+                               272  Senapati (Excluding 3 Sub-Divisions)
+                               273  Tamenglong
+                               274  Churachandpur
+                               275  Bishnupur
+                               276  Thoubal
+                               277  Imphal West
+                               278  Imphal East
+                               279  Ukhrul
+                               280  Chandel
+                               281  Mamit
+                               282  Kolasib
+                               283  Aizawl
+                               284  Champhai
+                               285  Serchhip
+                               286  Lunglei
+                               287  Lawngtlai
+                               288  Saiha
+                               289  West Tripura
+                               290  South Tripura
+                               291  Dhalai
+                               292  North Tripura
+                               293  West Garo Hills
+                               294  East Garo Hills
+                               295  South Garo Hills
+                               296  West Khasi Hills
+                               297  Ribhoi
+                               298  East Khasi Hills
+                               299  Jaintia Hills
+                               300  Kokrajhar
+                               301  Dhubri
+                               302  Goalpara
+                               303  Barpeta
+                               304  Morigaon
+                               305  Nagaon
+                               306  Sonitpur
+                               307  Lakhimpur
+                               308  Dhemaji
+                               309  Tinsukia
+                               310  Dibrugarh
+                               311  Sivasagar
+                               312  Jorhat
+                               313  Golaghat
+                               314  Karbi Anglong
+                               315  Dima Hasao
+                               316  Cachar
+                               317  Karimganj
+                               318  Hailakandi
+                               319  Bongaigaon
+                               320  Chirang
+                               321  Kamrup
+                               322  Kamrup Metropolitan
+                               323  Nalbari
+                               324  Baksa
+                               325  Darrang
+                               326  Udalguri
+                               327  Darjiling
+                               328  Jalpaiguri
+                               329  Koch Bihar
+                               330  Uttar Dinajpur
+                               331  Dakshin Dinajpur
+                               332  Maldah
+                               333  Murshidabad
+                               334  Birbhum
+                               335  Barddhaman
+                               336  Nadia
+                               337  North Twenty Four Parganas
+                               338  Hugli
+                               339  Bankura
+                               340  Puruliya
+                               341  Haora
+                               342  Kolkata
+                               343  South Twenty Four Parganas
+                               344  Paschim Medinipur
+                               345  Purba Medinipur
+                               346  Garhwa
+                               347  Chatra
+                               348  Kodarma
+                               349  Giridih
+                               350  Deoghar
+                               351  Godda
+                               352  Sahibganj
+                               353  Pakur
+                               354  Dhanbad
+                               355  Bokaro
+                               356  Lohardaga
+                               357  Purbi Singhbhum
+                               358  Palamu
+                               359  Latehar
+                               360  Hazaribagh
+                               361  Ramgarh
+                               362  Dumka
+                               363  Jamtara
+                               364  Ranchi
+                               365  Khunti
+                               366  Gumla
+                               367  Simdega
+                               368  Pashchimi Singhbhum
+                               369  Saraikela Kharsawan
+                               370  Bargarh
+                               371  Jharsuguda
+                               372  Sambalpur
+                               373  Debagarh
+                               374  Sundargarh
+                               375  Kendujhar
+                               376  Mayurbhanj
+                               377  Baleshwar
+                               378  Bhadrak
+                               379  Kendrapara
+                               380  Jagatsinghapur
+                               381  Cuttack
+                               382  Jajapur
+                               383  Dhenkanal
+                               384  Anugul
+                               385  Nayagarh
+                               386  Khordha
+                               387  Puri
+                               388  Ganjam
+                               389  Gajapati
+                               390  Kandhamal
+                               391  Baudh
+                               392  Subarnapur
+                               393  Balangir
+                               394  Nuapada
+                               395  Kalahandi
+                               396  Rayagada
+                               397  Nabarangapur
+                               398  Koraput
+                               399  Malkangiri
+                               400  Korea (Koriya)
+                               401  Surguja
+                               402  Jashpur
+                               403  Raigarh
+                               404  Korba
+                               405  Janjgir - Champa
+                               406  Bilaspur
+                               407  Kabirdham
+                               408  Rajnandgaon
+                               409  Durg
+                               410  Raipur
+                               411  Mahasamund
+                               412  Dhamtari
+                               413  Uttar Bastar Kanker
+                               414  Bastar
+                               415  Narayanpur
+                               416  Dakshin Bastar Dantewada
+                               417  Bijapur
+                               418  Sheopur
+                               419  Morena
+                               420  Bhind
+                               421  Gwalior
+                               422  Datia
+                               423  Shivpuri
+                               424  Tikamgarh
+                               425  Chhatarpur
+                               426  Panna
+                               427  Sagar
+                               428  Damoh
+                               429  Satna
+                               430  Rewa
+                               431  Umaria
+                               432  Neemuch
+                               433  Mandsaur
+                               434  Ratlam
+                               435  Ujjain
+                               436  Shajapur
+                               437  Dewas
+                               438  Dhar
+                               439  Indore
+                               440  Khargone (West Nimar)
+                               441  Barwani
+                               442  Rajgarh
+                               443  Vidisha
+                               444  Bhopal
+                               445  Sehore
+                               446  Raisen
+                               447  Betul
+                               448  Harda
+                               449  Hoshangabad
+                               450  Katni
+                               451  Jabalpur
+                               452  Narsimhapur
+                               453  Dindori
+                               454  Mandla
+                               455  Chhindwara
+                               456  Seoni
+                               457  Balaghat
+                               458  Guna
+                               459  Ashoknagar
+                               460  Shahdol
+                               461  Anuppur
+                               462  Sidhi
+                               463  Singrauli
+                               464  Jhabua
+                               465  Alirajpur
+                               466  Khandwa (East Nimar)
+                               467  Burhanpur
+                               468  Kachchh
+                               469  Banaskantha
+                               470  Patan
+                               471  Mahesana
+                               472  Sabarkantha
+                               473  Gandhinagar
+                               474  Ahmadabad
+                               475  Surendranagar
+                               476  Rajkot
+                               477  Jamnagar
+                               478  Porbandar
+                               479  Junagadh
+                               480  Amreli
+                               481  Bhavnagar
+                               482  Anand
+                               483  Kheda
+                               484  Panchmahal
+                               485  Dohad
+                               486  Vadodara
+                               487  Narmada
+                               488  Bharuch
+                               489  The Dangs
+                               490  Navsari
+                               491  Valsad
+                               492  Surat
+                               493  Tapi
+                               494  Diu
+                               495  Daman
+                               496  Dadra & Nagar Haveli
+                               497  Nandurbar
+                               498  Dhule
+                               499  Jalgaon
+                               500  Buldana
+                               501  Akola
+                               502  Washim
+                               503  Amravati
+                               504  Wardha
+                               505  Nagpur
+                               506  Bhandara
+                               507  Gondiya
+                               508  Gadchiroli
+                               509  Chandrapur
+                               510  Yavatmal
+                               511  Nanded
+                               512  Hingoli
+                               513  Parbhani
+                               514  Jalna
+                               515  Aurangabad
+                               516  Nashik
+                               517  Thane
+                               518  Mumbai Suburban
+                               519  Mumbai
+                               520  Raigarh
+                               521  Pune
+                               522  Ahmadnagar
+                               523  Bid
+                               524  Latur
+                               525  Osmanabad
+                               526  Solapur
+                               527  Satara
+                               528  Ratnagiri
+                               529  Sindhudurg
+                               530  Kolhapur
+                               531  Sangli
+                               532  Adilabad
+                               533  Nizamabad
+                               534  Karimnagar
+                               535  Medak
+                               536  Hyderabad
+                               537  Rangareddy
+                               538  Mahbubnagar
+                               539  Nalgonda
+                               540  Warangal
+                               541  Khammam
+                               542  Srikakulam
+                               543  Vizianagaram
+                               544  Visakhapatnam
+                               545  East Godavari
+                               546  West Godavari
+                               547  Krishna
+                               548  Guntur
+                               549  Prakasam
+                               550  Sri Potti Sriramulu Nellore
+                               551  Y.S.R.
+                               552  Kurnool
+                               553  Anantapur
+                               554  Chittoor
+                               555  Belgaum
+                               556  Bagalkot
+                               557  Bijapur
+                               558  Bidar
+                               559  Raichur
+                               560  Koppal
+                               561  Gadag
+                               562  Dharwad
+                               563  Uttara Kannada
+                               564  Haveri
+                               565  Bellary
+                               566  Chitradurga
+                               567  Davanagere
+                               568  Shimoga
+                               569  Udupi
+                               570  Chikmagalur
+                               571  Tumkur
+                               572  Bangalore
+                               573  Mandya
+                               574  Hassan
+                               575  Dakshina Kannada
+                               576  Kodagu
+                               577  Mysore
+                               578  Chamarajanagar
+                               579  Gulbarga
+                               580  Yadgir
+                               581  Kolar
+                               582  Chikkaballapura
+                               583  Bangalore Rural
+                               584  Ramanagara
+                               585  North Goa
+                               586  South Goa
+                               587  Lakshadweep
+                               588  Kasaragod
+                               589  Kannur
+                               590  Wayanad
+                               591  Kozhikode
+                               592  Malappuram
+                               593  Palakkad
+                               594  Thrissur
+                               595  Ernakulam
+                               596  Idukki
+                               597  Kottayam
+                               598  Alappuzha
+                               599  Pathanamthitta
+                               600  Kollam
+                               601  Thiruvananthapuram
+                               602  Thiruvallur
+                               603  Chennai
+                               604  Kancheepuram
+                               605  Vellore
+                               606  Tiruvannamalai
+                               607  Viluppuram
+                               608  Salem
+                               609  Namakkal
+                               610  Erode
+                               611  The Nilgiris
+                               612  Dindigul
+                               613  Karur
+                               614  Tiruchirappalli
+                               615  Perambalur
+                               616  Ariyalur
+                               617  Cuddalore
+                               618  Nagapattinam
+                               619  Thiruvarur
+                               620  Thanjavur
+                               621  Pudukkottai
+                               622  Sivaganga
+                               623  Madurai
+                               624  Theni
+                               625  Virudhunagar
+                               626  Ramanathapuram
+                               627  Thoothukkudi
+                               628  Tirunelveli
+                               629  Kanniyakumari
+                               630  Dharmapuri
+                               631  Krishnagiri
+                               632  Coimbatore
+                               633  Tiruppur
+                               634  Yanam
+                               635  Puducherry
+                               636  Mahe
+                               637  Karaikal
+                               638  Nicobars
+                               639  North & Middle Andaman
+                               640  South Andaman
+SHSLUMC                Slum designation by sample frame                 270    1    N    I    1    0   No   No
+                               0  Non-slum
+                               1  Slum
+                          (na)    Not applicable
+SHSLUMO                Slum designation by observation                  271    1    N    I    1    0   No   No
+                               0  Non-slum
+                               1  Slum
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHCONSENT              Consent agreement                                272    1    N    I    1    0   No   No
+                               0  Respondent does not agree to be interviewed
+                               1  Respondent agrees to be interviewed
+                          (na)    Not applicable
+SHLANGQ                Language of questionnaire                        273    2    N    I    1    0   No   No
+                               1   Assamese
+                               2   Bengali
+                               3   Gujarati
+                               4   Hindi
+                               5   Kannada
+                               6   Kashmiri
+                               7   Konkani
+                               8   Malayalam
+                               9   Manipuri
+                               10  Marathi
+                               11  Nepali
+                               12  Oriya
+                               13  Punjabi
+                               14  Sindhi
+                               15  Tamil
+                               16  Telugu
+                               17  Urdu
+                               18  English
+                               19  Garo
+                               20  Khasi
+                               21  Mizoram
+                          (na)     Not applicable
+SHLANGRM               Respondent's mother tongue                       275    2    N    I    1    0   No   No
+                               1   Assamese
+                               2   Bengali
+                               3   Gujarati
+                               4   Hindi
+                               5   Kannada
+                               6   Kashmiri
+                               7   Konkani
+                               8   Malayalam
+                               9   Manipuri
+                               10  Marathi
+                               11  Nepali
+                               12  Oriya
+                               13  Punjabi
+                               14  Sindhi
+                               15  Tamil
+                               16  Telugu
+                               17  Urdu
+                               18  English
+                               19  Garo
+                               20  Khasi
+                               21  Mizoram
+                               96  Other
+                          (na)     Not applicable
+SHLANGI                Language of the interview                        277    2    N    I    1    0   No   No
+                               1   Assamese
+                               2   Bengali
+                               3   Gujarati
+                               4   Hindi
+                               5   Kannada
+                               6   Kashmiri
+                               7   Konkani
+                               8   Malayalam
+                               9   Manipuri
+                               10  Marathi
+                               11  Nepali
+                               12  Oriya
+                               13  Punjabi
+                               14  Sindhi
+                               15  Tamil
+                               16  Telugu
+                               17  Urdu
+                               18  English
+                               19  Garo
+                               20  Khasi
+                               21  Mizoram
+                               96  Other
+                          (na)     Not applicable
+SHTRANSL               Translator used?                                 279    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH23                   Any usual resident of the household suffers fro  280    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SH34                   Household head's religion                        281    2    N    I    1    0   No   No
+                               1   Hindu
+                               2   Muslim
+                               3   Christian
+                               4   Sikh
+                               5   Buddhist/Neo-Buddhist
+                               6   Jain
+                               7   Jewish
+                               8   Parsi/Zoroastrian
+                               9   No religion
+                               96  other
+                           (m) 99  Missing
+                          (na)     Not applicable
+SH35                   Caste or tribe of household head                 283    3    N    I    1    0   No   No
+                               991  Caste
+                               992  Tribe
+                               993  No caste/tribe
+                               998  Don't know
+                           (m) 999  Missing
+                          (na)      Not applicable
+SH36                   Type of caste or tribe of the household head     286    1    N    I    1    0   No   No
+                               1  Scheduled caste
+                               2  Scheduled tribe
+                               3  Other Backward Class
+                               4  None of above
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+SH37B                  Mattress                                         287    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37C                  Pressure cooker                                  288    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37D                  Chair                                            289    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37E                  Cot or bed                                       290    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37F                  Table                                            291    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37G                  Electric fan                                     292    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37I                  Black and white television                       293    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37J                  Colour television                                294    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37K                  Sewing machine                                   295    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37N                  Internet                                         296    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37O                  Computer                                         297    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37Q                  Air conditioner/cooler                           298    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37R                  Washing machine                                  299    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37X                  Water pump                                       300    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37Y                  Thresher                                         301    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH37Z                  Tractor                                          302    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH46                   Member of household owns this house or any othe  303    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH47                   Gender of person owning house                    304    1    N    I    1    0   No   No
+                               1  Male member
+                               2  Female member
+                               3  Both
+                               8  Don't know
+                          (na)    Not applicable
+SH49                   Gender of person owning agricultural land        305    1    N    I    1    0   No   No
+                               1  Male member
+                               2  Female member
+                               3  Both
+                               8  Don't know
+                          (na)    Not applicable
+HV245I                 Hectares of irrigated agricultural land (1 deci  306    3    N    I    1    0   No   No
+                               0      Less than 0.1 hectares
+                               1:949  
+                               950    95.0 hectares or more
+                               995    No irrigated agricultural land
+                               998    Unknown
+                           (m) 999    Missing
+                          (na)        Not applicable
+SH52A                  Cows/bulls/buffaloes                             309    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH52B                  Camels                                           310    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH52C                  Horses/donkeys/mules                             311    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH52D                  Goats                                            312    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH52E                  Sheep                                            313    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH52F                  Chickens/ducks                                   314    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+SH54                   Member of household covered by a health scheme   315    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+SH55A                  Health scheme/insurance: ESIS                    316    1    N    I    1    0   No   No
+                               0  No
+                               1  ESIS
+                          (na)    Not applicable
+SH55B                  Health scheme/insurance: CGHS                    317    1    N    I    1    0   No   No
+                               0  No
+                               1  CGHS
+                          (na)    Not applicable
+SH55C                  Health scheme/insurance: State health insurance  318    1    N    I    1    0   No   No
+                               0  No
+                               1  State health insurance scheme
+                          (na)    Not applicable
+SH55D                  Health scheme/insurance: Rashtriya Swasthya Bim  319    1    N    I    1    0   No   No
+                               0  No
+                               1  Rashtriya Swasthya Bima Yojana (RSBY)
+                          (na)    Not applicable
+SH55E                  Health scheme/insurance: Comm Health Insurance   320    1    N    I    1    0   No   No
+                               0  No
+                               1  Comm Health Insurance Programme
+                          (na)    Not applicable
+SH55F                  Health scheme/insurance: other health insurance  321    1    N    I    1    0   No   No
+                               0  No
+                               1  other health insurance through employer
+                          (na)    Not applicable
+SH55G                  Health scheme/insurance: Medical reimbursement   322    1    N    I    1    0   No   No
+                               0  No
+                               1  Medical reimbursement from employer
+                          (na)    Not applicable
+SH55H                  Health scheme/insurance: other privately purcha  323    1    N    I    1    0   No   No
+                               0  No
+                               1  other privately purchased comm health insurance
+                          (na)    Not applicable
+SH55X                  Health scheme/insurance: other                   324    1    N    I    1    0   No   No
+                               0  No
+                               1  other
+                          (na)    Not applicable
+SH56                   Where household members generally go for treatm  325    2    N    I    1    0   No   No
+                               11  Public: Government/municipal hospital
+                               12  Public: Government dispensary
+                               13  Public: UHC/UHP/UFWC
+                               14  Public: CHC/rural hospital/block PHC
+                               15  Public: PHC/additional PHC
+                               16  Public: Sub-centre
+                               17  Public: Vaidya/hakim/homeopath (AYUSH)
+                               18  Public: ANGANWADI/ICDS centre
+                               19  Public: ASHA
+                               20  Public: Government mobile clinic
+                               21  Other public sector
+                               31  NGO or trust hospital/clinic
+                               41  Private hospital
+                               42  Private doctor/clinic
+                               43  Private paramedic
+                               44  Private: Vaidya/hakim/homeopath (AYUSH)
+                               45  Private: Traditional healer
+                               46  Private: Pharmacy/drugstore
+                               47  Private: DAI (TBA)
+                               48  Other private sector
+                               51  Shop
+                               52  Home treatment
+                               96  Other
+                          (na)     Not applicable
+SH57A                  Reason HH members don't use govt facility: No n  327    1    N    I    1    0   No   No
+                               0  No
+                               1  No nearby facility
+                          (na)    Not applicable
+SH57B                  Reason HH members don't use govt facility: Faci  328    1    N    I    1    0   No   No
+                               0  No
+                               1  Facility timing not convenient
+                          (na)    Not applicable
+SH57C                  Reason HH members don't use govt facility: Heal  329    1    N    I    1    0   No   No
+                               0  No
+                               1  Health personnel often absent
+                          (na)    Not applicable
+SH57D                  Reason HH members don't use govt facility: Wait  330    1    N    I    1    0   No   No
+                               0  No
+                               1  Waiting time too long
+                          (na)    Not applicable
+SH57E                  Reason HH members don't use govt facility: Poor  331    1    N    I    1    0   No   No
+                               0  No
+                               1  Poor quality of care
+                          (na)    Not applicable
+SH57X                  Reason HH members don't use govt facility: othe  332    1    N    I    1    0   No   No
+                               0  No
+                               1  other
+                          (na)    Not applicable
+SH58                   Household has a BPL card                         333    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                          (na)    Not applicable
+SH61A                  Place mosquito nets came from: Purchased from m  334    1    N    I    1    0   No   No
+                               0  No
+                               1  Purchased from the market
+                          (na)    Not applicable
+SH61B                  Place mosquito nets came from: Government        335    1    N    I    1    0   No   No
+                               0  No
+                               1  Government
+                          (na)    Not applicable
+SH61C                  Place mosquito nets came from: Supplied by NGO/  336    1    N    I    1    0   No   No
+                               0  No
+                               1  Supplied by NGO/trust
+                          (na)    Not applicable
+SH61X                  Place mosquito nets came from: other             337    1    N    I    1    0   No   No
+                               0  No
+                               1  Other
+                          (na)    Not applicable
+SH61Z                  Place mosquito nets came from: Don't know        338    1    N    I    1    0   No   No
+                               0  No
+                               1  Don't know
+                          (na)    Not applicable
+SH70                   Any usual member of the household died since Ja  339    1    N    I    1    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                          (na)    Not applicable
+SH71                   Total number of deaths since January 2011        340    2    N    I    1    0   No   No
+                               1:10  Deaths
+                          (na)       Not applicable
+SH39                   In this household, is food cooked on a stove, a  342    1    N    I    1    0   No   No
+                               1  Stove
+                               2  Chullah
+                               3  Open fire
+                               6  Other
+SHNFHS2                House type (as defined in NFHS-2 and 3)          343    1    N    I    1    0   No   No
+                               1  Kachha
+                               2  semi-Pucca
+                               3  Pucca
+                           (m) 9  Missing
+SHSTRUC                Household structure                              344    1    N    I    1    0   No   No
+                               1  Nuclear
+                               2  Non-nuclear
+SH50                   Agricultural land (WITHOUT units specified) (1   345    3    N    I    1    0   No   No
+                               0      Less than 0.1 units
+                               1:949  
+                               950    95.0 units or more
+                               998    Unknown
+                           (m) 999    Missing
+                          (na)        Not applicable
+SH51                   Irrigated agricultural land (WITHOUT units spec  348    3    N    I    1    0   No   No
+                               0      Less than 0.1 units
+                               1:949  
+                               950    95.0 units or more
+                               995    No irrigated agricultural land
+                               998    Unknown
+                           (m) 999    Missing
+                          (na)        Not applicable
+AGLAND                 Agricultural land status                         351    1    N    I    1    0   No   No
+                               1  No agricultural land
+                               3  Irrigated agricultural land only
+                               4  Non-irrigated agricultural land only
+                               5  Both irrigated and non-irrigated agricultural land
+                               6  Agricultural land, irrigation not determined
+                           (m) 9  Missing
+SV270S                 Wealth index within state                        352    1    N    I    1    0   No   No
+                               1  Poorest
+                               2  Poorer
+                               3  Middle
+                               4  Richer
+                               5  Richest
+SV270U                 Wealth index - urban                             353    1    N    I    1    0   No   No
+                               1  Poorest
+                               2  Poorer
+                               3  Middle
+                               4  Richer
+                               5  Richest
+SV271U                 Wealth index factor score (5 decimals) - urban   354    8    N    I    1    0   No   No
+SV270US                Wealth index - urban within state                362    1    N    I    1    0   No   No
+                               1  Poorest
+                               2  Poorer
+                               3  Middle
+                               4  Richer
+                               5  Richest
+SV270R                 Wealth index - rural                             363    1    N    I    1    0   No   No
+                               1  Poorest
+                               2  Poorer
+                               3  Middle
+                               4  Richer
+                               5  Richest
+SV271R                 Wealth index factor score (5 decimals) - rural   364    8    N    I    1    0   No   No
+SV270RS                Wealth index - rural within state                372    1    N    I    1    0   No   No
+                               1  Poorest
+                               2  Poorer
+                               3  Middle
+                               4  Richer
+                               5  Richest
+SH50U                  Unit of measurement for agricultural land (see:  373    1    N    I    1    0   No   No
+                               1  Acres
+                               2  Hectares
+                               6  Other type of measurement
+SHPHASE                Questionnaire version: education questions       374    1    N    I    1    0   No   No
+                               1  Phase 1: 2014-15 school year
+                               2  Phase 2: 2015-16 school year
+HVIDX                  Line number                                      375    2    N    I   41    0   No   No
+                               1:90  
+HV101                  Relationship to head                             457    2    N    I   41    0   No   No
+                               1   Head
+                               2   Wife or husband
+                               3   Son/daughter
+                               4   Son/daughter-in-law
+                               5   Grandchild
+                               6   Parent
+                               7   Parent-in-law
+                               8   Brother/sister
+                               10  Other relative
+                               11  Adopted/foster child
+                               12  Not related
+                               15  Brother-in-law/sister-in-law
+                               16  Niece/nephew
+                               17  Domestic servant
+                               98  Don't know
+                           (m) 99  Missing
+HV102                  Usual resident                                   539    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV103                  Slept last night                                 580    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV104                  Sex of household member                          621    1    N    I   41    0   No   No
+                               1  Male
+                               2  Female
+                           (m) 9  Missing
+HV105                  Age of household members                         662    2    N    I   41    0   No   No
+                               0:94  
+                               95    95+
+                               98    Don't know
+                           (m) 99    Missing
+HV106                  Highest educational level attained               744    1    N    I   41    0   No   No
+                               0  No education, preschool
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+HV107                  Highest year of education completed              785    2    N    I   41    0   No   No
+                               0:20  
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV108                  Education completed in single years              867    2    N    I   41    0   No   No
+                               0:25  
+                               97    Inconsistent
+                               98    Don't know
+                           (m) 99    Missing
+HV109                  Educational attainment                           949    1    N    I   41    0   No   No
+                               0  No education
+                               1  Incomplete primary
+                               2  Complete primary
+                               3  Incomplete secondary
+                               4  Complete secondary
+                               5  Higher
+                               8  Don't know
+                           (m) 9  Missing
+HV110                  NA - Member still in school                      990    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV111                  Mother alive                                    1031    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV112                  Mother's line number                            1072    2    N    I   41    0   No   No
+                               0     Mother not in household
+                               1:90  
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV113                  Father alive                                    1154    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV114                  Father's line number                            1195    2    N    I   41    0   No   No
+                               0     Father not in household
+                               1:90  
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV115                  Current marital status                          1277    1    N    I   41    0   No   No
+                               0  Never married [includes: married gauna not performed]
+                               1  Married
+                               2  Living together
+                               3  Widowed
+                               4  Divorced
+                               5  Not living together
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV116                  Currently, formerly, never married              1318    1    N    I   41    0   No   No
+                               0  Never married
+                               1  Currently married
+                               2  Formerly/ever married
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV117                  Eligibility for female interview                1359    1    N    I   41    0   No   No
+                               0  Not eligible
+                               1  Eligible
+                          (na)    Not applicable
+HV118                  Eligibility for male interview                  1400    1    N    I   41    0   No   No
+                               0  Not eligible
+                               1  Eligible
+                          (na)    Not applicable
+HV120                  Children eligibility for height/weight and hemo 1441    1    N    I   41    0   No   No
+                               0  Not eligible
+                               1  Eligible
+                          (na)    Not applicable
+HV121                  Member attended school during current school ye 1482    1    N    I   41    0   No   No
+                               0  No
+                               1  Currently attending
+                               2  Attended at some time
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV122                  Educational level during current school year    1523    1    N    I   41    0   No   No
+                               0  No education, preschool
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+HV123                  Grade of education during current school year   1564    2    N    I   41    0   No   No
+                               0:20  
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV124                  Education in single years - current school year 1646    2    N    I   41    0   No   No
+                               0:20  
+                               97    Inconsistent
+                               98    Don't know
+                           (m) 99    Missing
+HV125                  NA - Member attended school during previous sch 1728    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HV126                  NA - Educational level during previous school y 1769    1    N    I   41    0   No   No
+                               0  No education, preschool
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+HV127                  NA - Grade of education during previous school  1810    2    N    I   41    0   No   No
+                               0:20  
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HV128                  NA - Education in single years - previous schoo 1892    2    N    I   41    0   No   No
+                               0:20  
+                               97    Inconsistent
+                               98    Don't know
+                           (m) 99    Missing
+HV129                  NA - School attendance status                   1974    1    N    I   41    0   No   No
+                               0  Never attended
+                               1  Entered school
+                               2  Advanced
+                               3  Repeating
+                               4  Drop-out
+                               5  Left school 2+ years ago
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HV140                  Member has a birth certificate                  2015    1    N    I   41    0   No   No
+                               0  Neither certificate or registered
+                               1  Has certificate
+                               2  Registered
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+IDXH4                  Index to Household Schedule                     2056    2    N    I   41    0   No   No
+                               1:90  
+SH08                   Current marital status [age 13+]                2138    1    N    I   41    0   No   No
+                               0  Never married
+                               1  Currently married
+                               2  Married, but Gauna not performed
+                               3  Widowed
+                               4  Divorced
+                               5  Separated
+                               6  Deserted
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+SH21A                  Aadhaar/ID card                                 2179    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+SH24                   Suffers from TB                                 2220    1    N    I   41    0   No   No
+                               0  Not listed as suffering from TB
+                               1  Yes
+SH24A                  Location where treated for TB                   2261    1    N    I   41    0   No   No
+                               0  No place
+                               1  Yes, public sector only
+                               2  Yes, private sector only
+                               3  Yes, both sectors
+                               8  Don't know
+                          (na)    Not applicable
+SHB12A                 30 minutes prior to BP measure: eaten           2302    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB12B                 30 minutes prior to BP measure: had coffee, tea 2343    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB12C                 30 minutes prior to BP measure: smoked any toba 2384    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB12D                 30 minutes prior to BP measure: use any other t 2425    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB13                  Arm circumference                               2466    2    N    I   41    0   No   No
+                               5:80  Arm circumference (cm)
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB14                  Blood pressure monitor cuff size                2548    1    N    I   41    0   No   No
+                               1  Small: 17cm-22cm
+                               2  Medium: 23cm-31cm
+                               3  Large: 32cm-42cm
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB15H                 Time of first BP reading: hour                  2589    2    N    I   41    0   No   No
+                               2:23  Hours
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB15M                 Time of first BP reading: minutes               2671    2    N    I   41    0   No   No
+                               0:59  Minutes
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB16S                 First SYSTOLIC reading                          2753    3    N    I   41    0   No   No
+                               0:990  Systolic reading
+                               994    Refused
+                               995    Technical problem
+                               996    Other
+                           (m) 999    Missing
+                          (na)        Not applicable
+SHB16D                 First DIASTOLIC reading                         2876    3    N    I   41    0   No   No
+                               0:990  Diastolic reading
+                               994    Refused
+                               995    Technical problem
+                               996    Other
+                           (m) 999    Missing
+                          (na)        Not applicable
+SHB17                  Blood pressure ever been checked previously     2999    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB18                  Told had high BP on two or more occasions by do 3040    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB19                  Currently taking a prescribed medicine to lower 3081    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB22H                 Time of second BP reading: hour                 3122    2    N    I   41    0   No   No
+                               2:23  Hours
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB22M                 Time of second BP reading: minutes              3204    2    N    I   41    0   No   No
+                               0:59  Minutes
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB23S                 Second SYSTOLIC reading                         3286    3    N    I   41    0   No   No
+                               0:990  Systolic reading
+                               994    Refused
+                               995    Technical problem
+                               996    Other
+                           (m) 999    Missing
+                          (na)        Not applicable
+SHB23D                 Second DIASTOLIC reading                        3409    3    N    I   41    0   No   No
+                               0:990  Diastolic reading
+                               994    Refused
+                               995    Technical problem
+                               996    Other
+                           (m) 999    Missing
+                          (na)        Not applicable
+SHB26H                 Time of third BP reading: hour                  3532    2    N    I   41    0   No   No
+                               2:23  Hours
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB26M                 Time of third BP reading: minutes               3614    2    N    I   41    0   No   No
+                               0:59  Minutes
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB27S                 Third SYSTOLIC reading                          3696    3    N    I   41    0   No   No
+                               0:990  Systolic reading
+                               994    Refused
+                               995    Technical problem
+                               996    Other
+                           (m) 999    Missing
+                          (na)        Not applicable
+SHB27D                 Third DIASTOLIC reading                         3819    3    N    I   41    0   No   No
+                               0:990  Diastolic reading
+                               994    Refused
+                               995    Technical problem
+                               996    Other
+                           (m) 999    Missing
+                          (na)        Not applicable
+SHB51                  Time since last ate                             3942    2    N    I   41    0   No   No
+                               0:48  Hours ago
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB52                  Time since last drank, something other than pla 4024    2    N    I   41    0   No   No
+                               0:94  Hours ago
+                               95    95+ hours ago
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB69H                 Time of blood glucose reading: hour             4106    2    N    I   41    0   No   No
+                               2:23  Hours
+                               96    Not tested
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB69M                 Time of blood glucose reading: minutes          4188    2    N    I   41    0   No   No
+                               0:59  Minutes
+                               96    Not tested
+                           (m) 99    Missing
+                          (na)       Not applicable
+SHB70                  Glucose level                                   4270    3    N    I   41    0   No   No
+                               20:498  Glucose level (mg/dL)
+                               499     499 (mg/dL) +
+                               995     Refused
+                               996     Other
+                               998     Not tested
+                           (m) 999     Missing
+                          (na)         Not applicable
+SHBSEL                 Biomarker Unit selection                        4393    1    N    I   41    0   No   No
+                               0  Not selected
+                               1  Selected
+                          (na)    Not applicable
+SH21                   Main reason not attending school                4434    2    N    I   41    0   No   No
+                               1   School too far away
+                               2   Transport not available
+                               3   Further education not considered necessary
+                               4   Required for household work
+                               5   Required for work on farm/family business
+                               6   Required for outside work for payment in cash or kind
+                               7   Costs too much
+                               8   No proper school facilities for girls
+                               9   Not safe to send girls
+                               10  No female teacher
+                               11  Required for care of siblings
+                               12  Not interested in studies
+                               13  Repeated failures
+                               14  Got married
+                               15  Did not get admission
+                               96  Other
+                               98  Don't know
+SHB10                  Read consent statement - blood pressure         4516    1    N    I   41    0   No   No
+                               1  Granted
+                               2  Parent/other responsible refused
+                               3  Respondent refused
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB20                  Read consent statement - blood glucose          4557    1    N    I   41    0   No   No
+                               1  Granted
+                               2  Parent/other responsible refused
+                               3  Respondent refused
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB21                  Consent given for second blood pressure reading 4598    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+SHB25                  Consent given for third blood pressure reading  4639    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA0                    Index to Household Schedule                     4680    2    N    I   12    0   No   No
+                               1:90  
+HA1                    Woman's age in years                            4704    2    N    I   12    0   No   No
+                               14:49  
+HA2                    Woman's weight in kilograms (1 decimal)         4728    4    N    I   12    0   No   No
+                               150:2000  
+                               9994      Not present
+                               9995      Refused
+                               9996      Other
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HA3                    Woman's height in centimeters (1 decimal)       4776    4    N    I   12    0   No   No
+                               500:2200  
+                               9994      Not present
+                               9995      Refused
+                               9996      Other
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HA4                    Height/Age percentile                           4824    4    N    I   12    0   No   No
+                               0:9997  
+                               9998    Flagged cases
+                           (m) 9999    Missing
+                          (na)         Not applicable
+HA5                    Height/Age standard deviation                   4872    4    N    I   12    0   No   No
+                               -600:600  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HA6                    Height/Age percent ref. median                  4920    5    N    I   12    0   No   No
+                               7500:12487  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HA11                   Weight/Height standard deviation (DHS)          4980    4    N    I   12    0   No   No
+                               -400:600  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HA12                   Weight/Height percent ref. median (DHS)         5028    5    N    I   12    0   No   No
+                               5500:25000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HA12A                  Weight/Height percent ref. median (Fog)         5088    5    N    I   12    0   No   No
+                               5547:34453  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HA12B                  Weight/Height percent ref. median (WHO)         5148    5    N    I   12    0   No   No
+                               6000:30000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HA13                   Result of measurement - height/weight           5208    1    N    I   12    0   No   No
+                               0  Measured
+                               3  Not present
+                               4  Refused
+                               6  Other
+                           (m) 9  Missing
+HA32                   Date of birth (CMC)                             5220    4    N    I   12    0   No   No
+HA33                   Completeness of HA32 information                5268    1    N    I   12    0   No   No
+                               1  Month and year - information complete
+                               2  Month and age - year imputed
+                               3  Year and age - month imputed
+                               4  Year and age - year ignored
+                               5  Year - age/month imputed
+                               6  Age - year/month imputed
+                               7  Month - age/year imputed
+                               8  None - all imputed
+                          (na)    Not applicable
+HA35                   Smoking (cigarettes in last 24 hours)           5280    2    N    I   12    0   No   No
+                               0     Doesn't smoke
+                               1:79  
+                               80    80+
+                               94    Smokes pipes, cigars, etc
+                           (m) 99    Missing
+                          (na)       Not applicable
+HA40                   Body Mass Index                                 5304    4    N    I   12    0   No   No
+                               1200:6000  
+                               9998       Flagged cases
+                           (m) 9999       Missing
+                          (na)            Not applicable
+HA41                   Rohrer's index                                  5352    4    N    I   12    0   No   No
+                               600:7000  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HA50                   Under age 18                                    5400    1    N    I   12    0   No   No
+                               1  Under age 18
+                               2  Age 18 or older
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA51                   Line number of parent/caretaker                 5412    2    N    I   12    0   No   No
+                               0     Not in household
+                               1:50  
+                           (m) 99    Missing
+                          (na)       Not applicable
+HA52                   Read consent statement - hemoglobin             5436    1    N    I   12    0   No   No
+                               1  Granted
+                               2  Parent/other responsible refused
+                               3  Respondent refused
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA53                   Hemoglobin level (g/dl - 1 decimal)             5448    3    N    I   12    0   No   No
+                               20:900  
+                               994     Not present
+                               995     Refused
+                               996     Other
+                               998     Not tested
+                           (m) 999     Missing
+                          (na)         Not applicable
+HA54                   Currently pregnant                              5484    1    N    I   12    0   No   No
+                               0  No/don't know
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA55                   Result of measurement - hemoglobin              5496    1    N    I   12    0   No   No
+                               0  Measured
+                               3  Not present
+                               4  Refused
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA56                   Hemoglobin level adjusted for altitude and smok 5508    3    N    I   12    0   No   No
+                               0:900  
+                               994    Not present
+                               995    Refused
+                               996    Other
+                               998    Not tested
+                           (m) 999    Missing
+                          (na)        Not applicable
+HA57                   Anemia level                                    5544    1    N    I   12    0   No   No
+                               1  Severe
+                               2  Moderate
+                               3  Mild
+                               4  Not anemic
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA58                   NA - Agrees to referral - anemia                5556    1    N    I   12    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA60                   Marital status                                  5568    1    N    I   12    0   No   No
+                               1  Never in union
+                               2  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA61                   Read consent statement - HIV                    5580    1    N    I   12    0   No   No
+                               1  Granted
+                               2  Parent/other responsible refused
+                               3  Respondent refused
+                               4  Sample not tested/lost/not enough DBS
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA62                   Bar code for HIV blood sample                   5592    6   AN    I   12    0   No   No
+                               99992   Woman's interview incomplete or woman is not de-facto
+                               99993   Sample damaged/insufficient/not found in lab
+                               99994   Not present
+                               99995   Refused
+                               99996   Other
+                               ?       Missing
+HA63                   Result of measurement - HIV                     5664    1    N    I   12    0   No   No
+                               1  Blood taken
+                               2  Not present
+                               3  Refused
+                               4  Sample not tested/lost/damaged/insufficient
+                               5  Not enough DBS to complete protocol
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA64                   Consent for additional tests                    5676    1    N    I   12    0   No   No
+                               1  Granted
+                               2  Parent/other responsible refused
+                               3  Respondent refused
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA65                   Result of woman's individual interview          5688    1    N    I   12    0   No   No
+                               1  Completed
+                               2  Not at home
+                               3  Postponed
+                               4  Refused
+                               5  Partly completed
+                               6  Incapacitated
+                               7  Other
+                          (na)    Not applicable
+HA66                   Woman's highest educational level               5700    1    N    I   12    0   No   No
+                               0  No education
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+HA67                   Woman's highest year of education               5712    2    N    I   12    0   No   No
+                               0:20  
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HA68                   Woman's highest educational level (for prelimin 5736    1    N    I   12    0   No   No
+                               0  No education
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HA69                   HIV weight (6 decimals)                         5748    8    N    I   12    0   No   No
+HA70                   NA - Interviewer that took blood for HIV testin 5844    3    N    I   12    0   No   No
+                               1:400  
+                           (m) 999    Missing
+HC0                    Index to Household Schedule                     5880    2    N    I    9    0   No   No
+                               1:90  
+HC1                    Child's age in months                           5898    2    N    I    9    0   No   No
+                               0:60  
+HC2                    Child's weight in kilograms (1 decimal)         5916    4    N    I    9    0   No   No
+                               5:9990  
+                               9994    Not present
+                               9995    Refused
+                               9996    Other
+                           (m) 9999    Missing
+                          (na)         Not applicable
+HC3                    Child's height in centimeters (1 decimal)       5952    4    N    I    9    0   No   No
+                               100:2000  
+                               9994      Not present
+                               9995      Refused
+                               9996      Other
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HC4                    Height/Age percentile                           5988    4    N    I    9    0   No   No
+                               0:9997  
+                               9998    Flagged cases
+                           (m) 9999    Missing
+                          (na)         Not applicable
+HC5                    Height/Age standard deviation                   6024    4    N    I    9    0   No   No
+                               -600:600  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HC6                    Height/Age percent of ref. median               6060    5    N    I    9    0   No   No
+                               7500:15000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HC7                    Weight/Age percentile                           6105    4    N    I    9    0   No   No
+                               0:9997  
+                               9998    Flagged cases
+                           (m) 9999    Missing
+                          (na)         Not applicable
+HC8                    Weight/Age standard deviation                   6141    4    N    I    9    0   No   No
+                               -600:600  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HC9                    Weight/Age percent of ref. median               6177    5    N    I    9    0   No   No
+                               2985:19000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HC10                   Weight/Height percentile                        6222    4    N    I    9    0   No   No
+                               0:9997  
+                               9998    Flagged cases
+                           (m) 9999    Missing
+                          (na)         Not applicable
+HC11                   Weight/Height standard deviation                6258    4    N    I    9    0   No   No
+                               -600:600  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HC12                   Weight/Height percent of ref. median            6294    5    N    I    9    0   No   No
+                               4995:19000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HC13                   Result of measurement - height/weight           6339    1    N    I    9    0   No   No
+                               0  Measured
+                               3  Not present
+                               4  Refused
+                               6  Other
+                           (m) 9  Missing
+HC15                   Height: lying or standing                       6348    1    N    I    9    0   No   No
+                               0  Not measured
+                               1  Lying
+                               2  Standing
+                           (m) 9  Missing
+                          (na)    Not applicable
+HC16                   Day of birth                                    6357    2    N    I    9    0   No   No
+                               1:31  
+                               97    Inconsistent
+                               98    Don't know
+                           (m) 99    Missing
+HC17                   Date measured (day)                             6375    2    N    I    9    0   No   No
+                               1:31  
+                          (na)       Not applicable
+HC18                   Date measured (month)                           6393    2    N    I    9    0   No   No
+                               1:12  
+                          (na)       Not applicable
+HC19                   Date measured (year)                            6411    4    N    I    9    0   No   No
+                               2015:2016  
+                          (na)            Not applicable
+HC27                   Sex                                             6447    1    N    I    9    0   No   No
+                               1  Male
+                               2  Female
+                           (m) 9  Missing
+HC30                   Month of birth                                  6456    2    N    I    9    0   No   No
+                               1:12  
+                               97    Inconsistent
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HC31                   Year of birth                                   6474    4    N    I    9    0   No   No
+                               2005:2016  
+                               9997       Inconsistent
+                               9998       Don't know
+                           (m) 9999       Missing
+                          (na)            Not applicable
+HC32                   Date of birth (CMC)                             6510    4    N    I    9    0   No   No
+HC33                   Completeness of HC32 information                6546    1    N    I    9    0   No   No
+                               1  Month and year - information complete
+                               2  Month and age - year imputed
+                               3  Year and age - month imputed
+                               5  Year - age/month imputed
+                               6  Age - year/month imputed
+                               7  Month - age/year imputed
+                               8  None - all imputed
+                          (na)    Not applicable
+HC51                   Line number of parent/caretaker                 6555    2    N    I    9    0   No   No
+                               0     Not in household
+                               1:50  
+                           (m) 99    Missing
+                          (na)       Not applicable
+HC52                   Read consent statement - hemoglobin             6573    1    N    I    9    0   No   No
+                               1  Granted
+                               2  Refused
+                               3  Granted but no signature
+                           (m) 9  Missing
+                          (na)    Not applicable
+HC53                   Hemoglobin level (g/dl - 1 decimal)             6582    3    N    I    9    0   No   No
+                               10:990  
+                               994     Not present
+                               995     Refused
+                               996     Other
+                           (m) 999     Missing
+                          (na)         Not applicable
+HC55                   Result of measurement - hemoglobin              6609    1    N    I    9    0   No   No
+                               0  Measured
+                               3  Not present
+                               4  Refused
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HC56                   Hemoglobin level adjusted for altitude (g/dl -  6618    3    N    I    9    0   No   No
+                               0:900  
+                               997    Inconsistent
+                           (m) 999    Missing
+                          (na)        Not applicable
+HC57                   Anemia level                                    6645    1    N    I    9    0   No   No
+                               1  Severe
+                               2  Moderate
+                               3  Mild
+                               4  Not anemic
+                           (m) 9  Missing
+                          (na)    Not applicable
+HC58                   NA - Agrees to referral - anemia                6654    1    N    I    9    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+HC60                   Mother's line number (woman's questionnaire)    6663    3    N    I    9    0   No   No
+                               1:50  
+                               993   Mother not de facto
+                               994   Incomplete woman's interview
+                               995   Not in household
+                           (m) 999   Missing
+                          (na)       Not applicable
+HC61                   Mother's highest educational level              6690    1    N    I    9    0   No   No
+                               0  No education
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+HC62                   Mother's highest year of education              6699    2    N    I    9    0   No   No
+                               0:20  
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HC63                   Preceding birth interval (months)               6717    3    N    I    9    0   No   No
+                           (m) 999  Missing
+                          (na)      Not applicable
+HC64                   Birth order number                              6744    2    N    I    9    0   No   No
+                               1:20  
+                           (m) 99    Missing
+HC68                   Mother's highest educational level (for prelimi 6762    1    N    I    9    0   No   No
+                               0  No education
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HC70                   Height/Age standard deviation (new WHO)         6771    4    N    I    9    0   No   No
+                               -600:600  
+                               9996      Height out of plausible limits
+                               9997      Age in days out of plausible limits
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HC71                   Weight/Age standard deviation (new WHO)         6807    4    N    I    9    0   No   No
+                               -600:500  
+                               9996      Height out of plausible limits
+                               9997      Age in days out of plausible limits
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HC72                   Weight/Height standard deviation (new WHO)      6843    4    N    I    9    0   No   No
+                               -600:500  
+                               9996      Height out of plausible limits
+                               9997      Age in days out of plausible limits
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HC73                   BMI standard deviation (new WHO)                6879    4    N    I    9    0   No   No
+                               -600:500  
+                               9996      Height out of plausible limits
+                               9997      Age in days out of plausible limits
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HB0                    Index to Household Schedule                     6915    2    N    I   10    0   No   No
+                               1:90  
+HB1                    Man's age in years                              6935    2    N    I   10    0   No   No
+                               15:69  
+HB2                    Man's weight in kilograms (1 decimal)           6955    4    N    I   10    0   No   No
+                               150:2500  
+                               9994      Not present
+                               9995      Refused
+                               9996      Other
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HB3                    Man's height in centimeters (1 decimal)         6995    4    N    I   10    0   No   No
+                               200:2500  
+                               9994      Not present
+                               9995      Refused
+                               9996      Other
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HB4                    Height/Age percentile                           7035    4    N    I   10    0   No   No
+                               0:9997  
+                               9998    Flagged cases
+                           (m) 9999    Missing
+                          (na)         Not applicable
+HB5                    Height/Age standard deviation                   7075    4    N    I   10    0   No   No
+                               -600:600  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HB6                    Height/Age percent ref. median                  7115    5    N    I   10    0   No   No
+                               7500:12000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HB11                   Weight/Height standard deviation (DHS)          7165    4    N    I   10    0   No   No
+                               -400:600  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HB12                   Weight/Height percent ref. median (DHS)         7205    5    N    I   10    0   No   No
+                               5500:25000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HB12A                  Weight/Height percent ref. median (Fog)         7255    5    N    I   10    0   No   No
+                               6000:30000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HB12B                  Weight/Height percent ref. median (WHO)         7305    5    N    I   10    0   No   No
+                               6000:30000  
+                               99998       Flagged cases
+                           (m) 99999       Missing
+                          (na)             Not applicable
+HB13                   Result of measurement - height/weight           7355    1    N    I   10    0   No   No
+                               0  Measured
+                               3  Not present
+                               4  Refused
+                               6  Other
+                           (m) 9  Missing
+HB32                   Date of birth (CMC)                             7365    4    N    I   10    0   No   No
+HB33                   Completeness of HB32 information                7405    1    N    I   10    0   No   No
+                               1  Month and year - information complete
+                               2  Month and age - year imputed
+                               3  Year and age - month imputed
+                               4  Year and age - year ignored
+                               5  Year - age/month imputed
+                               6  Age - year/month imputed
+                               7  Month - age/year imputed
+                               8  None - all imputed
+                          (na)    Not applicable
+HB35                   Smoking (cigarettes in last 24 hours)           7415    2    N    I   10    0   No   No
+                               0     Doesn't smoke
+                               1:79  
+                               80    80+
+                               94    Smokes pipes, cigars, etc
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HB40                   Body Mass Index                                 7435    4    N    I   10    0   No   No
+                               1000:6000  
+                               9998       Flagged cases
+                           (m) 9999       Missing
+                          (na)            Not applicable
+HB41                   Rohrer's index                                  7475    4    N    I   10    0   No   No
+                               500:5861  
+                               9998      Flagged cases
+                           (m) 9999      Missing
+                          (na)           Not applicable
+HB50                   Under age 18                                    7515    1    N    I   10    0   No   No
+                               1  Under age 18
+                               2  Age 18 or older
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB51                   Line number of parent/caretaker                 7525    2    N    I   10    0   No   No
+                               0     Not in household
+                               1:50  
+                           (m) 99    Missing
+                          (na)       Not applicable
+HB52                   Read consent statement - hemoglobin             7545    1    N    I   10    0   No   No
+                               1  Granted
+                               2  Parent/other responsible refused
+                               3  Respondent refused
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB53                   Hemoglobin level (g/dl - 1 decimal)             7555    3    N    I   10    0   No   No
+                               10:990  
+                               994     Not present
+                               995     Refused
+                               996     Other
+                               998     Not tested
+                           (m) 999     Missing
+                          (na)         Not applicable
+HB55                   Result of measurement - hemoglobin              7585    1    N    I   10    0   No   No
+                               0  Measured
+                               3  Not present
+                               4  Refused
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB56                   Hemoglobin level adjusted for altitude and smok 7595    3    N    I   10    0   No   No
+                               0:900  
+                               997    Inconsistent
+                           (m) 999    Missing
+                          (na)        Not applicable
+HB57                   Anemia level                                    7625    1    N    I   10    0   No   No
+                               1  Severe
+                               2  Moderate
+                               3  Mild
+                               4  Not anemic
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB58                   NA - Agrees to referral - anemia                7635    1    N    I   10    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB60                   Marital status                                  7645    1    N    I   10    0   No   No
+                               1  Never in union
+                               2  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB61                   Read consent statement - HIV                    7655    1    N    I   10    0   No   No
+                               1  Granted
+                               2  Parent/other responsible refused
+                               3  Respondent refused
+                               4  Sample not tested/lost/not enough DBS
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB62                   Bar code for HIV blood sample                   7665    6   AN    I   10    0   No   No
+                               99992   Man's interview incomplete or man is not de-facto
+                               99993   Sample damaged/insufficient/not found in lab
+                               99994   Not present
+                               99995   Refused
+                               99996   Other
+                               ?       Missing
+HB63                   Result of measurement - HIV                     7725    1    N    I   10    0   No   No
+                               1  Blood taken
+                               2  Not present
+                               3  Refused
+                               4  Sample not tested/lost/damaged/insufficient
+                               5  Not enough DBS to complete protocol
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB64                   Consent for additional tests                    7735    1    N    I   10    0   No   No
+                               1  Granted
+                               2  Parent/other responsible refused
+                               3  Respondent refused
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB65                   Result of man's individual interview            7745    1    N    I   10    0   No   No
+                               1  Completed
+                               2  Not at home
+                               3  Postponed
+                               4  Refused
+                               5  Partly completed
+                               6  Incapacitated
+                               7  Other
+                          (na)    Not applicable
+HB66                   Man's highest educational level                 7755    1    N    I   10    0   No   No
+                               0  No education
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+HB67                   Man's highest year of education                 7765    2    N    I   10    0   No   No
+                               0:20  
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HB68                   Man's highest educational level (for preliminar 7785    1    N    I   10    0   No   No
+                               0  No education
+                               1  Primary
+                               2  Secondary
+                               3  Higher
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HB69                   HIV weight (6 decimals)                         7795    8    N    I   10    0   No   No
+HB70                   NA - Interviewer that took blood for HIV testin 7875    3    N    I   10    0   No   No
+                               1:400  
+                           (m) 999    Missing
+HMLIDX                 Mosquito Bed Net Designation Number             7905    2    N    I    7    0   No   No
+HML3                   NA - Net observed by interviewer                7919    1    N    I    7    0   No   No
+                               0  Not seen
+                               1  Yes, seen
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML4                   NA - Months ago net obtained                    7926    2    N    I    7    0   No   No
+                               0:36  
+                               96    More than 3 years ago
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HML5                   NA - Net treated with insecticide when bought   7940    1    N    I    7    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML6                   Net treatment status                            7947    1    N    I    7    0   No   No
+                               0  Not pretreated
+                               1  Pretreated, permanent treatment
+                               2  Pretreated, requiring future treatment
+                               6  Other
+                               8  Don't know
+                          (na)    Not applicable
+HML7                   Brand of net                                    7954    2    N    I    7    0   No   No
+                               11  Dawa Plus
+                               12  Duranet
+                               13  Interceptor
+                               14  Lifenet
+                               15  Magnet
+                               16  Netprotect
+                               17  Olyset
+                               18  Permanet
+                               19  Royal Sentry
+                               20  Yorkool
+                               26  Other/don't know brand (LLIN)
+                               30  Pretreated net
+                               96  Other brand
+                               98  Don't know brand
+                          (na)     Not applicable
+HML8                   NA - Net treated since receiving                7968    1    N    I    7    0   No   No
+                               0  No
+                               1  Yes
+                               2  Permanent net
+                               8  Not sure
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML9                   NA - Time since last re-treatment (months)      7975    2    N    I    7    0   No   No
+                               0:36  
+                               95    25+ months ago
+                               96    More than 3 years ago
+                               98    Don't know
+                           (m) 99    Missing
+                          (na)       Not applicable
+HML10                  Insecticide-Treated Net (ITN)                   7989    1    N    I    7    0   No   No
+                               0  No, don't know
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML11                  Number of persons who slept under this net      7996    1    N    I    7    0   No   No
+                               0:4  
+                               5    5+
+                           (m) 9    Missing
+                          (na)      Not applicable
+HML21                  Someone slept under this net last night         8003    1    N    I    7    0   No   No
+                               0  No
+                               1  Yes
+                               8  Not sure (DK)
+                           (m) 9  Missing
+                          (na)    Not applicable
+HMLA                   Line number of person who slept in this net     8010    2    N    I    7    0   No   No
+                               0     No one
+                               1:50  
+                           (m) 99    Missing
+                          (na)       Not applicable
+HMLB                   Line number of person who slept in this net     8024    2    N    I    7    0   No   No
+                               1:50  
+                           (m) 99    Missing
+                          (na)       Not applicable
+HMLC                   Line number of person who slept in this net     8038    2    N    I    7    0   No   No
+                               1:50  
+                           (m) 99    Missing
+                          (na)       Not applicable
+HMLD                   Line number of person who slept in this net     8052    2    N    I    7    0   No   No
+                               1:50  
+                          (na)       Not applicable
+HMLE                   NA - Line number of person who slept in this ne 8066    2    N    I    7    0   No   No
+                               1:50  
+                          (na)       Not applicable
+HMHIDX                 Index to Household Schedule                     8080    2    N    I   41    0   No   No
+                               1:90  
+HML12                  Type of Mosquito Bed Net(s) person slept under  8162    1    N    I   41    0   No   No
+                               0  Did not sleep under a net
+                               1  Only treated (ITN) nets
+                               2  Both treated (ITN) and untreated nets
+                               3  Only untreated nets
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML13                  Net Designation Number (HMLIDX) for 1st net per 8203    1    N    I   41    0   No   No
+                               0    Did not sleep under net
+                               1:7  
+                          (na)      Not applicable
+HML14                  Net Designation Number (HMLIDX) for 2nd net per 8244    1    N    I   41    0   No   No
+                               1:7  
+                          (na)      Not applicable
+HML15                  Net Designation Number (HMLIDX) for 3rd net per 8285    1    N    I   41    0   No   No
+                               1:7  
+                          (na)      Not applicable
+HML16                  Corrected age from Individual file              8326    2    N    I   41    0   No   No
+                               0:96  
+                               97    97+
+                               98    Don't know
+                           (m) 99    Missing
+HML16A                 NA - Age in months (for children)               8408    2    N    I   41    0   No   No
+HML17                  Flag for age from Individual file               8490    1    N    I   41    0   No   No
+                               0  No data from Individual file
+                               1  Month and year - information complete
+                               2  Month and age - year imputed
+                               3  Year and age - month imputed
+                               4  Year and age - year ignored
+                               5  Year - age/month imputed
+                               6  Age - year/month imputed
+                               7  Month - age/year imputed
+                               8  None - all imputed
+                          (na)    Not applicable
+HML18                  Pregnancy status from Individual file           8531    1    N    I   41    0   No   No
+                               0  Not pregnant, don't know
+                               1  Pregnant
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML19                  Person slept under an ever-treated net          8572    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+HML20                  Person slept under an LLIN net                  8613    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+HML30                  NA - Line number of parent/caretaker (for malar 8654    2    N    I   41    0   No   No
+                               0     Not in household
+                               1:50  
+                          (na)       Not applicable
+HML31                  NA - Read consent statement for malaria         8736    1    N    I   41    0   No   No
+                               1  Granted
+                               2  Refused
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML32                  NA - Final result of malaria from blood smear t 8777    1    N    I   41    0   No   No
+                               0  Negative
+                               1  Positive
+                               6  Test undetermined
+                               7  Sample not found in lab database
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML32A                 NA - Presence of species: falciparum (Pf)       8818    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML32B                 NA - Presence of species: malariae (Pm)         8859    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML32C                 NA - Presence of species: ovale (Po)            8900    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML32D                 NA - Presence of species: vivax (Pv)            8941    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML32E                 NA - Presence of species: CS                    8982    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML32F                 NA - Presence of species: CS                    9023    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML32G                 NA - Presence of species: CS                    9064    1    N    I   41    0   No   No
+                               0  No
+                               1  Yes
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML33                  NA - Result of malaria measurement              9105    1    N    I   41    0   No   No
+                               0  Measured
+                               3  Not present
+                               4  Refused
+                               6  Other
+                           (m) 9  Missing
+                          (na)    Not applicable
+HML34                  Bar code for blood smear sample                 9146    5   AN    I   41    0   No   No
+                               99993  Sample damaged/insufficient/not found in lab
+                               99994  Not present
+                               99995  Refused
+                               99996  Other
+                               ?      Missing
+HML35                  NA - Result of malaria rapid test               9351    1    N    I   41    0   No   No
+                               0  Negative
+                               1  Positive
+                           (m) 9  Missing
+                          (na)    Not applicable
+COLNUM                 Column number                                   9392    2    N    I    5    0   No   No
+                               1:10  
+SH73                   Sex                                             9402    1    N    I    5    0   No   No
+                               1  Male
+                               2  Female
+                               8  Don't know
+SH74U                  Age when died (unit)                            9407    1    N    I    5    0   No   No
+                               1  Days
+                               2  Months
+                               3  Year
+                               8  Don't know
+SH74N                  Age when died (number)                          9412    2    N    I    5    0   No   No
+                               0:95  
+                               98    Don't know
+SH75M                  Month when died                                 9422    2    N    I    5    0   No   No
+                               1   January
+                               2   February
+                               3   March
+                               4   April
+                               5   May
+                               6   June
+                               7   July
+                               8   August
+                               9   September
+                               10  October
+                               11  November
+                               12  December
+                               98  Don't know
+SH75Y                  Year when died                                  9432    4    N    I    5    0   No   No
+                               2011  
+                               2012  
+                               2013  
+                               2014  
+                               2015  
+                               2016  
+                               9998  Don't know
+SH76                   Death due to: accident, violence, poisoning, ho 9452    1    N    I    5    0   No   No
+                               0  No
+                               1  Yes
+                               8  Don't know
+SH77                   Died during: pregnancy, during childbirth or wi 9457    1    N    I    5    0   No   No
+                               0  No
+                               1  Yes
+                          (na)    Not applicable
+--------------------------------------------------------------------------------------------------------------
+Relation Name         Primary               Linked by             Secondary             Linked by
+--------------------------------------------------------------------------------------------------------------
