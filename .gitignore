@@ -1,6 +1,6 @@
 # Exclude all raw DHS microdata specifically
-data/raw/NFHS_Microdata/*
-!data/raw/NFHS_Microdata/.gitkeep
+data/raw/DHS_microdata/*
+!data/raw/DHS_microdata/.gitkeep
 
 # Everything else in data/raw/ (e.g. NFHS3-6_state_panel) is tracked normally
 
