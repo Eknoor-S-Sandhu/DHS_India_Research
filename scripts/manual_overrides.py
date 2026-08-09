@@ -24,6 +24,49 @@ MANUAL_OVERRIDES = {
     ("jammu & kashmir", 2, "Palwama"): 2,                             # Palwama / Pulwama (NFHS-2 only)
     ("jammu & kashmir", 5, "Barmala"): 5,                             # Barmala / Baramula (NFHS-2 only)
     ("jammu & kashmir", 1, "Anandnagar"): 1,                          # Anandnagar / Anantnag (NFHS-2 only)
+
+    # Northeast states (Arunachal Pradesh, Manipur, Meghalaya, Mizoram,
+    # Nagaland): dist_list_81_91.xlsx had only placeholder rows for these
+    # five states, so the fuzzy matcher had no real candidate pool and
+    # fell back to matching on the state name. Resolved by confirming
+    # shdist == 1991 Census distid directly for these states, verified via
+    # 1991 PCA (Rural) district extraction + DHS user forum thread 232
+    # (Fred Arnold, DHS Program) confirming NFHS district codes follow
+    # standard 1991 Census coding.
+    ("arunachal pradesh", 1, "TAWANG"): 1,
+    ("arunachal pradesh", 2, "WEST KAMENG"): 2,
+    ("arunachal pradesh", 3, "EAST KAMENG"): 3,
+    ("arunachal pradesh", 4, "LOWER SUBANSIRI"): 4,
+    ("arunachal pradesh", 5, "UPPER SUBANSIRI"): 5,
+    ("arunachal pradesh", 6, "WEST SIANG"): 6,
+    ("arunachal pradesh", 7, "EAST SIANG"): 7,
+    ("arunachal pradesh", 8, "DIBANG VALLEY"): 8,
+    ("arunachal pradesh", 9, "Lohit"): 9,
+    ("arunachal pradesh", 10, "CHANGLANG"): 10,
+    ("arunachal pradesh", 11, "TIRAP"): 11,
+    ("manipur", 1, "SENAPATI"): 1,
+    ("manipur", 2, "TAMENGLONG"): 2,
+    ("manipur", 3, "CHURACHANPUR"): 3,
+    ("manipur", 4, "CHANDEL"): 4,
+    ("manipur", 5, "THOUBAL"): 5,
+    ("manipur", 6, "BISHNUPUR"): 6,
+    ("manipur", 7, "IMPHAL"): 7,
+    ("manipur", 8, "UKHRUL"): 8,
+    ("meghalaya", 1, "JAINTIA HILLS"): 1,
+    ("meghalaya", 2, "EAST KHASI HILLS"): 2,
+    ("meghalaya", 3, "WEST KHASI HILLS"): 3,
+    ("meghalaya", 4, "EAST GORA HILLS"): 4,                           # East Gora Hills / East Garo Hills
+    ("meghalaya", 5, "WEST GARO HILLS"): 5,
+    ("mizoram", 1, "AIZAWL"): 1,
+    ("mizoram", 2, "LUNGLEI"): 2,
+    ("mizoram", 3, "CHHIMTUIPUI"): 3,
+    ("nagaland", 1, "KOHIMA"): 1,
+    ("nagaland", 2, "PHEK"): 2,
+    ("nagaland", 3, "ZUNHEBOTO"): 3,
+    ("nagaland", 4, "WOKHA"): 4,
+    ("nagaland", 5, "MOKOKCHUNG"): 5,
+    ("nagaland", 6, "TUENSANG"): 6,
+    ("nagaland", 7, "MON"): 7,
 }
 
 

@@ -1,79 +1,157 @@
 round,hv024,state,shdist,nfhs_district_name,matched_census_district,census_distid,census_source_year,match_score,match_source,reason
-NFHS-1,12,madhya pradesh,24,Khargone,Dhar,22.0,1991,67.5,fuzzy,low fuzzy match score
-NFHS-1,13,maharashtra,1,MUMBAI,Bid,18.0,1991,60.00000000000001,fuzzy,low fuzzy match score
-NFHS-1,14,manipur,1,SENAPATI,Manipur,,1991,26.66666666666667,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,14,manipur,2,TAMENGLONG,Manipur,,1991,23.529411764705888,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,14,manipur,3,CHURACHANPUR,Manipur,,1991,75.00000000000001,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,14,manipur,5,THOUBAL,Manipur,,1991,14.28571428571429,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,14,manipur,6,BISHNUPUR,Manipur,,1991,50.0,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,15,meghalaya,1,JAINTIA HILLS,Meghalaya,,1991,34.54545454545455,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,,1991,32.727272727272734,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,,1991,31.999999999999996,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,15,meghalaya,4,EAST GORA HILLS,Meghalaya,,1991,33.333333333333336,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,15,meghalaya,5,WEST GARO HILLS,Meghalaya,,1991,33.75,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,16,mizoram,1,AIZAWL,Mizoram,,1991,46.15384615384615,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,16,mizoram,2,LUNGLEI,Mizoram,,1991,14.28571428571429,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,16,mizoram,3,CHHIMTUIPUI,Mizoram,,1991,30.000000000000004,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,17,nagaland,1,KOHIMA,Nagaland,,1991,14.28571428571429,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,17,nagaland,2,PHEK,Nagaland,,1991,0.0,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,17,nagaland,3,ZUNHEBOTO,Nagaland,,1991,11.764705882352944,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,17,nagaland,4,WOKHA,Nagaland,,1991,25.71428571428571,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,17,nagaland,5,MOKOKCHUNG,Nagaland,,1991,22.22222222222222,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,17,nagaland,6,TUENSANG,Nagaland,,1991,37.5,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,17,nagaland,7,MON,Nagaland,,1991,45.0,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-1,22,tamil nadu,1,Chennai,Chengalpattu-mgr,2.0,1991,69.23076923076923,fuzzy,low fuzzy match score
-NFHS-1,23,west bengal,8,NORTH TWENTY FOUR PARGANAS,North 24 Paraganas,8.0,1991,85.5,fuzzy,low fuzzy match score
-NFHS-1,23,west bengal,9,SOUTH TWENTY FOUR PARGANAS,South 24 Paraganas,9.0,1991,85.5,fuzzy,low fuzzy match score
-NFHS-1,24,uttar pradesh,40,,Nainital,8.0,1991,72.0,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,0.0,1991,36.0,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,0.0,1991,32.57142857142857,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,0.0,1991,34.285714285714285,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,0.0,1991,25.0,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,0.0,1991,31.25,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,0.0,1991,34.2,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,0.0,1991,27.692307692307693,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,0.0,1991,33.333333333333336,fuzzy,low fuzzy match score
-NFHS-1,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,0.0,1991,30.000000000000004,fuzzy,low fuzzy match score
-NFHS-2,12,madhya pradesh,24,Khargone,Dhar,22.0,1991,67.5,fuzzy,low fuzzy match score
-NFHS-2,13,maharashtra,1,MUMBAI,Bid,18.0,1991,60.00000000000001,fuzzy,low fuzzy match score
-NFHS-2,14,manipur,2,TAMENGLONG,Manipur,,1991,23.529411764705888,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,14,manipur,1,SENAPATI,Manipur,,1991,26.66666666666667,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,14,manipur,3,CHURACHANPUR,Manipur,,1991,75.00000000000001,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,14,manipur,4,CHANDEL,Manipur,,1991,28.57142857142857,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,14,manipur,5,THOUBAL,Manipur,,1991,14.28571428571429,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,14,manipur,6,BISHNUPUR,Manipur,,1991,50.0,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,14,manipur,7,IMPHAL,Manipur,,1991,30.76923076923077,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,14,manipur,8,UKHRUL,Manipur,,1991,30.76923076923077,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,15,meghalaya,1,JAINTIA HILLS,Meghalaya,,1991,34.54545454545455,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,,1991,32.727272727272734,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,,1991,31.999999999999996,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,15,meghalaya,5,WEST GARO HILLS,Meghalaya,,1991,33.75,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,15,meghalaya,4,EAST GORA HILLS,Meghalaya,,1991,33.333333333333336,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,16,mizoram,1,AIZAWL,Mizoram,,1991,46.15384615384615,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,16,mizoram,2,LUNGLEI,Mizoram,,1991,14.28571428571429,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,16,mizoram,3,CHHIMTUIPUI,Mizoram,,1991,30.000000000000004,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,17,nagaland,1,KOHIMA,Nagaland,,1991,14.28571428571429,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,17,nagaland,3,ZUNHEBOTO,Nagaland,,1991,11.764705882352944,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,17,nagaland,4,WOKHA,Nagaland,,1991,25.71428571428571,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,17,nagaland,2,PHEK,Nagaland,,1991,0.0,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,17,nagaland,6,TUENSANG,Nagaland,,1991,37.5,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,17,nagaland,5,MOKOKCHUNG,Nagaland,,1991,22.22222222222222,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,17,nagaland,7,MON,Nagaland,,1991,45.0,unresolved_no_source_data,no real district breakdown in census source (NE state)
-NFHS-2,21,sikkim,1,NORTH DISTRICT,Sikkim,0.0,1991,30.000000000000004,fuzzy,low fuzzy match score
-NFHS-2,21,sikkim,2,EAST DISTRICT,Sikkim,0.0,1991,31.57894736842105,fuzzy,low fuzzy match score
-NFHS-2,21,sikkim,3,SOUTH DISTRICT,Sikkim,0.0,1991,30.000000000000004,fuzzy,low fuzzy match score
-NFHS-2,21,sikkim,4,WEST DISTRICT,Sikkim,0.0,1991,31.57894736842105,fuzzy,low fuzzy match score
-NFHS-2,22,tamil nadu,1,Chennai,Chengalpattu-mgr,2.0,1991,69.23076923076923,fuzzy,low fuzzy match score
-NFHS-2,23,west bengal,8,NORTH TWENTY FOUR PARGANAS,North 24 Paraganas,8.0,1991,85.5,fuzzy,low fuzzy match score
-NFHS-2,23,west bengal,9,SOUTH TWENTY FOUR PARGANAS,South 24 Paraganas,9.0,1991,85.5,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,0.0,1991,34.285714285714285,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,0.0,1991,36.0,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,0.0,1991,25.0,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,0.0,1991,32.57142857142857,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,0.0,1991,27.692307692307693,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,0.0,1991,31.25,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,0.0,1991,33.333333333333336,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,0.0,1991,34.2,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,11,TIRAP,Arunachal Pradesh,0.0,1991,36.0,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,10,CHANGLANG,Arunachal Pradesh,0.0,1991,50.0,fuzzy,low fuzzy match score
-NFHS-2,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,0.0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-1,12,madhya pradesh,24,Khargone,Dhar,22,1991,67.5,fuzzy,low fuzzy match score
+NFHS-1,12,madhya pradesh,24,Khargone,Dhar,22,1991,67.5,fuzzy,low fuzzy match score
+NFHS-1,13,maharashtra,1,MUMBAI,Bid,18,1991,60.00000000000001,fuzzy,low fuzzy match score
+NFHS-1,13,maharashtra,1,MUMBAI,Bid,18,1991,60.00000000000001,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,1,SENAPATI,Manipur,0,1991,26.66666666666667,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,1,SENAPATI,Manipur,0,1991,26.66666666666667,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,2,TAMENGLONG,Manipur,0,1991,23.529411764705888,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,2,TAMENGLONG,Manipur,0,1991,23.529411764705888,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,3,CHURACHANPUR,Manipur,0,1991,75.00000000000001,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,3,CHURACHANPUR,Manipur,0,1991,75.00000000000001,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,5,THOUBAL,Manipur,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,5,THOUBAL,Manipur,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,6,BISHNUPUR,Manipur,0,1991,50.0,fuzzy,low fuzzy match score
+NFHS-1,14,manipur,6,BISHNUPUR,Manipur,0,1991,50.0,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,1,JAINTIA HILLS,Meghalaya,0,1991,34.54545454545455,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,1,JAINTIA HILLS,Meghalaya,0,1991,34.54545454545455,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,0,1991,32.727272727272734,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,0,1991,32.727272727272734,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,0,1991,31.999999999999996,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,0,1991,31.999999999999996,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,4,EAST GORA HILLS,Meghalaya,0,1991,33.333333333333336,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,4,EAST GORA HILLS,Meghalaya,0,1991,33.333333333333336,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,5,WEST GARO HILLS,Meghalaya,0,1991,33.75,fuzzy,low fuzzy match score
+NFHS-1,15,meghalaya,5,WEST GARO HILLS,Meghalaya,0,1991,33.75,fuzzy,low fuzzy match score
+NFHS-1,16,mizoram,1,AIZAWL,Mizoram,0,1991,46.15384615384615,fuzzy,low fuzzy match score
+NFHS-1,16,mizoram,1,AIZAWL,Mizoram,0,1991,46.15384615384615,fuzzy,low fuzzy match score
+NFHS-1,16,mizoram,2,LUNGLEI,Mizoram,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-1,16,mizoram,2,LUNGLEI,Mizoram,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-1,16,mizoram,3,CHHIMTUIPUI,Mizoram,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-1,16,mizoram,3,CHHIMTUIPUI,Mizoram,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,1,KOHIMA,Nagaland,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,1,KOHIMA,Nagaland,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,2,PHEK,Nagaland,0,1991,0.0,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,2,PHEK,Nagaland,0,1991,0.0,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,3,ZUNHEBOTO,Nagaland,0,1991,11.764705882352944,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,3,ZUNHEBOTO,Nagaland,0,1991,11.764705882352944,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,4,WOKHA,Nagaland,0,1991,25.71428571428571,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,4,WOKHA,Nagaland,0,1991,25.71428571428571,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,5,MOKOKCHUNG,Nagaland,0,1991,22.22222222222222,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,5,MOKOKCHUNG,Nagaland,0,1991,22.22222222222222,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,6,TUENSANG,Nagaland,0,1991,37.5,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,6,TUENSANG,Nagaland,0,1991,37.5,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,7,MON,Nagaland,0,1991,45.0,fuzzy,low fuzzy match score
+NFHS-1,17,nagaland,7,MON,Nagaland,0,1991,45.0,fuzzy,low fuzzy match score
+NFHS-1,22,tamil nadu,1,Chennai,Chengalpattu-mgr,2,1991,69.23076923076923,fuzzy,low fuzzy match score
+NFHS-1,22,tamil nadu,1,Chennai,Chengalpattu-mgr,2,1991,69.23076923076923,fuzzy,low fuzzy match score
+NFHS-1,23,west bengal,8,NORTH TWENTY FOUR PARGANAS,North 24 Paraganas,8,1991,85.5,fuzzy,low fuzzy match score
+NFHS-1,23,west bengal,8,NORTH TWENTY FOUR PARGANAS,North 24 Paraganas,8,1991,85.5,fuzzy,low fuzzy match score
+NFHS-1,23,west bengal,9,SOUTH TWENTY FOUR PARGANAS,South 24 Paraganas,9,1991,85.5,fuzzy,low fuzzy match score
+NFHS-1,23,west bengal,9,SOUTH TWENTY FOUR PARGANAS,South 24 Paraganas,9,1991,85.5,fuzzy,low fuzzy match score
+NFHS-1,24,uttar pradesh,40,,Nainital,8,1991,72.0,fuzzy,low fuzzy match score
+NFHS-1,24,uttar pradesh,40,,Nainital,8,1991,72.0,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,0,1991,36.0,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,0,1991,36.0,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,0,1991,32.57142857142857,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,0,1991,32.57142857142857,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,0,1991,34.285714285714285,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,0,1991,34.285714285714285,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,0,1991,25.0,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,0,1991,25.0,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,0,1991,31.25,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,0,1991,31.25,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,0,1991,34.2,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,0,1991,34.2,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,0,1991,27.692307692307693,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,0,1991,27.692307692307693,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,0,1991,33.333333333333336,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,0,1991,33.333333333333336,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-1,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-2,12,madhya pradesh,24,Khargone,Dhar,22,1991,67.5,fuzzy,low fuzzy match score
+NFHS-2,12,madhya pradesh,24,Khargone,Dhar,22,1991,67.5,fuzzy,low fuzzy match score
+NFHS-2,13,maharashtra,1,MUMBAI,Bid,18,1991,60.00000000000001,fuzzy,low fuzzy match score
+NFHS-2,13,maharashtra,1,MUMBAI,Bid,18,1991,60.00000000000001,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,2,TAMENGLONG,Manipur,0,1991,23.529411764705888,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,2,TAMENGLONG,Manipur,0,1991,23.529411764705888,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,1,SENAPATI,Manipur,0,1991,26.66666666666667,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,1,SENAPATI,Manipur,0,1991,26.66666666666667,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,3,CHURACHANPUR,Manipur,0,1991,75.00000000000001,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,3,CHURACHANPUR,Manipur,0,1991,75.00000000000001,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,4,CHANDEL,Manipur,0,1991,28.57142857142857,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,4,CHANDEL,Manipur,0,1991,28.57142857142857,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,5,THOUBAL,Manipur,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,5,THOUBAL,Manipur,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,6,BISHNUPUR,Manipur,0,1991,50.0,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,6,BISHNUPUR,Manipur,0,1991,50.0,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,7,IMPHAL,Manipur,0,1991,30.76923076923077,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,7,IMPHAL,Manipur,0,1991,30.76923076923077,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,8,UKHRUL,Manipur,0,1991,30.76923076923077,fuzzy,low fuzzy match score
+NFHS-2,14,manipur,8,UKHRUL,Manipur,0,1991,30.76923076923077,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,1,JAINTIA HILLS,Meghalaya,0,1991,34.54545454545455,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,1,JAINTIA HILLS,Meghalaya,0,1991,34.54545454545455,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,0,1991,32.727272727272734,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,0,1991,32.727272727272734,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,0,1991,31.999999999999996,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,0,1991,31.999999999999996,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,5,WEST GARO HILLS,Meghalaya,0,1991,33.75,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,5,WEST GARO HILLS,Meghalaya,0,1991,33.75,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,4,EAST GORA HILLS,Meghalaya,0,1991,33.333333333333336,fuzzy,low fuzzy match score
+NFHS-2,15,meghalaya,4,EAST GORA HILLS,Meghalaya,0,1991,33.333333333333336,fuzzy,low fuzzy match score
+NFHS-2,16,mizoram,1,AIZAWL,Mizoram,0,1991,46.15384615384615,fuzzy,low fuzzy match score
+NFHS-2,16,mizoram,1,AIZAWL,Mizoram,0,1991,46.15384615384615,fuzzy,low fuzzy match score
+NFHS-2,16,mizoram,2,LUNGLEI,Mizoram,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-2,16,mizoram,2,LUNGLEI,Mizoram,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-2,16,mizoram,3,CHHIMTUIPUI,Mizoram,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-2,16,mizoram,3,CHHIMTUIPUI,Mizoram,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,1,KOHIMA,Nagaland,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,1,KOHIMA,Nagaland,0,1991,14.28571428571429,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,3,ZUNHEBOTO,Nagaland,0,1991,11.764705882352944,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,3,ZUNHEBOTO,Nagaland,0,1991,11.764705882352944,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,4,WOKHA,Nagaland,0,1991,25.71428571428571,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,4,WOKHA,Nagaland,0,1991,25.71428571428571,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,2,PHEK,Nagaland,0,1991,0.0,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,2,PHEK,Nagaland,0,1991,0.0,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,6,TUENSANG,Nagaland,0,1991,37.5,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,6,TUENSANG,Nagaland,0,1991,37.5,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,5,MOKOKCHUNG,Nagaland,0,1991,22.22222222222222,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,5,MOKOKCHUNG,Nagaland,0,1991,22.22222222222222,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,7,MON,Nagaland,0,1991,45.0,fuzzy,low fuzzy match score
+NFHS-2,17,nagaland,7,MON,Nagaland,0,1991,45.0,fuzzy,low fuzzy match score
+NFHS-2,21,sikkim,1,NORTH DISTRICT,Sikkim,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-2,21,sikkim,1,NORTH DISTRICT,Sikkim,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-2,21,sikkim,2,EAST DISTRICT,Sikkim,0,1991,31.57894736842105,fuzzy,low fuzzy match score
+NFHS-2,21,sikkim,2,EAST DISTRICT,Sikkim,0,1991,31.57894736842105,fuzzy,low fuzzy match score
+NFHS-2,21,sikkim,3,SOUTH DISTRICT,Sikkim,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-2,21,sikkim,3,SOUTH DISTRICT,Sikkim,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-2,21,sikkim,4,WEST DISTRICT,Sikkim,0,1991,31.57894736842105,fuzzy,low fuzzy match score
+NFHS-2,21,sikkim,4,WEST DISTRICT,Sikkim,0,1991,31.57894736842105,fuzzy,low fuzzy match score
+NFHS-2,22,tamil nadu,1,Chennai,Chengalpattu-mgr,2,1991,69.23076923076923,fuzzy,low fuzzy match score
+NFHS-2,22,tamil nadu,1,Chennai,Chengalpattu-mgr,2,1991,69.23076923076923,fuzzy,low fuzzy match score
+NFHS-2,23,west bengal,8,NORTH TWENTY FOUR PARGANAS,North 24 Paraganas,8,1991,85.5,fuzzy,low fuzzy match score
+NFHS-2,23,west bengal,8,NORTH TWENTY FOUR PARGANAS,North 24 Paraganas,8,1991,85.5,fuzzy,low fuzzy match score
+NFHS-2,23,west bengal,9,SOUTH TWENTY FOUR PARGANAS,South 24 Paraganas,9,1991,85.5,fuzzy,low fuzzy match score
+NFHS-2,23,west bengal,9,SOUTH TWENTY FOUR PARGANAS,South 24 Paraganas,9,1991,85.5,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,0,1991,34.285714285714285,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,0,1991,34.285714285714285,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,0,1991,36.0,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,0,1991,36.0,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,0,1991,25.0,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,0,1991,25.0,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,0,1991,32.57142857142857,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,0,1991,32.57142857142857,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,0,1991,27.692307692307693,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,0,1991,27.692307692307693,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,0,1991,31.25,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,0,1991,31.25,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,0,1991,33.333333333333336,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,0,1991,33.333333333333336,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,0,1991,34.2,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,0,1991,34.2,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,11,TIRAP,Arunachal Pradesh,0,1991,36.0,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,11,TIRAP,Arunachal Pradesh,0,1991,36.0,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,10,CHANGLANG,Arunachal Pradesh,0,1991,50.0,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,10,CHANGLANG,Arunachal Pradesh,0,1991,50.0,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,0,1991,30.000000000000004,fuzzy,low fuzzy match score
+NFHS-2,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,0,1991,30.000000000000004,fuzzy,low fuzzy match score
