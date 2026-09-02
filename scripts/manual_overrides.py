@@ -12,6 +12,9 @@ import pandas as pd
 
 MANUAL_OVERRIDES = {
     # (state, shdist, nfhs_district_name): census_distid
+    ("madhya pradesh", 24, "Khargone"): 24,      # Khargone / West Nimar (1991 name)
+    ("maharashtra", 1, "MUMBAI"): 1,             # Mumbai / Greater Bombay (1991 name)
+    ("tamil nadu", 1, "Chennai"): 1,             # Chennai / Madras (1991 name)                                # Chennai -- fuzzy matched to Chengalpattu-MGR (69.2); 1991 sheet likely says "Madras"
     ("gujarat", 10, "MAHESANA"): 10,                                  # Mahesana / Mahasana
     ("jammu & kashmir", 11, "Kathua"): 11,                            # Kathua / Kuthua
     ("madhya pradesh", 39, "Surguja"): 39,                            # Surguja / Sarguja
