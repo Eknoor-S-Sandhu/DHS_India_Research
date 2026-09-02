@@ -1,881 +1,441 @@
 round,hv024,state,shdist,nfhs_district_name,matched_census_district,census_distid,census_source_year,match_score,match_source,district_uid
 NFHS-2,2,andhra pradesh,2,VIZIANAGARAM,Vizianagaram,2,1991,100.0,fuzzy,andhra pradesh_2
-NFHS-2,2,andhra pradesh,2,VIZIANAGARAM,Vizianagaram,2,1991,100.0,fuzzy,andhra pradesh_2
-NFHS-2,2,andhra pradesh,1,SRIKAKULAM,Srikakulam,1,1991,100.0,fuzzy,andhra pradesh_1
 NFHS-2,2,andhra pradesh,1,SRIKAKULAM,Srikakulam,1,1991,100.0,fuzzy,andhra pradesh_1
 NFHS-2,2,andhra pradesh,3,VISAKHAPATNAM,Visakhapatanam,3,1991,96.2962962962963,fuzzy,andhra pradesh_3
-NFHS-2,2,andhra pradesh,3,VISAKHAPATNAM,Visakhapatanam,3,1991,96.2962962962963,fuzzy,andhra pradesh_3
-NFHS-2,2,andhra pradesh,7,GUNTUR,Guntur,7,1991,100.0,fuzzy,andhra pradesh_7
 NFHS-2,2,andhra pradesh,7,GUNTUR,Guntur,7,1991,100.0,fuzzy,andhra pradesh_7
 NFHS-2,2,andhra pradesh,4,EAST GODAVARI,East Godavari,4,1991,100.0,fuzzy,andhra pradesh_4
-NFHS-2,2,andhra pradesh,4,EAST GODAVARI,East Godavari,4,1991,100.0,fuzzy,andhra pradesh_4
-NFHS-2,2,andhra pradesh,6,KRISHNA,Krishna,6,1991,100.0,fuzzy,andhra pradesh_6
 NFHS-2,2,andhra pradesh,6,KRISHNA,Krishna,6,1991,100.0,fuzzy,andhra pradesh_6
 NFHS-2,2,andhra pradesh,5,WEST GODAVARI,West Godavari,5,1991,100.0,fuzzy,andhra pradesh_5
-NFHS-2,2,andhra pradesh,5,WEST GODAVARI,West Godavari,5,1991,100.0,fuzzy,andhra pradesh_5
-NFHS-2,2,andhra pradesh,9,NELLORE,Nellore,9,1991,100.0,fuzzy,andhra pradesh_9
 NFHS-2,2,andhra pradesh,9,NELLORE,Nellore,9,1991,100.0,fuzzy,andhra pradesh_9
 NFHS-2,2,andhra pradesh,8,PRAKASAM,Prakasam,8,1991,100.0,fuzzy,andhra pradesh_8
-NFHS-2,2,andhra pradesh,8,PRAKASAM,Prakasam,8,1991,100.0,fuzzy,andhra pradesh_8
-NFHS-2,2,andhra pradesh,12,ANANTAPUR,Anantapur,12,1991,100.0,fuzzy,andhra pradesh_12
 NFHS-2,2,andhra pradesh,12,ANANTAPUR,Anantapur,12,1991,100.0,fuzzy,andhra pradesh_12
 NFHS-2,2,andhra pradesh,11,CUDDAPAH,Cuddapah,11,1991,100.0,fuzzy,andhra pradesh_11
-NFHS-2,2,andhra pradesh,11,CUDDAPAH,Cuddapah,11,1991,100.0,fuzzy,andhra pradesh_11
-NFHS-2,2,andhra pradesh,13,KURNOOL,Kurnool,13,1991,100.0,fuzzy,andhra pradesh_13
 NFHS-2,2,andhra pradesh,13,KURNOOL,Kurnool,13,1991,100.0,fuzzy,andhra pradesh_13
 NFHS-2,2,andhra pradesh,10,CHITTOOR,Chittoor,10,1991,100.0,fuzzy,andhra pradesh_10
-NFHS-2,2,andhra pradesh,10,CHITTOOR,Chittoor,10,1991,100.0,fuzzy,andhra pradesh_10
-NFHS-2,2,andhra pradesh,15,RANGAREDDY,Rangareddi,15,1991,90.0,fuzzy,andhra pradesh_15
 NFHS-2,2,andhra pradesh,15,RANGAREDDY,Rangareddi,15,1991,90.0,fuzzy,andhra pradesh_15
 NFHS-2,2,andhra pradesh,18,NIZAMABAD,Nnizamabad,18,1991,94.73684210526316,fuzzy,andhra pradesh_18
-NFHS-2,2,andhra pradesh,18,NIZAMABAD,Nnizamabad,18,1991,94.73684210526316,fuzzy,andhra pradesh_18
-NFHS-2,2,andhra pradesh,14,MAHBUBNAGAR,Mahbubnagar,14,1991,100.0,fuzzy,andhra pradesh_14
 NFHS-2,2,andhra pradesh,14,MAHBUBNAGAR,Mahbubnagar,14,1991,100.0,fuzzy,andhra pradesh_14
 NFHS-2,2,andhra pradesh,17,MEDAK,Medak,17,1991,100.0,fuzzy,andhra pradesh_17
-NFHS-2,2,andhra pradesh,17,MEDAK,Medak,17,1991,100.0,fuzzy,andhra pradesh_17
-NFHS-2,2,andhra pradesh,23,NALGONDA,Nalgonda,23,1991,100.0,fuzzy,andhra pradesh_23
 NFHS-2,2,andhra pradesh,23,NALGONDA,Nalgonda,23,1991,100.0,fuzzy,andhra pradesh_23
 NFHS-2,2,andhra pradesh,20,KARIMNAGAR,Karimnagar,20,1991,100.0,fuzzy,andhra pradesh_20
-NFHS-2,2,andhra pradesh,20,KARIMNAGAR,Karimnagar,20,1991,100.0,fuzzy,andhra pradesh_20
-NFHS-2,2,andhra pradesh,21,WARANGAL,Warangal,21,1991,100.0,fuzzy,andhra pradesh_21
 NFHS-2,2,andhra pradesh,21,WARANGAL,Warangal,21,1991,100.0,fuzzy,andhra pradesh_21
 NFHS-2,2,andhra pradesh,22,KHAMMAM,Khammam,22,1991,100.0,fuzzy,andhra pradesh_22
-NFHS-2,2,andhra pradesh,22,KHAMMAM,Khammam,22,1991,100.0,fuzzy,andhra pradesh_22
-NFHS-2,2,andhra pradesh,16,HYDERABAD,Hyderabad,16,1991,100.0,fuzzy,andhra pradesh_16
 NFHS-2,2,andhra pradesh,16,HYDERABAD,Hyderabad,16,1991,100.0,fuzzy,andhra pradesh_16
 NFHS-2,2,andhra pradesh,19,ADILABAD,Adilabad,19,1991,100.0,fuzzy,andhra pradesh_19
-NFHS-2,2,andhra pradesh,19,ADILABAD,Adilabad,19,1991,100.0,fuzzy,andhra pradesh_19
-NFHS-2,3,assam,4,Goalpara,Goalpara,4,1991,100.0,fuzzy,assam_4
 NFHS-2,3,assam,4,Goalpara,Goalpara,4,1991,100.0,fuzzy,assam_4
 NFHS-2,3,assam,7,Kamrup,Kamrup,7,1991,100.0,fuzzy,assam_7
-NFHS-2,3,assam,7,Kamrup,Kamrup,7,1991,100.0,fuzzy,assam_7
-NFHS-2,3,assam,13,Nagaon,Nagaon,13,1991,100.0,fuzzy,assam_13
 NFHS-2,3,assam,13,Nagaon,Nagaon,13,1991,100.0,fuzzy,assam_13
 NFHS-2,3,assam,12,Marigaon,Marigaon,12,1991,100.0,fuzzy,assam_12
-NFHS-2,3,assam,12,Marigaon,Marigaon,12,1991,100.0,fuzzy,assam_12
-NFHS-2,3,assam,6,Nalbari,Nalbari,6,1991,100.0,fuzzy,assam_6
 NFHS-2,3,assam,6,Nalbari,Nalbari,6,1991,100.0,fuzzy,assam_6
 NFHS-2,3,assam,1,Dhubri,Dhubri,1,1991,100.0,fuzzy,assam_1
-NFHS-2,3,assam,1,Dhubri,Dhubri,1,1991,100.0,fuzzy,assam_1
-NFHS-2,3,assam,9,Sonitpur,Sonitpur,9,1991,100.0,fuzzy,assam_9
 NFHS-2,3,assam,9,Sonitpur,Sonitpur,9,1991,100.0,fuzzy,assam_9
 NFHS-2,3,assam,5,Barpeta,Barpeta,5,1991,100.0,fuzzy,assam_5
-NFHS-2,3,assam,5,Barpeta,Barpeta,5,1991,100.0,fuzzy,assam_5
-NFHS-2,3,assam,3,Bongaigaon,Bongaigaon,3,1991,100.0,fuzzy,assam_3
 NFHS-2,3,assam,3,Bongaigaon,Bongaigaon,3,1991,100.0,fuzzy,assam_3
 NFHS-2,3,assam,16,Sibsagar,Sibsagar,16,1991,100.0,fuzzy,assam_16
-NFHS-2,3,assam,16,Sibsagar,Sibsagar,16,1991,100.0,fuzzy,assam_16
-NFHS-2,3,assam,18,Tinsukia,Tinsukia,18,1991,100.0,fuzzy,assam_18
 NFHS-2,3,assam,18,Tinsukia,Tinsukia,18,1991,100.0,fuzzy,assam_18
 NFHS-2,3,assam,14,Golaghat,Golaghat,14,1991,100.0,fuzzy,assam_14
-NFHS-2,3,assam,14,Golaghat,Golaghat,14,1991,100.0,fuzzy,assam_14
-NFHS-2,3,assam,23,Cachar,Cachar,23,1991,100.0,fuzzy,assam_23
 NFHS-2,3,assam,23,Cachar,Cachar,23,1991,100.0,fuzzy,assam_23
 NFHS-2,3,assam,17,Dibrugarh,Dibrugarh,17,1991,100.0,fuzzy,assam_17
-NFHS-2,3,assam,17,Dibrugarh,Dibrugarh,17,1991,100.0,fuzzy,assam_17
-NFHS-2,3,assam,15,Jorhat,Jorhat,15,1991,100.0,fuzzy,assam_15
 NFHS-2,3,assam,15,Jorhat,Jorhat,15,1991,100.0,fuzzy,assam_15
 NFHS-2,3,assam,21,Karimganj,Karimganj,21,1991,100.0,fuzzy,assam_21
-NFHS-2,3,assam,21,Karimganj,Karimganj,21,1991,100.0,fuzzy,assam_21
-NFHS-2,3,assam,10,Lakhimpur,Lakhimpur,10,1991,100.0,fuzzy,assam_10
 NFHS-2,3,assam,10,Lakhimpur,Lakhimpur,10,1991,100.0,fuzzy,assam_10
 NFHS-2,3,assam,11,Dhemaji,Dhemaji,11,1991,100.0,fuzzy,assam_11
-NFHS-2,3,assam,11,Dhemaji,Dhemaji,11,1991,100.0,fuzzy,assam_11
-NFHS-2,3,assam,19,Karbi Anglong,Karbi Anglong,19,1991,100.0,fuzzy,assam_19
 NFHS-2,3,assam,19,Karbi Anglong,Karbi Anglong,19,1991,100.0,fuzzy,assam_19
 NFHS-2,3,assam,8,Darrang,Darrang,8,1991,100.0,fuzzy,assam_8
-NFHS-2,3,assam,8,Darrang,Darrang,8,1991,100.0,fuzzy,assam_8
-NFHS-2,4,bihar,10,Siwan,Siwan,10,1991,100.0,fuzzy,bihar_10
 NFHS-2,4,bihar,10,Siwan,Siwan,10,1991,100.0,fuzzy,bihar_10
 NFHS-2,4,bihar,13,Purba Champaran,Purba Champaran,13,1991,100.0,fuzzy,bihar_13
-NFHS-2,4,bihar,13,Purba Champaran,Purba Champaran,13,1991,100.0,fuzzy,bihar_13
-NFHS-2,4,bihar,11,Gopalganj,Gopalganj,11,1991,100.0,fuzzy,bihar_11
 NFHS-2,4,bihar,11,Gopalganj,Gopalganj,11,1991,100.0,fuzzy,bihar_11
 NFHS-2,4,bihar,9,Saran,Saran,9,1991,100.0,fuzzy,bihar_9
-NFHS-2,4,bihar,9,Saran,Saran,9,1991,100.0,fuzzy,bihar_9
-NFHS-2,4,bihar,12,Pashchim Champaran,Pashchim Champaran,12,1991,100.0,fuzzy,bihar_12
 NFHS-2,4,bihar,12,Pashchim Champaran,Pashchim Champaran,12,1991,100.0,fuzzy,bihar_12
 NFHS-2,4,bihar,15,Muzaffarpur,Muzaffarpur,15,1991,100.0,fuzzy,bihar_15
-NFHS-2,4,bihar,15,Muzaffarpur,Muzaffarpur,15,1991,100.0,fuzzy,bihar_15
-NFHS-2,4,bihar,19,Darbhanga,Darbhanga,19,1991,100.0,fuzzy,bihar_19
 NFHS-2,4,bihar,19,Darbhanga,Darbhanga,19,1991,100.0,fuzzy,bihar_19
 NFHS-2,4,bihar,18,Samastipur,Samastipur,18,1991,100.0,fuzzy,bihar_18
-NFHS-2,4,bihar,18,Samastipur,Samastipur,18,1991,100.0,fuzzy,bihar_18
-NFHS-2,4,bihar,14,Sitamarhi,Sitamarhi,14,1991,100.0,fuzzy,bihar_14
 NFHS-2,4,bihar,14,Sitamarhi,Sitamarhi,14,1991,100.0,fuzzy,bihar_14
 NFHS-2,4,bihar,16,Vaishali,Vaishali,16,1991,100.0,fuzzy,bihar_16
-NFHS-2,4,bihar,16,Vaishali,Vaishali,16,1991,100.0,fuzzy,bihar_16
-NFHS-2,4,bihar,21,Saharsa,Saharsa,21,1991,100.0,fuzzy,bihar_21
 NFHS-2,4,bihar,21,Saharsa,Saharsa,21,1991,100.0,fuzzy,bihar_21
 NFHS-2,4,bihar,20,Madhubani,Madhubani,20,1991,100.0,fuzzy,bihar_20
-NFHS-2,4,bihar,20,Madhubani,Madhubani,20,1991,100.0,fuzzy,bihar_20
-NFHS-2,4,bihar,23,Purnia,Purnia,23,1991,100.0,fuzzy,bihar_23
 NFHS-2,4,bihar,23,Purnia,Purnia,23,1991,100.0,fuzzy,bihar_23
 NFHS-2,4,bihar,22,Madhepura,Madhepura,22,1991,100.0,fuzzy,bihar_22
-NFHS-2,4,bihar,22,Madhepura,Madhepura,22,1991,100.0,fuzzy,bihar_22
-NFHS-2,4,bihar,24,Katihar,Katihar,24,1991,100.0,fuzzy,bihar_24
 NFHS-2,4,bihar,24,Katihar,Katihar,24,1991,100.0,fuzzy,bihar_24
 NFHS-2,4,bihar,41,Araria,Araria,41,1991,100.0,fuzzy,bihar_41
-NFHS-2,4,bihar,41,Araria,Araria,41,1991,100.0,fuzzy,bihar_41
-NFHS-2,4,bihar,3,Bhojpur,Bhojpur,3,1991,100.0,fuzzy,bihar_3
 NFHS-2,4,bihar,3,Bhojpur,Bhojpur,3,1991,100.0,fuzzy,bihar_3
 NFHS-2,4,bihar,4,Rohtas,Rohtas,4,1991,100.0,fuzzy,bihar_4
-NFHS-2,4,bihar,4,Rohtas,Rohtas,4,1991,100.0,fuzzy,bihar_4
-NFHS-2,4,bihar,1,Patna,Patna,1,1991,100.0,fuzzy,bihar_1
 NFHS-2,4,bihar,1,Patna,Patna,1,1991,100.0,fuzzy,bihar_1
 NFHS-2,4,bihar,26,Munger,Munger,26,1991,100.0,fuzzy,bihar_26
-NFHS-2,4,bihar,26,Munger,Munger,26,1991,100.0,fuzzy,bihar_26
-NFHS-2,4,bihar,27,Bhagalpur,Bhagalpur,27,1991,100.0,fuzzy,bihar_27
 NFHS-2,4,bihar,27,Bhagalpur,Bhagalpur,27,1991,100.0,fuzzy,bihar_27
 NFHS-2,4,bihar,25,Khagaria,Khagaria,25,1991,100.0,fuzzy,bihar_25
-NFHS-2,4,bihar,25,Khagaria,Khagaria,25,1991,100.0,fuzzy,bihar_25
-NFHS-2,4,bihar,8,Nawada,Nawada,8,1991,100.0,fuzzy,bihar_8
 NFHS-2,4,bihar,8,Nawada,Nawada,8,1991,100.0,fuzzy,bihar_8
 NFHS-2,4,bihar,7,Gaya,Gaya,7,1991,100.0,fuzzy,bihar_7
-NFHS-2,4,bihar,7,Gaya,Gaya,7,1991,100.0,fuzzy,bihar_7
-NFHS-2,4,bihar,5,Aurangabad,Aurangabad,5,1991,100.0,fuzzy,bihar_5
 NFHS-2,4,bihar,5,Aurangabad,Aurangabad,5,1991,100.0,fuzzy,bihar_5
 NFHS-2,4,bihar,17,Begusarai,Begusarai,17,1991,100.0,fuzzy,bihar_17
-NFHS-2,4,bihar,17,Begusarai,Begusarai,17,1991,100.0,fuzzy,bihar_17
-NFHS-2,4,bihar,6,Jehanabad,Jehanabad,6,1991,100.0,fuzzy,bihar_6
 NFHS-2,4,bihar,6,Jehanabad,Jehanabad,6,1991,100.0,fuzzy,bihar_6
 NFHS-2,4,bihar,2,Nalanda,Nalanda,2,1991,100.0,fuzzy,bihar_2
-NFHS-2,4,bihar,2,Nalanda,Nalanda,2,1991,100.0,fuzzy,bihar_2
-NFHS-2,4,bihar,30,Dumka,Dumka,30,1991,100.0,fuzzy,bihar_30
 NFHS-2,4,bihar,30,Dumka,Dumka,30,1991,100.0,fuzzy,bihar_30
 NFHS-2,4,bihar,31,Deoghar,Deoghar,31,1991,100.0,fuzzy,bihar_31
-NFHS-2,4,bihar,31,Deoghar,Deoghar,31,1991,100.0,fuzzy,bihar_31
-NFHS-2,4,bihar,33,Giridih,Giridih,33,1991,100.0,fuzzy,bihar_33
 NFHS-2,4,bihar,33,Giridih,Giridih,33,1991,100.0,fuzzy,bihar_33
 NFHS-2,4,bihar,32,Dhanbad,Dhanbad,32,1991,100.0,fuzzy,bihar_32
-NFHS-2,4,bihar,32,Dhanbad,Dhanbad,32,1991,100.0,fuzzy,bihar_32
-NFHS-2,4,bihar,28,Godda,Godda,28,1991,100.0,fuzzy,bihar_28
 NFHS-2,4,bihar,28,Godda,Godda,28,1991,100.0,fuzzy,bihar_28
 NFHS-2,4,bihar,29,Sahibganj,Sahibganj,29,1991,100.0,fuzzy,bihar_29
-NFHS-2,4,bihar,29,Sahibganj,Sahibganj,29,1991,100.0,fuzzy,bihar_29
-NFHS-2,4,bihar,35,Palamu,Palamu,35,1991,100.0,fuzzy,bihar_35
 NFHS-2,4,bihar,35,Palamu,Palamu,35,1991,100.0,fuzzy,bihar_35
 NFHS-2,4,bihar,34,Hazaribag,Hazaribag,34,1991,100.0,fuzzy,bihar_34
-NFHS-2,4,bihar,34,Hazaribag,Hazaribag,34,1991,100.0,fuzzy,bihar_34
-NFHS-2,4,bihar,40,Pas. Singhbhum,Pashchimi Singhbhum,40,1991,100.0,manual_override,bihar_40
 NFHS-2,4,bihar,40,Pas. Singhbhum,Pashchimi Singhbhum,40,1991,100.0,manual_override,bihar_40
 NFHS-2,4,bihar,38,Ranchi,Ranchi,38,1991,100.0,fuzzy,bihar_38
-NFHS-2,4,bihar,38,Ranchi,Ranchi,38,1991,100.0,fuzzy,bihar_38
-NFHS-2,4,bihar,37,Gumla,Gumla,37,1991,100.0,fuzzy,bihar_37
 NFHS-2,4,bihar,37,Gumla,Gumla,37,1991,100.0,fuzzy,bihar_37
 NFHS-2,4,bihar,42,Kishanganj,Kishanganj,42,1991,100.0,fuzzy,bihar_42
-NFHS-2,4,bihar,42,Kishanganj,Kishanganj,42,1991,100.0,fuzzy,bihar_42
-NFHS-2,4,bihar,39,Purbi Singhbhum,Purbi Singhbhum,39,1991,100.0,fuzzy,bihar_39
 NFHS-2,4,bihar,39,Purbi Singhbhum,Purbi Singhbhum,39,1991,100.0,fuzzy,bihar_39
 NFHS-2,5,goa,1,North Goa,Goa,0,1991,90.0,fuzzy,goa_0
-NFHS-2,5,goa,1,North Goa,Goa,0,1991,90.0,fuzzy,goa_0
-NFHS-2,5,goa,2,South Goa,Goa,0,1991,90.0,fuzzy,goa_0
 NFHS-2,5,goa,2,South Goa,Goa,0,1991,90.0,fuzzy,goa_0
 NFHS-2,6,gujarat,1,JAMNAGAR,Jamnagar,1,1991,100.0,fuzzy,gujarat_1
-NFHS-2,6,gujarat,1,JAMNAGAR,Jamnagar,1,1991,100.0,fuzzy,gujarat_1
-NFHS-2,6,gujarat,2,RAJKOT,Rajkot,2,1991,100.0,fuzzy,gujarat_2
 NFHS-2,6,gujarat,2,RAJKOT,Rajkot,2,1991,100.0,fuzzy,gujarat_2
 NFHS-2,6,gujarat,4,BHAVNAGAR,Bhavnagar,4,1991,100.0,fuzzy,gujarat_4
-NFHS-2,6,gujarat,4,BHAVNAGAR,Bhavnagar,4,1991,100.0,fuzzy,gujarat_4
-NFHS-2,6,gujarat,5,AMRELI,Amreli,5,1991,100.0,fuzzy,gujarat_5
 NFHS-2,6,gujarat,5,AMRELI,Amreli,5,1991,100.0,fuzzy,gujarat_5
 NFHS-2,6,gujarat,3,SURENDRANAGAR,Surendranagar,3,1991,100.0,fuzzy,gujarat_3
-NFHS-2,6,gujarat,3,SURENDRANAGAR,Surendranagar,3,1991,100.0,fuzzy,gujarat_3
-NFHS-2,6,gujarat,6,JUNAGADH,Junagadh,6,1991,100.0,fuzzy,gujarat_6
 NFHS-2,6,gujarat,6,JUNAGADH,Junagadh,6,1991,100.0,fuzzy,gujarat_6
 NFHS-2,6,gujarat,7,KACHCHH,Kachchh,7,1991,100.0,fuzzy,gujarat_7
-NFHS-2,6,gujarat,7,KACHCHH,Kachchh,7,1991,100.0,fuzzy,gujarat_7
-NFHS-2,6,gujarat,8,BANASKANTHA,Banas Kantha,8,1991,95.65217391304348,fuzzy,gujarat_8
 NFHS-2,6,gujarat,8,BANASKANTHA,Banas Kantha,8,1991,95.65217391304348,fuzzy,gujarat_8
 NFHS-2,6,gujarat,9,SABARKANTHA,Sabar Kantha,9,1991,95.65217391304348,fuzzy,gujarat_9
-NFHS-2,6,gujarat,9,SABARKANTHA,Sabar Kantha,9,1991,95.65217391304348,fuzzy,gujarat_9
-NFHS-2,6,gujarat,10,MAHESANA,Mahasana,10,1991,100.0,manual_override,gujarat_10
 NFHS-2,6,gujarat,10,MAHESANA,Mahasana,10,1991,100.0,manual_override,gujarat_10
 NFHS-2,6,gujarat,12,AHMADABAD,Ahmadabad,12,1991,100.0,fuzzy,gujarat_12
-NFHS-2,6,gujarat,12,AHMADABAD,Ahmadabad,12,1991,100.0,fuzzy,gujarat_12
-NFHS-2,6,gujarat,11,GANDHINAGAR,Gandhinagar,11,1991,100.0,fuzzy,gujarat_11
 NFHS-2,6,gujarat,11,GANDHINAGAR,Gandhinagar,11,1991,100.0,fuzzy,gujarat_11
 NFHS-2,6,gujarat,13,KHEDA,Kheda,13,1991,100.0,fuzzy,gujarat_13
-NFHS-2,6,gujarat,13,KHEDA,Kheda,13,1991,100.0,fuzzy,gujarat_13
-NFHS-2,6,gujarat,15,VADODARA,Vadodara,15,1991,100.0,fuzzy,gujarat_15
 NFHS-2,6,gujarat,15,VADODARA,Vadodara,15,1991,100.0,fuzzy,gujarat_15
 NFHS-2,6,gujarat,14,PANCHMAHALS,Panch Mahals,14,1991,95.65217391304348,fuzzy,gujarat_14
-NFHS-2,6,gujarat,14,PANCHMAHALS,Panch Mahals,14,1991,95.65217391304348,fuzzy,gujarat_14
-NFHS-2,6,gujarat,17,SURAT,Surat,17,1991,100.0,fuzzy,gujarat_17
 NFHS-2,6,gujarat,17,SURAT,Surat,17,1991,100.0,fuzzy,gujarat_17
 NFHS-2,6,gujarat,18,VALSAD,Valsad,18,1991,100.0,fuzzy,gujarat_18
-NFHS-2,6,gujarat,18,VALSAD,Valsad,18,1991,100.0,fuzzy,gujarat_18
-NFHS-2,6,gujarat,19,DANGS,The Dangs,19,1991,90.0,fuzzy,gujarat_19
 NFHS-2,6,gujarat,19,DANGS,The Dangs,19,1991,90.0,fuzzy,gujarat_19
 NFHS-2,6,gujarat,16,BHARUCH,Bharuch,16,1991,100.0,fuzzy,gujarat_16
-NFHS-2,6,gujarat,16,BHARUCH,Bharuch,16,1991,100.0,fuzzy,gujarat_16
-NFHS-2,7,haryana,10,GURGAON,Gurgaon,10,1991,100.0,fuzzy,haryana_10
 NFHS-2,7,haryana,10,GURGAON,Gurgaon,10,1991,100.0,fuzzy,haryana_10
 NFHS-2,7,haryana,9,FARIDABAD,Faridabad,9,1991,100.0,fuzzy,haryana_9
-NFHS-2,7,haryana,9,FARIDABAD,Faridabad,9,1991,100.0,fuzzy,haryana_9
-NFHS-2,7,haryana,7,SONIPAT,Sonipat,7,1991,100.0,fuzzy,haryana_7
 NFHS-2,7,haryana,7,SONIPAT,Sonipat,7,1991,100.0,fuzzy,haryana_7
 NFHS-2,7,haryana,1,AMBALA,Ambala,1,1991,100.0,fuzzy,haryana_1
-NFHS-2,7,haryana,1,AMBALA,Ambala,1,1991,100.0,fuzzy,haryana_1
-NFHS-2,7,haryana,3,KURUKSHETRA,Kurukshetra,3,1991,100.0,fuzzy,haryana_3
 NFHS-2,7,haryana,3,KURUKSHETRA,Kurukshetra,3,1991,100.0,fuzzy,haryana_3
 NFHS-2,7,haryana,2,YAMUNANAGAR,Yamunanagar,2,1991,100.0,fuzzy,haryana_2
-NFHS-2,7,haryana,2,YAMUNANAGAR,Yamunanagar,2,1991,100.0,fuzzy,haryana_2
-NFHS-2,7,haryana,5,KARNAL,Karnal,5,1991,100.0,fuzzy,haryana_5
 NFHS-2,7,haryana,5,KARNAL,Karnal,5,1991,100.0,fuzzy,haryana_5
 NFHS-2,7,haryana,6,PANIPAT,Panipat,6,1991,100.0,fuzzy,haryana_6
-NFHS-2,7,haryana,6,PANIPAT,Panipat,6,1991,100.0,fuzzy,haryana_6
-NFHS-2,7,haryana,4,KAITHAL,Kaithal,4,1991,100.0,fuzzy,haryana_4
 NFHS-2,7,haryana,4,KAITHAL,Kaithal,4,1991,100.0,fuzzy,haryana_4
 NFHS-2,7,haryana,11,REWARI,Rewari,11,1991,100.0,fuzzy,haryana_11
-NFHS-2,7,haryana,11,REWARI,Rewari,11,1991,100.0,fuzzy,haryana_11
-NFHS-2,7,haryana,13,BHIWANI,Bhiwani,13,1991,100.0,fuzzy,haryana_13
 NFHS-2,7,haryana,13,BHIWANI,Bhiwani,13,1991,100.0,fuzzy,haryana_13
 NFHS-2,7,haryana,12,MAHENDRAGARH,Mahendragarh,12,1991,100.0,fuzzy,haryana_12
-NFHS-2,7,haryana,12,MAHENDRAGARH,Mahendragarh,12,1991,100.0,fuzzy,haryana_12
-NFHS-2,7,haryana,16,SIRSA,Sirsa,16,1991,100.0,fuzzy,haryana_16
 NFHS-2,7,haryana,16,SIRSA,Sirsa,16,1991,100.0,fuzzy,haryana_16
 NFHS-2,7,haryana,15,HISAR,Hisar,15,1991,100.0,fuzzy,haryana_15
-NFHS-2,7,haryana,15,HISAR,Hisar,15,1991,100.0,fuzzy,haryana_15
-NFHS-2,7,haryana,14,JIND,Jind,14,1991,100.0,fuzzy,haryana_14
 NFHS-2,7,haryana,14,JIND,Jind,14,1991,100.0,fuzzy,haryana_14
 NFHS-2,7,haryana,8,ROHTAK,Rohtak,8,1991,100.0,fuzzy,haryana_8
-NFHS-2,7,haryana,8,ROHTAK,Rohtak,8,1991,100.0,fuzzy,haryana_8
-NFHS-2,8,himachal pradesh,1,Chamba,Chamba,1,1991,100.0,fuzzy,himachal pradesh_1
 NFHS-2,8,himachal pradesh,1,Chamba,Chamba,1,1991,100.0,fuzzy,himachal pradesh_1
 NFHS-2,8,himachal pradesh,8,Lahul & Spiti,Lahul and Spiti,8,1991,95.0,fuzzy,himachal pradesh_8
-NFHS-2,8,himachal pradesh,8,Lahul & Spiti,Lahul and Spiti,8,1991,95.0,fuzzy,himachal pradesh_8
-NFHS-2,8,himachal pradesh,2,Kangra,Kangra,2,1991,100.0,fuzzy,himachal pradesh_2
 NFHS-2,8,himachal pradesh,2,Kangra,Kangra,2,1991,100.0,fuzzy,himachal pradesh_2
 NFHS-2,8,himachal pradesh,3,Hamirpur,Hamirpur,3,1991,100.0,fuzzy,himachal pradesh_3
-NFHS-2,8,himachal pradesh,3,Hamirpur,Hamirpur,3,1991,100.0,fuzzy,himachal pradesh_3
-NFHS-2,8,himachal pradesh,6,Mandi,Mandi,6,1991,100.0,fuzzy,himachal pradesh_6
 NFHS-2,8,himachal pradesh,6,Mandi,Mandi,6,1991,100.0,fuzzy,himachal pradesh_6
 NFHS-2,8,himachal pradesh,4,Una,Una,4,1991,100.0,fuzzy,himachal pradesh_4
-NFHS-2,8,himachal pradesh,4,Una,Una,4,1991,100.0,fuzzy,himachal pradesh_4
-NFHS-2,8,himachal pradesh,7,Kullu,Kullu,7,1991,100.0,fuzzy,himachal pradesh_7
 NFHS-2,8,himachal pradesh,7,Kullu,Kullu,7,1991,100.0,fuzzy,himachal pradesh_7
 NFHS-2,8,himachal pradesh,5,Bilaspur,Bilaspur,5,1991,100.0,fuzzy,himachal pradesh_5
-NFHS-2,8,himachal pradesh,5,Bilaspur,Bilaspur,5,1991,100.0,fuzzy,himachal pradesh_5
-NFHS-2,8,himachal pradesh,10,Solan,Solan,10,1991,100.0,fuzzy,himachal pradesh_10
 NFHS-2,8,himachal pradesh,10,Solan,Solan,10,1991,100.0,fuzzy,himachal pradesh_10
 NFHS-2,8,himachal pradesh,9,Shimla,Shimla,9,1991,100.0,fuzzy,himachal pradesh_9
-NFHS-2,8,himachal pradesh,9,Shimla,Shimla,9,1991,100.0,fuzzy,himachal pradesh_9
-NFHS-2,8,himachal pradesh,11,Sirmaur,Sirmaur,11,1991,100.0,fuzzy,himachal pradesh_11
 NFHS-2,8,himachal pradesh,11,Sirmaur,Sirmaur,11,1991,100.0,fuzzy,himachal pradesh_11
 NFHS-2,9,jammu & kashmir,3,Srinagar,Srinagar,3,1981,100.0,fuzzy,jammu & kashmir_3
-NFHS-2,9,jammu & kashmir,3,Srinagar,Srinagar,3,1981,100.0,fuzzy,jammu & kashmir_3
-NFHS-2,9,jammu & kashmir,2,Palwama,Pulwama,2,1981,100.0,manual_override,jammu & kashmir_2
 NFHS-2,9,jammu & kashmir,2,Palwama,Pulwama,2,1981,100.0,manual_override,jammu & kashmir_2
 NFHS-2,9,jammu & kashmir,5,Barmala,Baramula,5,1981,100.0,manual_override,jammu & kashmir_5
-NFHS-2,9,jammu & kashmir,5,Barmala,Baramula,5,1981,100.0,manual_override,jammu & kashmir_5
-NFHS-2,9,jammu & kashmir,1,Anandnagar,Anantnag,1,1981,100.0,manual_override,jammu & kashmir_1
 NFHS-2,9,jammu & kashmir,1,Anandnagar,Anantnag,1,1981,100.0,manual_override,jammu & kashmir_1
 NFHS-2,9,jammu & kashmir,4,Badgam,Badgam,4,1981,100.0,fuzzy,jammu & kashmir_4
-NFHS-2,9,jammu & kashmir,4,Badgam,Badgam,4,1981,100.0,fuzzy,jammu & kashmir_4
-NFHS-2,9,jammu & kashmir,6,Kupwara,Kupwara,6,1981,100.0,fuzzy,jammu & kashmir_6
 NFHS-2,9,jammu & kashmir,6,Kupwara,Kupwara,6,1981,100.0,fuzzy,jammu & kashmir_6
 NFHS-2,9,jammu & kashmir,10,Udhampur,Udhampur,10,1981,100.0,fuzzy,jammu & kashmir_10
-NFHS-2,9,jammu & kashmir,10,Udhampur,Udhampur,10,1981,100.0,fuzzy,jammu & kashmir_10
-NFHS-2,9,jammu & kashmir,12,Jammmu,Jammu,12,1981,90.9090909090909,fuzzy,jammu & kashmir_12
 NFHS-2,9,jammu & kashmir,12,Jammmu,Jammu,12,1981,90.9090909090909,fuzzy,jammu & kashmir_12
 NFHS-2,9,jammu & kashmir,11,Kathua,Kuthua,11,1981,100.0,manual_override,jammu & kashmir_11
-NFHS-2,9,jammu & kashmir,11,Kathua,Kuthua,11,1981,100.0,manual_override,jammu & kashmir_11
-NFHS-2,10,karnataka,11,GULBARGA,Gulbarga,11,1991,100.0,fuzzy,karnataka_11
 NFHS-2,10,karnataka,11,GULBARGA,Gulbarga,11,1991,100.0,fuzzy,karnataka_11
 NFHS-2,10,karnataka,6,BIJAPUR,Bijapur,6,1991,100.0,fuzzy,karnataka_6
-NFHS-2,10,karnataka,6,BIJAPUR,Bijapur,6,1991,100.0,fuzzy,karnataka_6
-NFHS-2,10,karnataka,5,BIDAR,Bidar,5,1991,100.0,fuzzy,karnataka_5
 NFHS-2,10,karnataka,5,BIDAR,Bidar,5,1991,100.0,fuzzy,karnataka_5
 NFHS-2,10,karnataka,17,RAICHUR,Raichur,17,1991,100.0,fuzzy,karnataka_17
-NFHS-2,10,karnataka,17,RAICHUR,Raichur,17,1991,100.0,fuzzy,karnataka_17
-NFHS-2,10,karnataka,3,BELGAUM,Belgaum,3,1991,100.0,fuzzy,karnataka_3
 NFHS-2,10,karnataka,3,BELGAUM,Belgaum,3,1991,100.0,fuzzy,karnataka_3
 NFHS-2,10,karnataka,10,DHARWAD,Dharwad,10,1991,100.0,fuzzy,karnataka_10
-NFHS-2,10,karnataka,10,DHARWAD,Dharwad,10,1991,100.0,fuzzy,karnataka_10
-NFHS-2,10,karnataka,9,DAKSHIN KANNAD,Dakshin Kannad,9,1991,100.0,fuzzy,karnataka_9
 NFHS-2,10,karnataka,9,DAKSHIN KANNAD,Dakshin Kannad,9,1991,100.0,fuzzy,karnataka_9
 NFHS-2,10,karnataka,13,KODAGU,Kodagu,13,1991,100.0,fuzzy,karnataka_13
-NFHS-2,10,karnataka,13,KODAGU,Kodagu,13,1991,100.0,fuzzy,karnataka_13
-NFHS-2,10,karnataka,20,UTTAR KANNAD,Uttar Kannad,20,1991,100.0,fuzzy,karnataka_20
 NFHS-2,10,karnataka,20,UTTAR KANNAD,Uttar Kannad,20,1991,100.0,fuzzy,karnataka_20
 NFHS-2,10,karnataka,7,CHIKMAGALUR,Chikmagalur,7,1991,100.0,fuzzy,karnataka_7
-NFHS-2,10,karnataka,7,CHIKMAGALUR,Chikmagalur,7,1991,100.0,fuzzy,karnataka_7
-NFHS-2,10,karnataka,18,SHIMOGA,Shimoga,18,1991,100.0,fuzzy,karnataka_18
 NFHS-2,10,karnataka,18,SHIMOGA,Shimoga,18,1991,100.0,fuzzy,karnataka_18
 NFHS-2,10,karnataka,19,TUMKUR,Tumkur,19,1991,100.0,fuzzy,karnataka_19
-NFHS-2,10,karnataka,19,TUMKUR,Tumkur,19,1991,100.0,fuzzy,karnataka_19
-NFHS-2,10,karnataka,2,BANGALORE RURAL,Bangalore Rural,2,1991,100.0,fuzzy,karnataka_2
 NFHS-2,10,karnataka,2,BANGALORE RURAL,Bangalore Rural,2,1991,100.0,fuzzy,karnataka_2
 NFHS-2,10,karnataka,14,KOLAR,Kolar,14,1991,100.0,fuzzy,karnataka_14
-NFHS-2,10,karnataka,14,KOLAR,Kolar,14,1991,100.0,fuzzy,karnataka_14
-NFHS-2,10,karnataka,1,BANGALORE,Bangalore,1,1991,100.0,fuzzy,karnataka_1
 NFHS-2,10,karnataka,1,BANGALORE,Bangalore,1,1991,100.0,fuzzy,karnataka_1
 NFHS-2,10,karnataka,8,CHITRADURGA,Chitradurga,8,1991,100.0,fuzzy,karnataka_8
-NFHS-2,10,karnataka,8,CHITRADURGA,Chitradurga,8,1991,100.0,fuzzy,karnataka_8
-NFHS-2,10,karnataka,4,BELLARY,Bellary,4,1991,100.0,fuzzy,karnataka_4
 NFHS-2,10,karnataka,4,BELLARY,Bellary,4,1991,100.0,fuzzy,karnataka_4
 NFHS-2,10,karnataka,15,MANDYA,Mandya,15,1991,100.0,fuzzy,karnataka_15
-NFHS-2,10,karnataka,15,MANDYA,Mandya,15,1991,100.0,fuzzy,karnataka_15
-NFHS-2,10,karnataka,16,MYSORE,Mysore,16,1991,100.0,fuzzy,karnataka_16
 NFHS-2,10,karnataka,16,MYSORE,Mysore,16,1991,100.0,fuzzy,karnataka_16
 NFHS-2,10,karnataka,12,HASSAN,Hassan,12,1991,100.0,fuzzy,karnataka_12
-NFHS-2,10,karnataka,12,HASSAN,Hassan,12,1991,100.0,fuzzy,karnataka_12
-NFHS-2,11,kerala,1,Kasaragod,Kasaragod,1,1991,100.0,fuzzy,kerala_1
 NFHS-2,11,kerala,1,Kasaragod,Kasaragod,1,1991,100.0,fuzzy,kerala_1
 NFHS-2,11,kerala,3,Wayanad,Wayanad,3,1991,100.0,fuzzy,kerala_3
-NFHS-2,11,kerala,3,Wayanad,Wayanad,3,1991,100.0,fuzzy,kerala_3
-NFHS-2,11,kerala,2,Kannur,Kannur,2,1991,100.0,fuzzy,kerala_2
 NFHS-2,11,kerala,2,Kannur,Kannur,2,1991,100.0,fuzzy,kerala_2
 NFHS-2,11,kerala,4,Kozhikode,Kozhikode,4,1991,100.0,fuzzy,kerala_4
-NFHS-2,11,kerala,4,Kozhikode,Kozhikode,4,1991,100.0,fuzzy,kerala_4
-NFHS-2,11,kerala,6,Palakkad,Palakkad,6,1991,100.0,fuzzy,kerala_6
 NFHS-2,11,kerala,6,Palakkad,Palakkad,6,1991,100.0,fuzzy,kerala_6
 NFHS-2,11,kerala,5,Malappuram,Malappuram,5,1991,100.0,fuzzy,kerala_5
-NFHS-2,11,kerala,5,Malappuram,Malappuram,5,1991,100.0,fuzzy,kerala_5
-NFHS-2,11,kerala,9,Idukki,Idukki,9,1991,100.0,fuzzy,kerala_9
 NFHS-2,11,kerala,9,Idukki,Idukki,9,1991,100.0,fuzzy,kerala_9
 NFHS-2,11,kerala,7,Thrissur,Thrissur,7,1991,100.0,fuzzy,kerala_7
-NFHS-2,11,kerala,7,Thrissur,Thrissur,7,1991,100.0,fuzzy,kerala_7
-NFHS-2,11,kerala,8,Ernakulam,Ernakulam,8,1991,100.0,fuzzy,kerala_8
 NFHS-2,11,kerala,8,Ernakulam,Ernakulam,8,1991,100.0,fuzzy,kerala_8
 NFHS-2,11,kerala,10,Kottayam,Kottayam,10,1991,100.0,fuzzy,kerala_10
-NFHS-2,11,kerala,10,Kottayam,Kottayam,10,1991,100.0,fuzzy,kerala_10
-NFHS-2,11,kerala,14,Thiruvananthapuram,Thiruvananthapuram,14,1991,100.0,fuzzy,kerala_14
 NFHS-2,11,kerala,14,Thiruvananthapuram,Thiruvananthapuram,14,1991,100.0,fuzzy,kerala_14
 NFHS-2,11,kerala,13,Kollam,Kollam,13,1991,100.0,fuzzy,kerala_13
-NFHS-2,11,kerala,13,Kollam,Kollam,13,1991,100.0,fuzzy,kerala_13
-NFHS-2,11,kerala,12,Pathanamthitta,Pathanamthitta,12,1991,100.0,fuzzy,kerala_12
 NFHS-2,11,kerala,12,Pathanamthitta,Pathanamthitta,12,1991,100.0,fuzzy,kerala_12
 NFHS-2,11,kerala,11,Alappuzha,Alappuzha,11,1991,100.0,fuzzy,kerala_11
-NFHS-2,11,kerala,11,Alappuzha,Alappuzha,11,1991,100.0,fuzzy,kerala_11
-NFHS-2,12,madhya pradesh,45,Bastar,Bastar,45,1991,100.0,fuzzy,madhya pradesh_45
 NFHS-2,12,madhya pradesh,45,Bastar,Bastar,45,1991,100.0,fuzzy,madhya pradesh_45
 NFHS-2,12,madhya pradesh,39,Surguja,Sarguja,39,1991,100.0,manual_override,madhya pradesh_39
-NFHS-2,12,madhya pradesh,39,Surguja,Sarguja,39,1991,100.0,manual_override,madhya pradesh_39
-NFHS-2,12,madhya pradesh,42,Rajnandgaon,Rajnandgaon,42,1991,100.0,fuzzy,madhya pradesh_42
 NFHS-2,12,madhya pradesh,42,Rajnandgaon,Rajnandgaon,42,1991,100.0,fuzzy,madhya pradesh_42
 NFHS-2,12,madhya pradesh,40,Bilaspur,Bilaspur,40,1991,100.0,fuzzy,madhya pradesh_40
-NFHS-2,12,madhya pradesh,40,Bilaspur,Bilaspur,40,1991,100.0,fuzzy,madhya pradesh_40
-NFHS-2,12,madhya pradesh,41,Raigarh,Raigarh,41,1991,100.0,fuzzy,madhya pradesh_41
 NFHS-2,12,madhya pradesh,41,Raigarh,Raigarh,41,1991,100.0,fuzzy,madhya pradesh_41
 NFHS-2,12,madhya pradesh,44,Raipur,Raipur,44,1991,100.0,fuzzy,madhya pradesh_44
-NFHS-2,12,madhya pradesh,44,Raipur,Raipur,44,1991,100.0,fuzzy,madhya pradesh_44
-NFHS-2,12,madhya pradesh,8,Chhatarpur,Chhatarpur,8,1991,100.0,fuzzy,madhya pradesh_8
 NFHS-2,12,madhya pradesh,8,Chhatarpur,Chhatarpur,8,1991,100.0,fuzzy,madhya pradesh_8
 NFHS-2,12,madhya pradesh,15,Sidhi,Sidhi,15,1991,100.0,fuzzy,madhya pradesh_15
-NFHS-2,12,madhya pradesh,15,Sidhi,Sidhi,15,1991,100.0,fuzzy,madhya pradesh_15
-NFHS-2,12,madhya pradesh,14,Shahdol,Shahdol,14,1991,100.0,fuzzy,madhya pradesh_14
 NFHS-2,12,madhya pradesh,14,Shahdol,Shahdol,14,1991,100.0,fuzzy,madhya pradesh_14
 NFHS-2,12,madhya pradesh,13,Rewa,Rewa,13,1991,100.0,fuzzy,madhya pradesh_13
-NFHS-2,12,madhya pradesh,13,Rewa,Rewa,13,1991,100.0,fuzzy,madhya pradesh_13
-NFHS-2,12,madhya pradesh,12,Satna,Satna,12,1991,100.0,fuzzy,madhya pradesh_12
 NFHS-2,12,madhya pradesh,12,Satna,Satna,12,1991,100.0,fuzzy,madhya pradesh_12
 NFHS-2,12,madhya pradesh,7,Tikamgarh,Tikamgarh,7,1991,100.0,fuzzy,madhya pradesh_7
-NFHS-2,12,madhya pradesh,7,Tikamgarh,Tikamgarh,7,1991,100.0,fuzzy,madhya pradesh_7
-NFHS-2,12,madhya pradesh,10,Sagar,Sagar,10,1991,100.0,fuzzy,madhya pradesh_10
 NFHS-2,12,madhya pradesh,10,Sagar,Sagar,10,1991,100.0,fuzzy,madhya pradesh_10
 NFHS-2,12,madhya pradesh,30,Raisen,Raisen,30,1991,100.0,fuzzy,madhya pradesh_30
-NFHS-2,12,madhya pradesh,30,Raisen,Raisen,30,1991,100.0,fuzzy,madhya pradesh_30
-NFHS-2,12,madhya pradesh,11,Damoh,Damoh,11,1991,100.0,fuzzy,madhya pradesh_11
 NFHS-2,12,madhya pradesh,11,Damoh,Damoh,11,1991,100.0,fuzzy,madhya pradesh_11
 NFHS-2,12,madhya pradesh,29,Sehore,Sehore,29,1991,100.0,fuzzy,madhya pradesh_29
-NFHS-2,12,madhya pradesh,29,Sehore,Sehore,29,1991,100.0,fuzzy,madhya pradesh_29
-NFHS-2,12,madhya pradesh,27,Vidisha,Vidisha,27,1991,100.0,fuzzy,madhya pradesh_27
 NFHS-2,12,madhya pradesh,27,Vidisha,Vidisha,27,1991,100.0,fuzzy,madhya pradesh_27
 NFHS-2,12,madhya pradesh,19,Shajapur,Shajapur,19,1991,100.0,fuzzy,madhya pradesh_19
-NFHS-2,12,madhya pradesh,19,Shajapur,Shajapur,19,1991,100.0,fuzzy,madhya pradesh_19
-NFHS-2,12,madhya pradesh,21,Jhabua,Jhabua,21,1991,100.0,fuzzy,madhya pradesh_21
 NFHS-2,12,madhya pradesh,21,Jhabua,Jhabua,21,1991,100.0,fuzzy,madhya pradesh_21
 NFHS-2,12,madhya pradesh,16,Mandsaur,Mandsaur,16,1991,100.0,fuzzy,madhya pradesh_16
-NFHS-2,12,madhya pradesh,16,Mandsaur,Mandsaur,16,1991,100.0,fuzzy,madhya pradesh_16
-NFHS-2,12,madhya pradesh,20,Dewas,Dewas,20,1991,100.0,fuzzy,madhya pradesh_20
 NFHS-2,12,madhya pradesh,20,Dewas,Dewas,20,1991,100.0,fuzzy,madhya pradesh_20
 NFHS-2,12,madhya pradesh,18,Ujjain,Ujjain,18,1991,100.0,fuzzy,madhya pradesh_18
-NFHS-2,12,madhya pradesh,18,Ujjain,Ujjain,18,1991,100.0,fuzzy,madhya pradesh_18
-NFHS-2,12,madhya pradesh,26,Rajgarh,Rajgarh,26,1991,100.0,fuzzy,madhya pradesh_26
 NFHS-2,12,madhya pradesh,26,Rajgarh,Rajgarh,26,1991,100.0,fuzzy,madhya pradesh_26
 NFHS-2,12,madhya pradesh,22,Dhar,Dhar,22,1991,100.0,fuzzy,madhya pradesh_22
-NFHS-2,12,madhya pradesh,22,Dhar,Dhar,22,1991,100.0,fuzzy,madhya pradesh_22
-NFHS-2,12,madhya pradesh,17,Ratlam,Ratlam,17,1991,100.0,fuzzy,madhya pradesh_17
 NFHS-2,12,madhya pradesh,17,Ratlam,Ratlam,17,1991,100.0,fuzzy,madhya pradesh_17
 NFHS-2,12,madhya pradesh,35,Mandla,Mandla,35,1991,100.0,fuzzy,madhya pradesh_35
-NFHS-2,12,madhya pradesh,35,Mandla,Mandla,35,1991,100.0,fuzzy,madhya pradesh_35
-NFHS-2,12,madhya pradesh,34,Narsimhapur,Narsimhapur,34,1991,100.0,fuzzy,madhya pradesh_34
 NFHS-2,12,madhya pradesh,34,Narsimhapur,Narsimhapur,34,1991,100.0,fuzzy,madhya pradesh_34
 NFHS-2,12,madhya pradesh,33,Jabalpur,Jabalpur,33,1991,100.0,fuzzy,madhya pradesh_33
-NFHS-2,12,madhya pradesh,33,Jabalpur,Jabalpur,33,1991,100.0,fuzzy,madhya pradesh_33
-NFHS-2,12,madhya pradesh,36,Chhindwara,Chhindwara,36,1991,100.0,fuzzy,madhya pradesh_36
 NFHS-2,12,madhya pradesh,36,Chhindwara,Chhindwara,36,1991,100.0,fuzzy,madhya pradesh_36
 NFHS-2,12,madhya pradesh,37,Seoni,Seoni,37,1991,100.0,fuzzy,madhya pradesh_37
-NFHS-2,12,madhya pradesh,37,Seoni,Seoni,37,1991,100.0,fuzzy,madhya pradesh_37
-NFHS-2,12,madhya pradesh,38,Balaghat,Balaghat,38,1991,100.0,fuzzy,madhya pradesh_38
 NFHS-2,12,madhya pradesh,38,Balaghat,Balaghat,38,1991,100.0,fuzzy,madhya pradesh_38
 NFHS-2,12,madhya pradesh,31,Betul,Betul,31,1991,100.0,fuzzy,madhya pradesh_31
-NFHS-2,12,madhya pradesh,31,Betul,Betul,31,1991,100.0,fuzzy,madhya pradesh_31
-NFHS-2,12,madhya pradesh,32,Hoshangabad,Hoshangabad,32,1991,100.0,fuzzy,madhya pradesh_32
 NFHS-2,12,madhya pradesh,32,Hoshangabad,Hoshangabad,32,1991,100.0,fuzzy,madhya pradesh_32
 NFHS-2,12,madhya pradesh,25,East Nimar (Khandwa),East Nimar,25,1991,100.0,fuzzy,madhya pradesh_25
-NFHS-2,12,madhya pradesh,25,East Nimar (Khandwa),East Nimar,25,1991,100.0,fuzzy,madhya pradesh_25
-NFHS-2,12,madhya pradesh,24,Khargone,Dhar,22,1991,67.5,fuzzy,madhya pradesh_22
-NFHS-2,12,madhya pradesh,24,Khargone,Dhar,22,1991,67.5,fuzzy,madhya pradesh_22
-NFHS-2,12,madhya pradesh,1,Morena,Morena,1,1991,100.0,fuzzy,madhya pradesh_1
+NFHS-2,12,madhya pradesh,24,Khargone,Dhar,24,1991,100.0,manual_override,madhya pradesh_24
 NFHS-2,12,madhya pradesh,1,Morena,Morena,1,1991,100.0,fuzzy,madhya pradesh_1
 NFHS-2,12,madhya pradesh,3,Gwalior,Gwalior,3,1991,100.0,fuzzy,madhya pradesh_3
-NFHS-2,12,madhya pradesh,3,Gwalior,Gwalior,3,1991,100.0,fuzzy,madhya pradesh_3
-NFHS-2,12,madhya pradesh,4,Datia,Datia,4,1991,100.0,fuzzy,madhya pradesh_4
 NFHS-2,12,madhya pradesh,4,Datia,Datia,4,1991,100.0,fuzzy,madhya pradesh_4
 NFHS-2,12,madhya pradesh,5,Shivpuri,Shivpuri,5,1991,100.0,fuzzy,madhya pradesh_5
-NFHS-2,12,madhya pradesh,5,Shivpuri,Shivpuri,5,1991,100.0,fuzzy,madhya pradesh_5
-NFHS-2,12,madhya pradesh,6,Guna,Guna,6,1991,100.0,fuzzy,madhya pradesh_6
 NFHS-2,12,madhya pradesh,6,Guna,Guna,6,1991,100.0,fuzzy,madhya pradesh_6
 NFHS-2,12,madhya pradesh,2,Bhind,Bhind,2,1991,100.0,fuzzy,madhya pradesh_2
-NFHS-2,12,madhya pradesh,2,Bhind,Bhind,2,1991,100.0,fuzzy,madhya pradesh_2
-NFHS-2,12,madhya pradesh,43,Durg,Durg,43,1991,100.0,fuzzy,madhya pradesh_43
 NFHS-2,12,madhya pradesh,43,Durg,Durg,43,1991,100.0,fuzzy,madhya pradesh_43
 NFHS-2,12,madhya pradesh,28,Bhopal,Bhopal,28,1991,100.0,fuzzy,madhya pradesh_28
-NFHS-2,12,madhya pradesh,28,Bhopal,Bhopal,28,1991,100.0,fuzzy,madhya pradesh_28
-NFHS-2,12,madhya pradesh,23,Indore,Indore,23,1991,100.0,fuzzy,madhya pradesh_23
 NFHS-2,12,madhya pradesh,23,Indore,Indore,23,1991,100.0,fuzzy,madhya pradesh_23
 NFHS-2,13,maharashtra,2,THANE,Thane,2,1991,100.0,fuzzy,maharashtra_2
-NFHS-2,13,maharashtra,2,THANE,Thane,2,1991,100.0,fuzzy,maharashtra_2
-NFHS-2,13,maharashtra,3,RAIGARH,Raigarh,3,1991,100.0,fuzzy,maharashtra_3
 NFHS-2,13,maharashtra,3,RAIGARH,Raigarh,3,1991,100.0,fuzzy,maharashtra_3
 NFHS-2,13,maharashtra,4,RATNAGIRI,Ratnagiri,4,1991,100.0,fuzzy,maharashtra_4
-NFHS-2,13,maharashtra,4,RATNAGIRI,Ratnagiri,4,1991,100.0,fuzzy,maharashtra_4
-NFHS-2,13,maharashtra,5,SINDHUDURG,Sindhudurg,5,1991,100.0,fuzzy,maharashtra_5
 NFHS-2,13,maharashtra,5,SINDHUDURG,Sindhudurg,5,1991,100.0,fuzzy,maharashtra_5
 NFHS-2,13,maharashtra,7,DHULE,Dhule,7,1991,100.0,fuzzy,maharashtra_7
-NFHS-2,13,maharashtra,7,DHULE,Dhule,7,1991,100.0,fuzzy,maharashtra_7
-NFHS-2,13,maharashtra,6,NASHIK,Nashik,6,1991,100.0,fuzzy,maharashtra_6
 NFHS-2,13,maharashtra,6,NASHIK,Nashik,6,1991,100.0,fuzzy,maharashtra_6
 NFHS-2,13,maharashtra,8,JALGAON,Jalgaon,8,1991,100.0,fuzzy,maharashtra_8
-NFHS-2,13,maharashtra,8,JALGAON,Jalgaon,8,1991,100.0,fuzzy,maharashtra_8
-NFHS-2,13,maharashtra,13,SOLAPUR,Solapur,13,1991,100.0,fuzzy,maharashtra_13
 NFHS-2,13,maharashtra,13,SOLAPUR,Solapur,13,1991,100.0,fuzzy,maharashtra_13
 NFHS-2,13,maharashtra,10,PUNE,Pune,10,1991,100.0,fuzzy,maharashtra_10
-NFHS-2,13,maharashtra,10,PUNE,Pune,10,1991,100.0,fuzzy,maharashtra_10
-NFHS-2,13,maharashtra,11,SATARA,Satara,11,1991,100.0,fuzzy,maharashtra_11
 NFHS-2,13,maharashtra,11,SATARA,Satara,11,1991,100.0,fuzzy,maharashtra_11
 NFHS-2,13,maharashtra,9,AHMADNAGAR,Ahmednagar,9,1991,90.0,fuzzy,maharashtra_9
-NFHS-2,13,maharashtra,9,AHMADNAGAR,Ahmednagar,9,1991,90.0,fuzzy,maharashtra_9
-NFHS-2,13,maharashtra,12,SANGLI,Sangli,12,1991,100.0,fuzzy,maharashtra_12
 NFHS-2,13,maharashtra,12,SANGLI,Sangli,12,1991,100.0,fuzzy,maharashtra_12
 NFHS-2,13,maharashtra,14,KOLHAPUR,Kolhapur,14,1991,100.0,fuzzy,maharashtra_14
-NFHS-2,13,maharashtra,14,KOLHAPUR,Kolhapur,14,1991,100.0,fuzzy,maharashtra_14
-NFHS-2,13,maharashtra,18,BID,Bid,18,1991,100.0,fuzzy,maharashtra_18
 NFHS-2,13,maharashtra,18,BID,Bid,18,1991,100.0,fuzzy,maharashtra_18
 NFHS-2,13,maharashtra,16,JALNA,Jalna,16,1991,100.0,fuzzy,maharashtra_16
-NFHS-2,13,maharashtra,16,JALNA,Jalna,16,1991,100.0,fuzzy,maharashtra_16
-NFHS-2,13,maharashtra,17,PARBHANI,Parbhani,17,1991,100.0,fuzzy,maharashtra_17
 NFHS-2,13,maharashtra,17,PARBHANI,Parbhani,17,1991,100.0,fuzzy,maharashtra_17
 NFHS-2,13,maharashtra,15,AURANGABAD,Aurangabad,15,1991,100.0,fuzzy,maharashtra_15
-NFHS-2,13,maharashtra,15,AURANGABAD,Aurangabad,15,1991,100.0,fuzzy,maharashtra_15
-NFHS-2,13,maharashtra,22,BULDANA,Buldana,22,1991,100.0,fuzzy,maharashtra_22
 NFHS-2,13,maharashtra,22,BULDANA,Buldana,22,1991,100.0,fuzzy,maharashtra_22
 NFHS-2,13,maharashtra,23,AKOLA,Akola,23,1991,100.0,fuzzy,maharashtra_23
-NFHS-2,13,maharashtra,23,AKOLA,Akola,23,1991,100.0,fuzzy,maharashtra_23
-NFHS-2,13,maharashtra,21,LATUR,Latur,21,1991,100.0,fuzzy,maharashtra_21
 NFHS-2,13,maharashtra,21,LATUR,Latur,21,1991,100.0,fuzzy,maharashtra_21
 NFHS-2,13,maharashtra,24,AMRAVATI,Amravati,24,1991,100.0,fuzzy,maharashtra_24
-NFHS-2,13,maharashtra,24,AMRAVATI,Amravati,24,1991,100.0,fuzzy,maharashtra_24
-NFHS-2,13,maharashtra,19,NANDED,Nanded,19,1991,100.0,fuzzy,maharashtra_19
 NFHS-2,13,maharashtra,19,NANDED,Nanded,19,1991,100.0,fuzzy,maharashtra_19
 NFHS-2,13,maharashtra,25,YAVATMAL,Yavatmal,25,1991,100.0,fuzzy,maharashtra_25
-NFHS-2,13,maharashtra,25,YAVATMAL,Yavatmal,25,1991,100.0,fuzzy,maharashtra_25
-NFHS-2,13,maharashtra,26,WARDHA,Wardha,26,1991,100.0,fuzzy,maharashtra_26
 NFHS-2,13,maharashtra,26,WARDHA,Wardha,26,1991,100.0,fuzzy,maharashtra_26
 NFHS-2,13,maharashtra,27,NAGPUR,Nagpur,27,1991,100.0,fuzzy,maharashtra_27
-NFHS-2,13,maharashtra,27,NAGPUR,Nagpur,27,1991,100.0,fuzzy,maharashtra_27
-NFHS-2,13,maharashtra,29,CHANDRAPUR,Chandrapur,29,1991,100.0,fuzzy,maharashtra_29
 NFHS-2,13,maharashtra,29,CHANDRAPUR,Chandrapur,29,1991,100.0,fuzzy,maharashtra_29
 NFHS-2,13,maharashtra,28,BHANDARA,Bhandara,28,1991,100.0,fuzzy,maharashtra_28
-NFHS-2,13,maharashtra,28,BHANDARA,Bhandara,28,1991,100.0,fuzzy,maharashtra_28
-NFHS-2,13,maharashtra,1,MUMBAI,Bid,18,1991,60.00000000000001,fuzzy,maharashtra_18
-NFHS-2,13,maharashtra,1,MUMBAI,Bid,18,1991,60.00000000000001,fuzzy,maharashtra_18
-NFHS-2,14,manipur,2,TAMENGLONG,Manipur,0,1991,23.529411764705888,fuzzy,manipur_0
-NFHS-2,14,manipur,2,TAMENGLONG,Manipur,0,1991,23.529411764705888,fuzzy,manipur_0
-NFHS-2,14,manipur,1,SENAPATI,Manipur,0,1991,26.66666666666667,fuzzy,manipur_0
-NFHS-2,14,manipur,1,SENAPATI,Manipur,0,1991,26.66666666666667,fuzzy,manipur_0
-NFHS-2,14,manipur,3,CHURACHANPUR,Manipur,0,1991,75.00000000000001,fuzzy,manipur_0
-NFHS-2,14,manipur,3,CHURACHANPUR,Manipur,0,1991,75.00000000000001,fuzzy,manipur_0
-NFHS-2,14,manipur,4,CHANDEL,Manipur,0,1991,28.57142857142857,fuzzy,manipur_0
-NFHS-2,14,manipur,4,CHANDEL,Manipur,0,1991,28.57142857142857,fuzzy,manipur_0
-NFHS-2,14,manipur,5,THOUBAL,Manipur,0,1991,14.28571428571429,fuzzy,manipur_0
-NFHS-2,14,manipur,5,THOUBAL,Manipur,0,1991,14.28571428571429,fuzzy,manipur_0
-NFHS-2,14,manipur,6,BISHNUPUR,Manipur,0,1991,50.0,fuzzy,manipur_0
-NFHS-2,14,manipur,6,BISHNUPUR,Manipur,0,1991,50.0,fuzzy,manipur_0
-NFHS-2,14,manipur,7,IMPHAL,Manipur,0,1991,30.76923076923077,fuzzy,manipur_0
-NFHS-2,14,manipur,7,IMPHAL,Manipur,0,1991,30.76923076923077,fuzzy,manipur_0
-NFHS-2,14,manipur,8,UKHRUL,Manipur,0,1991,30.76923076923077,fuzzy,manipur_0
-NFHS-2,14,manipur,8,UKHRUL,Manipur,0,1991,30.76923076923077,fuzzy,manipur_0
-NFHS-2,15,meghalaya,1,JAINTIA HILLS,Meghalaya,0,1991,34.54545454545455,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,1,JAINTIA HILLS,Meghalaya,0,1991,34.54545454545455,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,0,1991,32.727272727272734,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,0,1991,32.727272727272734,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,0,1991,31.999999999999996,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,0,1991,31.999999999999996,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,5,WEST GARO HILLS,Meghalaya,0,1991,33.75,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,5,WEST GARO HILLS,Meghalaya,0,1991,33.75,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,4,EAST GORA HILLS,Meghalaya,0,1991,33.333333333333336,fuzzy,meghalaya_0
-NFHS-2,15,meghalaya,4,EAST GORA HILLS,Meghalaya,0,1991,33.333333333333336,fuzzy,meghalaya_0
-NFHS-2,16,mizoram,1,AIZAWL,Mizoram,0,1991,46.15384615384615,fuzzy,mizoram_0
-NFHS-2,16,mizoram,1,AIZAWL,Mizoram,0,1991,46.15384615384615,fuzzy,mizoram_0
-NFHS-2,16,mizoram,2,LUNGLEI,Mizoram,0,1991,14.28571428571429,fuzzy,mizoram_0
-NFHS-2,16,mizoram,2,LUNGLEI,Mizoram,0,1991,14.28571428571429,fuzzy,mizoram_0
-NFHS-2,16,mizoram,3,CHHIMTUIPUI,Mizoram,0,1991,30.000000000000004,fuzzy,mizoram_0
-NFHS-2,16,mizoram,3,CHHIMTUIPUI,Mizoram,0,1991,30.000000000000004,fuzzy,mizoram_0
-NFHS-2,17,nagaland,1,KOHIMA,Nagaland,0,1991,14.28571428571429,fuzzy,nagaland_0
-NFHS-2,17,nagaland,1,KOHIMA,Nagaland,0,1991,14.28571428571429,fuzzy,nagaland_0
-NFHS-2,17,nagaland,3,ZUNHEBOTO,Nagaland,0,1991,11.764705882352944,fuzzy,nagaland_0
-NFHS-2,17,nagaland,3,ZUNHEBOTO,Nagaland,0,1991,11.764705882352944,fuzzy,nagaland_0
-NFHS-2,17,nagaland,4,WOKHA,Nagaland,0,1991,25.71428571428571,fuzzy,nagaland_0
-NFHS-2,17,nagaland,4,WOKHA,Nagaland,0,1991,25.71428571428571,fuzzy,nagaland_0
-NFHS-2,17,nagaland,2,PHEK,Nagaland,0,1991,0.0,fuzzy,nagaland_0
-NFHS-2,17,nagaland,2,PHEK,Nagaland,0,1991,0.0,fuzzy,nagaland_0
-NFHS-2,17,nagaland,6,TUENSANG,Nagaland,0,1991,37.5,fuzzy,nagaland_0
-NFHS-2,17,nagaland,6,TUENSANG,Nagaland,0,1991,37.5,fuzzy,nagaland_0
-NFHS-2,17,nagaland,5,MOKOKCHUNG,Nagaland,0,1991,22.22222222222222,fuzzy,nagaland_0
-NFHS-2,17,nagaland,5,MOKOKCHUNG,Nagaland,0,1991,22.22222222222222,fuzzy,nagaland_0
-NFHS-2,17,nagaland,7,MON,Nagaland,0,1991,45.0,fuzzy,nagaland_0
-NFHS-2,17,nagaland,7,MON,Nagaland,0,1991,45.0,fuzzy,nagaland_0
-NFHS-2,18,orissa,4,Mayurbhanj,Mayurbhanj,4,1991,100.0,fuzzy,orissa_4
+NFHS-2,13,maharashtra,1,MUMBAI,Bid,1,1991,100.0,manual_override,maharashtra_1
+NFHS-2,14,manipur,2,TAMENGLONG,Manipur,2,1991,100.0,manual_override,manipur_2
+NFHS-2,14,manipur,1,SENAPATI,Manipur,1,1991,100.0,manual_override,manipur_1
+NFHS-2,14,manipur,3,CHURACHANPUR,Manipur,3,1991,100.0,manual_override,manipur_3
+NFHS-2,14,manipur,4,CHANDEL,Manipur,4,1991,100.0,manual_override,manipur_4
+NFHS-2,14,manipur,5,THOUBAL,Manipur,5,1991,100.0,manual_override,manipur_5
+NFHS-2,14,manipur,6,BISHNUPUR,Manipur,6,1991,100.0,manual_override,manipur_6
+NFHS-2,14,manipur,7,IMPHAL,Manipur,7,1991,100.0,manual_override,manipur_7
+NFHS-2,14,manipur,8,UKHRUL,Manipur,8,1991,100.0,manual_override,manipur_8
+NFHS-2,15,meghalaya,1,JAINTIA HILLS,Meghalaya,1,1991,100.0,manual_override,meghalaya_1
+NFHS-2,15,meghalaya,2,EAST KHASI HILLS,Meghalaya,2,1991,100.0,manual_override,meghalaya_2
+NFHS-2,15,meghalaya,3,WEST KHASI HILLS,Meghalaya,3,1991,100.0,manual_override,meghalaya_3
+NFHS-2,15,meghalaya,5,WEST GARO HILLS,Meghalaya,5,1991,100.0,manual_override,meghalaya_5
+NFHS-2,15,meghalaya,4,EAST GORA HILLS,Meghalaya,4,1991,100.0,manual_override,meghalaya_4
+NFHS-2,16,mizoram,1,AIZAWL,Mizoram,1,1991,100.0,manual_override,mizoram_1
+NFHS-2,16,mizoram,2,LUNGLEI,Mizoram,2,1991,100.0,manual_override,mizoram_2
+NFHS-2,16,mizoram,3,CHHIMTUIPUI,Mizoram,3,1991,100.0,manual_override,mizoram_3
+NFHS-2,17,nagaland,1,KOHIMA,Nagaland,1,1991,100.0,manual_override,nagaland_1
+NFHS-2,17,nagaland,3,ZUNHEBOTO,Nagaland,3,1991,100.0,manual_override,nagaland_3
+NFHS-2,17,nagaland,4,WOKHA,Nagaland,4,1991,100.0,manual_override,nagaland_4
+NFHS-2,17,nagaland,2,PHEK,Nagaland,2,1991,100.0,manual_override,nagaland_2
+NFHS-2,17,nagaland,6,TUENSANG,Nagaland,6,1991,100.0,manual_override,nagaland_6
+NFHS-2,17,nagaland,5,MOKOKCHUNG,Nagaland,5,1991,100.0,manual_override,nagaland_5
+NFHS-2,17,nagaland,7,MON,Nagaland,7,1991,100.0,manual_override,nagaland_7
 NFHS-2,18,orissa,4,Mayurbhanj,Mayurbhanj,4,1991,100.0,fuzzy,orissa_4
 NFHS-2,18,orissa,2,Sundargarh,Sundargarh,2,1991,100.0,fuzzy,orissa_2
-NFHS-2,18,orissa,2,Sundargarh,Sundargarh,2,1991,100.0,fuzzy,orissa_2
-NFHS-2,18,orissa,3,Kendujhar,Kendujhar,3,1991,100.0,fuzzy,orissa_3
 NFHS-2,18,orissa,3,Kendujhar,Kendujhar,3,1991,100.0,fuzzy,orissa_3
 NFHS-2,18,orissa,11,Koraput,Koraput,11,1991,100.0,fuzzy,orissa_11
-NFHS-2,18,orissa,11,Koraput,Koraput,11,1991,100.0,fuzzy,orissa_11
-NFHS-2,18,orissa,8,Phulabani,Phulbani,8,1991,94.11764705882352,fuzzy,orissa_8
 NFHS-2,18,orissa,8,Phulabani,Phulbani,8,1991,94.11764705882352,fuzzy,orissa_8
 NFHS-2,18,orissa,9,Balangir,Balangir,9,1991,100.0,fuzzy,orissa_9
-NFHS-2,18,orissa,9,Balangir,Balangir,9,1991,100.0,fuzzy,orissa_9
-NFHS-2,18,orissa,10,Kalahandi,Kalahandi,10,1991,100.0,fuzzy,orissa_10
 NFHS-2,18,orissa,10,Kalahandi,Kalahandi,10,1991,100.0,fuzzy,orissa_10
 NFHS-2,18,orissa,1,Sambalpur,Sambalpur,1,1991,100.0,fuzzy,orissa_1
-NFHS-2,18,orissa,1,Sambalpur,Sambalpur,1,1991,100.0,fuzzy,orissa_1
-NFHS-2,18,orissa,12,Ganjam,Ganjam,12,1991,100.0,fuzzy,orissa_12
 NFHS-2,18,orissa,12,Ganjam,Ganjam,12,1991,100.0,fuzzy,orissa_12
 NFHS-2,18,orissa,6,Cuttack,Cuttack,6,1991,100.0,fuzzy,orissa_6
-NFHS-2,18,orissa,6,Cuttack,Cuttack,6,1991,100.0,fuzzy,orissa_6
-NFHS-2,18,orissa,5,Baleshwar,Baleshwar,5,1991,100.0,fuzzy,orissa_5
 NFHS-2,18,orissa,5,Baleshwar,Baleshwar,5,1991,100.0,fuzzy,orissa_5
 NFHS-2,18,orissa,13,Puri,Puri,13,1991,100.0,fuzzy,orissa_13
-NFHS-2,18,orissa,13,Puri,Puri,13,1991,100.0,fuzzy,orissa_13
-NFHS-2,18,orissa,7,Dhenkanal,Dhenkanal,7,1991,100.0,fuzzy,orissa_7
 NFHS-2,18,orissa,7,Dhenkanal,Dhenkanal,7,1991,100.0,fuzzy,orissa_7
 NFHS-2,19,punjab,3,FIROZPUR,Firozpur,3,1991,100.0,fuzzy,punjab_3
-NFHS-2,19,punjab,3,FIROZPUR,Firozpur,3,1991,100.0,fuzzy,punjab_3
-NFHS-2,19,punjab,2,AMRITSAR,Amritsar,2,1991,100.0,fuzzy,punjab_2
 NFHS-2,19,punjab,2,AMRITSAR,Amritsar,2,1991,100.0,fuzzy,punjab_2
 NFHS-2,19,punjab,1,GURDASPUR,Gurdaspur,1,1991,100.0,fuzzy,punjab_1
-NFHS-2,19,punjab,1,GURDASPUR,Gurdaspur,1,1991,100.0,fuzzy,punjab_1
-NFHS-2,19,punjab,8,RUPNAGAR,Rupnagar,8,1991,100.0,fuzzy,punjab_8
 NFHS-2,19,punjab,8,RUPNAGAR,Rupnagar,8,1991,100.0,fuzzy,punjab_8
 NFHS-2,19,punjab,5,JALANDHAR,Jalandhar,5,1991,100.0,fuzzy,punjab_5
-NFHS-2,19,punjab,5,JALANDHAR,Jalandhar,5,1991,100.0,fuzzy,punjab_5
-NFHS-2,19,punjab,7,HOSHIARPUR,Hoshiarpur,7,1991,100.0,fuzzy,punjab_7
 NFHS-2,19,punjab,7,HOSHIARPUR,Hoshiarpur,7,1991,100.0,fuzzy,punjab_7
 NFHS-2,19,punjab,6,KAPURTHALA,Kapurthala,6,1991,100.0,fuzzy,punjab_6
-NFHS-2,19,punjab,6,KAPURTHALA,Kapurthala,6,1991,100.0,fuzzy,punjab_6
-NFHS-2,19,punjab,4,LUDHIANA,Ludhiana,4,1991,100.0,fuzzy,punjab_4
 NFHS-2,19,punjab,4,LUDHIANA,Ludhiana,4,1991,100.0,fuzzy,punjab_4
 NFHS-2,19,punjab,9,PATIALA,Patiala,9,1991,100.0,fuzzy,punjab_9
-NFHS-2,19,punjab,9,PATIALA,Patiala,9,1991,100.0,fuzzy,punjab_9
-NFHS-2,19,punjab,10,SANGRUR,Sangrur,10,1991,100.0,fuzzy,punjab_10
 NFHS-2,19,punjab,10,SANGRUR,Sangrur,10,1991,100.0,fuzzy,punjab_10
 NFHS-2,19,punjab,11,BATHINDA,Bathinda,11,1991,100.0,fuzzy,punjab_11
-NFHS-2,19,punjab,11,BATHINDA,Bathinda,11,1991,100.0,fuzzy,punjab_11
-NFHS-2,19,punjab,12,FARIDKOT,Faridkot,12,1991,100.0,fuzzy,punjab_12
 NFHS-2,19,punjab,12,FARIDKOT,Faridkot,12,1991,100.0,fuzzy,punjab_12
 NFHS-2,20,rajasthan,13,JAISALMER,Jaisalmer,13,1991,100.0,fuzzy,rajasthan_13
-NFHS-2,20,rajasthan,13,JAISALMER,Jaisalmer,13,1991,100.0,fuzzy,rajasthan_13
-NFHS-2,20,rajasthan,1,GANGANAGAR,Ganganagar,1,1991,100.0,fuzzy,rajasthan_1
 NFHS-2,20,rajasthan,1,GANGANAGAR,Ganganagar,1,1991,100.0,fuzzy,rajasthan_1
 NFHS-2,20,rajasthan,17,BARMER,Barmer,17,1991,100.0,fuzzy,rajasthan_17
-NFHS-2,20,rajasthan,17,BARMER,Barmer,17,1991,100.0,fuzzy,rajasthan_17
-NFHS-2,20,rajasthan,15,NAGAUR,Nagaur,15,1991,100.0,fuzzy,rajasthan_15
 NFHS-2,20,rajasthan,15,NAGAUR,Nagaur,15,1991,100.0,fuzzy,rajasthan_15
 NFHS-2,20,rajasthan,14,JODHPUR,Jodhpur,14,1991,100.0,fuzzy,rajasthan_14
-NFHS-2,20,rajasthan,14,JODHPUR,Jodhpur,14,1991,100.0,fuzzy,rajasthan_14
-NFHS-2,20,rajasthan,3,CHURU,Churu,3,1991,100.0,fuzzy,rajasthan_3
 NFHS-2,20,rajasthan,3,CHURU,Churu,3,1991,100.0,fuzzy,rajasthan_3
 NFHS-2,20,rajasthan,16,PALI,Pali,16,1991,100.0,fuzzy,rajasthan_16
-NFHS-2,20,rajasthan,16,PALI,Pali,16,1991,100.0,fuzzy,rajasthan_16
-NFHS-2,20,rajasthan,19,SIROHI,Sirohi,19,1991,100.0,fuzzy,rajasthan_19
 NFHS-2,20,rajasthan,19,SIROHI,Sirohi,19,1991,100.0,fuzzy,rajasthan_19
 NFHS-2,20,rajasthan,2,BIKANER,Bikaner,2,1991,100.0,fuzzy,rajasthan_2
-NFHS-2,20,rajasthan,2,BIKANER,Bikaner,2,1991,100.0,fuzzy,rajasthan_2
-NFHS-2,20,rajasthan,18,JALOR,Jalaur,18,1991,100.0,manual_override,rajasthan_18
 NFHS-2,20,rajasthan,18,JALOR,Jalaur,18,1991,100.0,manual_override,rajasthan_18
 NFHS-2,20,rajasthan,8,SAWAI MADHOPUR,Sawai Madhopur,8,1991,100.0,fuzzy,rajasthan_8
-NFHS-2,20,rajasthan,8,SAWAI MADHOPUR,Sawai Madhopur,8,1991,100.0,fuzzy,rajasthan_8
-NFHS-2,20,rajasthan,6,BHARATPUR,Bharatpur,6,1991,100.0,fuzzy,rajasthan_6
 NFHS-2,20,rajasthan,6,BHARATPUR,Bharatpur,6,1991,100.0,fuzzy,rajasthan_6
 NFHS-2,20,rajasthan,9,JAIPUR,Jaipur,9,1991,100.0,fuzzy,rajasthan_9
-NFHS-2,20,rajasthan,9,JAIPUR,Jaipur,9,1991,100.0,fuzzy,rajasthan_9
-NFHS-2,20,rajasthan,12,TONK,Tonk,12,1991,100.0,fuzzy,rajasthan_12
 NFHS-2,20,rajasthan,12,TONK,Tonk,12,1991,100.0,fuzzy,rajasthan_12
 NFHS-2,20,rajasthan,20,BHILWARA,Bhilwara,20,1991,100.0,fuzzy,rajasthan_20
-NFHS-2,20,rajasthan,20,BHILWARA,Bhilwara,20,1991,100.0,fuzzy,rajasthan_20
-NFHS-2,20,rajasthan,7,DHAULPUR,Dholpur,7,1991,100.0,manual_override,rajasthan_7
 NFHS-2,20,rajasthan,7,DHAULPUR,Dholpur,7,1991,100.0,manual_override,rajasthan_7
 NFHS-2,20,rajasthan,5,ALWAR,Alwar,5,1991,100.0,fuzzy,rajasthan_5
-NFHS-2,20,rajasthan,5,ALWAR,Alwar,5,1991,100.0,fuzzy,rajasthan_5
-NFHS-2,20,rajasthan,4,JHUNJHUNUN,Jhunjhunu,4,1991,94.73684210526316,fuzzy,rajasthan_4
 NFHS-2,20,rajasthan,4,JHUNJHUNUN,Jhunjhunu,4,1991,94.73684210526316,fuzzy,rajasthan_4
 NFHS-2,20,rajasthan,11,AJMER,Ajmer,11,1991,100.0,fuzzy,rajasthan_11
-NFHS-2,20,rajasthan,11,AJMER,Ajmer,11,1991,100.0,fuzzy,rajasthan_11
-NFHS-2,20,rajasthan,10,SIKAR,Sikar,10,1991,100.0,fuzzy,rajasthan_10
 NFHS-2,20,rajasthan,10,SIKAR,Sikar,10,1991,100.0,fuzzy,rajasthan_10
 NFHS-2,20,rajasthan,21,UDAIPUR,Udaipur,21,1991,100.0,fuzzy,rajasthan_21
-NFHS-2,20,rajasthan,21,UDAIPUR,Udaipur,21,1991,100.0,fuzzy,rajasthan_21
-NFHS-2,20,rajasthan,24,BANSWARA,Banswara,24,1991,100.0,fuzzy,rajasthan_24
 NFHS-2,20,rajasthan,24,BANSWARA,Banswara,24,1991,100.0,fuzzy,rajasthan_24
 NFHS-2,20,rajasthan,23,DUNGARPUR,Dungarpur,23,1991,100.0,fuzzy,rajasthan_23
-NFHS-2,20,rajasthan,23,DUNGARPUR,Dungarpur,23,1991,100.0,fuzzy,rajasthan_23
-NFHS-2,20,rajasthan,26,KOTA,Kota,26,1991,100.0,fuzzy,rajasthan_26
 NFHS-2,20,rajasthan,26,KOTA,Kota,26,1991,100.0,fuzzy,rajasthan_26
 NFHS-2,20,rajasthan,27,JHALAWAR,Jhalawar,27,1991,100.0,fuzzy,rajasthan_27
-NFHS-2,20,rajasthan,27,JHALAWAR,Jhalawar,27,1991,100.0,fuzzy,rajasthan_27
-NFHS-2,20,rajasthan,25,BUNDI,Bundi,25,1991,100.0,fuzzy,rajasthan_25
 NFHS-2,20,rajasthan,25,BUNDI,Bundi,25,1991,100.0,fuzzy,rajasthan_25
 NFHS-2,20,rajasthan,22,CHITTAURGARH,Chittorgarh,22,1991,100.0,manual_override,rajasthan_22
-NFHS-2,20,rajasthan,22,CHITTAURGARH,Chittorgarh,22,1991,100.0,manual_override,rajasthan_22
-NFHS-2,21,sikkim,1,NORTH DISTRICT,Sikkim,0,1991,30.000000000000004,fuzzy,sikkim_0
 NFHS-2,21,sikkim,1,NORTH DISTRICT,Sikkim,0,1991,30.000000000000004,fuzzy,sikkim_0
 NFHS-2,21,sikkim,2,EAST DISTRICT,Sikkim,0,1991,31.57894736842105,fuzzy,sikkim_0
-NFHS-2,21,sikkim,2,EAST DISTRICT,Sikkim,0,1991,31.57894736842105,fuzzy,sikkim_0
-NFHS-2,21,sikkim,3,SOUTH DISTRICT,Sikkim,0,1991,30.000000000000004,fuzzy,sikkim_0
 NFHS-2,21,sikkim,3,SOUTH DISTRICT,Sikkim,0,1991,30.000000000000004,fuzzy,sikkim_0
 NFHS-2,21,sikkim,4,WEST DISTRICT,Sikkim,0,1991,31.57894736842105,fuzzy,sikkim_0
-NFHS-2,21,sikkim,4,WEST DISTRICT,Sikkim,0,1991,31.57894736842105,fuzzy,sikkim_0
-NFHS-2,22,tamil nadu,11,Dindigul-Anna,Dindigul Anna,11,1991,96.0,fuzzy,tamil nadu_11
 NFHS-2,22,tamil nadu,11,Dindigul-Anna,Dindigul Anna,11,1991,96.0,fuzzy,tamil nadu_11
 NFHS-2,22,tamil nadu,16,Madurai,Madurai,16,1991,100.0,fuzzy,tamil nadu_16
-NFHS-2,22,tamil nadu,16,Madurai,Madurai,16,1991,100.0,fuzzy,tamil nadu_16
-NFHS-2,22,tamil nadu,8,Periyar,Periyar,8,1991,100.0,fuzzy,tamil nadu_8
 NFHS-2,22,tamil nadu,8,Periyar,Periyar,8,1991,100.0,fuzzy,tamil nadu_8
 NFHS-2,22,tamil nadu,10,Coimbatore,Coimbatore,10,1991,100.0,fuzzy,tamil nadu_10
-NFHS-2,22,tamil nadu,10,Coimbatore,Coimbatore,10,1991,100.0,fuzzy,tamil nadu_10
-NFHS-2,22,tamil nadu,4,Dharmapuri,Dharmapuri,4,1991,100.0,fuzzy,tamil nadu_4
 NFHS-2,22,tamil nadu,4,Dharmapuri,Dharmapuri,4,1991,100.0,fuzzy,tamil nadu_4
 NFHS-2,22,tamil nadu,12,Tiruchirappalli,Tiruchirapalli,12,1991,96.55172413793103,fuzzy,tamil nadu_12
-NFHS-2,22,tamil nadu,12,Tiruchirappalli,Tiruchirapalli,12,1991,96.55172413793103,fuzzy,tamil nadu_12
-NFHS-2,22,tamil nadu,5,Tiruvannamalai Sambuvarayar,Tiruvannamalai-Sambuvara.,5,1991,92.0,fuzzy,tamil nadu_5
 NFHS-2,22,tamil nadu,5,Tiruvannamalai Sambuvarayar,Tiruvannamalai-Sambuvara.,5,1991,92.0,fuzzy,tamil nadu_5
 NFHS-2,22,tamil nadu,3,North Arcot Ambedkar,North Arcot-Ambedkar,3,1991,97.43589743589743,fuzzy,tamil nadu_3
-NFHS-2,22,tamil nadu,3,North Arcot Ambedkar,North Arcot-Ambedkar,3,1991,97.43589743589743,fuzzy,tamil nadu_3
-NFHS-2,22,tamil nadu,7,Salem,Salem,7,1991,100.0,fuzzy,tamil nadu_7
 NFHS-2,22,tamil nadu,7,Salem,Salem,7,1991,100.0,fuzzy,tamil nadu_7
 NFHS-2,22,tamil nadu,21,Kanniyakumari,Kanniyakumari,21,1991,100.0,fuzzy,tamil nadu_21
-NFHS-2,22,tamil nadu,21,Kanniyakumari,Kanniyakumari,21,1991,100.0,fuzzy,tamil nadu_21
-NFHS-2,22,tamil nadu,2,Chengalpattu-M.G.R.,Chengalpattu-mgr,2,1991,100.0,fuzzy,tamil nadu_2
 NFHS-2,22,tamil nadu,2,Chengalpattu-M.G.R.,Chengalpattu-mgr,2,1991,100.0,fuzzy,tamil nadu_2
 NFHS-2,22,tamil nadu,6,South Arcot,South Arcot,6,1991,100.0,fuzzy,tamil nadu_6
-NFHS-2,22,tamil nadu,6,South Arcot,South Arcot,6,1991,100.0,fuzzy,tamil nadu_6
-NFHS-2,22,tamil nadu,13,Thanjavur,Thanjavur,13,1991,100.0,fuzzy,tamil nadu_13
 NFHS-2,22,tamil nadu,13,Thanjavur,Thanjavur,13,1991,100.0,fuzzy,tamil nadu_13
 NFHS-2,22,tamil nadu,20,Tirunelveli Kattabomman,Tirunelveli-Kattabomman,20,1991,97.77777777777777,fuzzy,tamil nadu_20
-NFHS-2,22,tamil nadu,20,Tirunelveli Kattabomman,Tirunelveli-Kattabomman,20,1991,97.77777777777777,fuzzy,tamil nadu_20
-NFHS-2,22,tamil nadu,15,Pasumpon Muthuramalinga The,Pasumpon M. Thevar,15,1991,100.0,manual_override,tamil nadu_15
 NFHS-2,22,tamil nadu,15,Pasumpon Muthuramalinga The,Pasumpon M. Thevar,15,1991,100.0,manual_override,tamil nadu_15
 NFHS-2,22,tamil nadu,19,Chidambaranar,Chidambaranar,19,1991,100.0,fuzzy,tamil nadu_19
-NFHS-2,22,tamil nadu,19,Chidambaranar,Chidambaranar,19,1991,100.0,fuzzy,tamil nadu_19
-NFHS-2,22,tamil nadu,14,Pudukkottai,Puddukkottai,14,1991,95.65217391304348,fuzzy,tamil nadu_14
 NFHS-2,22,tamil nadu,14,Pudukkottai,Puddukkottai,14,1991,95.65217391304348,fuzzy,tamil nadu_14
 NFHS-2,22,tamil nadu,18,Ramanathapuram,Ramanathapuram,18,1991,100.0,fuzzy,tamil nadu_18
-NFHS-2,22,tamil nadu,18,Ramanathapuram,Ramanathapuram,18,1991,100.0,fuzzy,tamil nadu_18
-NFHS-2,22,tamil nadu,17,Kamarajar,Kamarajar,17,1991,100.0,fuzzy,tamil nadu_17
 NFHS-2,22,tamil nadu,17,Kamarajar,Kamarajar,17,1991,100.0,fuzzy,tamil nadu_17
 NFHS-2,22,tamil nadu,9,Nilgiris,Nilgiri,9,1991,93.33333333333333,fuzzy,tamil nadu_9
-NFHS-2,22,tamil nadu,9,Nilgiris,Nilgiri,9,1991,93.33333333333333,fuzzy,tamil nadu_9
-NFHS-2,22,tamil nadu,1,Chennai,Chengalpattu-mgr,2,1991,69.23076923076923,fuzzy,tamil nadu_2
-NFHS-2,22,tamil nadu,1,Chennai,Chengalpattu-mgr,2,1991,69.23076923076923,fuzzy,tamil nadu_2
-NFHS-2,23,west bengal,2,JALPAIGURI,Jalpaiguri,2,1991,100.0,fuzzy,west bengal_2
+NFHS-2,22,tamil nadu,1,Chennai,Chengalpattu-mgr,1,1991,100.0,manual_override,tamil nadu_1
 NFHS-2,23,west bengal,2,JALPAIGURI,Jalpaiguri,2,1991,100.0,fuzzy,west bengal_2
 NFHS-2,23,west bengal,3,DARJILING,Darjiling,3,1991,100.0,fuzzy,west bengal_3
-NFHS-2,23,west bengal,3,DARJILING,Darjiling,3,1991,100.0,fuzzy,west bengal_3
-NFHS-2,23,west bengal,4,WEST DINAJPUR,West Dinajpur,4,1991,100.0,fuzzy,west bengal_4
 NFHS-2,23,west bengal,4,WEST DINAJPUR,West Dinajpur,4,1991,100.0,fuzzy,west bengal_4
 NFHS-2,23,west bengal,1,KOCHBIHAR,Koch Bihar,1,1991,94.73684210526316,fuzzy,west bengal_1
-NFHS-2,23,west bengal,1,KOCHBIHAR,Koch Bihar,1,1991,94.73684210526316,fuzzy,west bengal_1
-NFHS-2,23,west bengal,6,MURSHIDABAD,Murshidabad,6,1991,100.0,fuzzy,west bengal_6
 NFHS-2,23,west bengal,6,MURSHIDABAD,Murshidabad,6,1991,100.0,fuzzy,west bengal_6
 NFHS-2,23,west bengal,5,MALDAH,Maldah,5,1991,100.0,fuzzy,west bengal_5
-NFHS-2,23,west bengal,5,MALDAH,Maldah,5,1991,100.0,fuzzy,west bengal_5
-NFHS-2,23,west bengal,11,HAORA,Howrah,11,1991,100.0,manual_override,west bengal_11
 NFHS-2,23,west bengal,11,HAORA,Howrah,11,1991,100.0,manual_override,west bengal_11
 NFHS-2,23,west bengal,16,BARDDHAMAN,Barddhaman,16,1991,100.0,fuzzy,west bengal_16
-NFHS-2,23,west bengal,16,BARDDHAMAN,Barddhaman,16,1991,100.0,fuzzy,west bengal_16
-NFHS-2,23,west bengal,12,HUGLI,Hugli,12,1991,100.0,fuzzy,west bengal_12
 NFHS-2,23,west bengal,12,HUGLI,Hugli,12,1991,100.0,fuzzy,west bengal_12
 NFHS-2,23,west bengal,8,NORTH TWENTY FOUR PARGANAS,North 24 Paraganas,8,1991,85.5,fuzzy,west bengal_8
-NFHS-2,23,west bengal,8,NORTH TWENTY FOUR PARGANAS,North 24 Paraganas,8,1991,85.5,fuzzy,west bengal_8
-NFHS-2,23,west bengal,9,SOUTH TWENTY FOUR PARGANAS,South 24 Paraganas,9,1991,85.5,fuzzy,west bengal_9
 NFHS-2,23,west bengal,9,SOUTH TWENTY FOUR PARGANAS,South 24 Paraganas,9,1991,85.5,fuzzy,west bengal_9
 NFHS-2,23,west bengal,7,NADIA,Nadia,7,1991,100.0,fuzzy,west bengal_7
-NFHS-2,23,west bengal,7,NADIA,Nadia,7,1991,100.0,fuzzy,west bengal_7
-NFHS-2,23,west bengal,14,BANKURA,Bankura,14,1991,100.0,fuzzy,west bengal_14
 NFHS-2,23,west bengal,14,BANKURA,Bankura,14,1991,100.0,fuzzy,west bengal_14
 NFHS-2,23,west bengal,13,MEDINIPUR,Medinipur,13,1991,100.0,fuzzy,west bengal_13
-NFHS-2,23,west bengal,13,MEDINIPUR,Medinipur,13,1991,100.0,fuzzy,west bengal_13
-NFHS-2,23,west bengal,17,BIRBHUM,Birbhum,17,1991,100.0,fuzzy,west bengal_17
 NFHS-2,23,west bengal,17,BIRBHUM,Birbhum,17,1991,100.0,fuzzy,west bengal_17
 NFHS-2,23,west bengal,15,PURULIYA,Puruliya,15,1991,100.0,fuzzy,west bengal_15
-NFHS-2,23,west bengal,15,PURULIYA,Puruliya,15,1991,100.0,fuzzy,west bengal_15
-NFHS-2,23,west bengal,10,CALCUTTA,Calcutta,10,1991,100.0,fuzzy,west bengal_10
 NFHS-2,23,west bengal,10,CALCUTTA,Calcutta,10,1991,100.0,fuzzy,west bengal_10
 NFHS-2,24,uttar pradesh,6,Pithoragarh,Pithoragarh,6,1991,100.0,fuzzy,uttar pradesh_6
-NFHS-2,24,uttar pradesh,6,Pithoragarh,Pithoragarh,6,1991,100.0,fuzzy,uttar pradesh_6
-NFHS-2,24,uttar pradesh,2,Chamoli,Chamoli,2,1991,100.0,fuzzy,uttar pradesh_2
 NFHS-2,24,uttar pradesh,2,Chamoli,Chamoli,2,1991,100.0,fuzzy,uttar pradesh_2
 NFHS-2,24,uttar pradesh,7,Almora,Almora,7,1991,100.0,fuzzy,uttar pradesh_7
-NFHS-2,24,uttar pradesh,7,Almora,Almora,7,1991,100.0,fuzzy,uttar pradesh_7
-NFHS-2,24,uttar pradesh,3,Tehri Garhwal,Tehri Garhwal,3,1991,100.0,fuzzy,uttar pradesh_3
 NFHS-2,24,uttar pradesh,3,Tehri Garhwal,Tehri Garhwal,3,1991,100.0,fuzzy,uttar pradesh_3
 NFHS-2,24,uttar pradesh,5,Garhwal,Garhwal,5,1991,100.0,fuzzy,uttar pradesh_5
-NFHS-2,24,uttar pradesh,5,Garhwal,Garhwal,5,1991,100.0,fuzzy,uttar pradesh_5
-NFHS-2,24,uttar pradesh,8,Nainital,Nainital,8,1991,100.0,fuzzy,uttar pradesh_8
 NFHS-2,24,uttar pradesh,8,Nainital,Nainital,8,1991,100.0,fuzzy,uttar pradesh_8
 NFHS-2,24,uttar pradesh,4,Dehradun,Dehradun,4,1991,100.0,fuzzy,uttar pradesh_4
-NFHS-2,24,uttar pradesh,4,Dehradun,Dehradun,4,1991,100.0,fuzzy,uttar pradesh_4
-NFHS-2,24,uttar pradesh,14,Muzaffarnagar,Muzaffarnagar,14,1991,100.0,fuzzy,uttar pradesh_14
 NFHS-2,24,uttar pradesh,14,Muzaffarnagar,Muzaffarnagar,14,1991,100.0,fuzzy,uttar pradesh_14
 NFHS-2,24,uttar pradesh,9,Bijnor,Bijnor,9,1991,100.0,fuzzy,uttar pradesh_9
-NFHS-2,24,uttar pradesh,9,Bijnor,Bijnor,9,1991,100.0,fuzzy,uttar pradesh_9
-NFHS-2,24,uttar pradesh,13,Hardwar,Hardwar,13,1991,100.0,fuzzy,uttar pradesh_13
 NFHS-2,24,uttar pradesh,13,Hardwar,Hardwar,13,1991,100.0,fuzzy,uttar pradesh_13
 NFHS-2,24,uttar pradesh,12,Saharanpur,Saharanpur,12,1991,100.0,fuzzy,uttar pradesh_12
-NFHS-2,24,uttar pradesh,12,Saharanpur,Saharanpur,12,1991,100.0,fuzzy,uttar pradesh_12
-NFHS-2,24,uttar pradesh,10,Moradabad,Moradabad,10,1991,100.0,fuzzy,uttar pradesh_10
 NFHS-2,24,uttar pradesh,10,Moradabad,Moradabad,10,1991,100.0,fuzzy,uttar pradesh_10
 NFHS-2,24,uttar pradesh,11,Rampur,Rampur,11,1991,100.0,fuzzy,uttar pradesh_11
-NFHS-2,24,uttar pradesh,11,Rampur,Rampur,11,1991,100.0,fuzzy,uttar pradesh_11
-NFHS-2,24,uttar pradesh,25,Bareilly,Bareilly,25,1991,100.0,fuzzy,uttar pradesh_25
 NFHS-2,24,uttar pradesh,25,Bareilly,Bareilly,25,1991,100.0,fuzzy,uttar pradesh_25
 NFHS-2,24,uttar pradesh,27,Shahjahanpur,Shahjehanpur,27,1991,91.66666666666666,fuzzy,uttar pradesh_27
-NFHS-2,24,uttar pradesh,27,Shahjahanpur,Shahjehanpur,27,1991,91.66666666666666,fuzzy,uttar pradesh_27
-NFHS-2,24,uttar pradesh,26,Pilibhit,Pilibhit,26,1991,100.0,fuzzy,uttar pradesh_26
 NFHS-2,24,uttar pradesh,26,Pilibhit,Pilibhit,26,1991,100.0,fuzzy,uttar pradesh_26
 NFHS-2,24,uttar pradesh,16,Ghaziabad,Ghaziabad,16,1991,100.0,fuzzy,uttar pradesh_16
-NFHS-2,24,uttar pradesh,16,Ghaziabad,Ghaziabad,16,1991,100.0,fuzzy,uttar pradesh_16
-NFHS-2,24,uttar pradesh,17,Bulandshahr,Bulandshahr,17,1991,100.0,fuzzy,uttar pradesh_17
 NFHS-2,24,uttar pradesh,17,Bulandshahr,Bulandshahr,17,1991,100.0,fuzzy,uttar pradesh_17
 NFHS-2,24,uttar pradesh,15,Meerut,Meerut,15,1991,100.0,fuzzy,uttar pradesh_15
-NFHS-2,24,uttar pradesh,15,Meerut,Meerut,15,1991,100.0,fuzzy,uttar pradesh_15
-NFHS-2,24,uttar pradesh,18,Aligarh,Aligarh,18,1991,100.0,fuzzy,uttar pradesh_18
 NFHS-2,24,uttar pradesh,18,Aligarh,Aligarh,18,1991,100.0,fuzzy,uttar pradesh_18
 NFHS-2,24,uttar pradesh,21,Firozabad,Firozabad,21,1991,100.0,fuzzy,uttar pradesh_21
-NFHS-2,24,uttar pradesh,21,Firozabad,Firozabad,21,1991,100.0,fuzzy,uttar pradesh_21
-NFHS-2,24,uttar pradesh,22,Etah,Etah,22,1991,100.0,fuzzy,uttar pradesh_22
 NFHS-2,24,uttar pradesh,22,Etah,Etah,22,1991,100.0,fuzzy,uttar pradesh_22
 NFHS-2,24,uttar pradesh,23,Mainpuri,Mainpuri,23,1991,100.0,fuzzy,uttar pradesh_23
-NFHS-2,24,uttar pradesh,23,Mainpuri,Mainpuri,23,1991,100.0,fuzzy,uttar pradesh_23
-NFHS-2,24,uttar pradesh,34,Farrukhabad,Farrukhabad,34,1991,100.0,fuzzy,uttar pradesh_34
 NFHS-2,24,uttar pradesh,34,Farrukhabad,Farrukhabad,34,1991,100.0,fuzzy,uttar pradesh_34
 NFHS-2,24,uttar pradesh,20,Agra,Agra,20,1991,100.0,fuzzy,uttar pradesh_20
-NFHS-2,24,uttar pradesh,20,Agra,Agra,20,1991,100.0,fuzzy,uttar pradesh_20
-NFHS-2,24,uttar pradesh,24,Budaun,Budaun,24,1991,100.0,fuzzy,uttar pradesh_24
 NFHS-2,24,uttar pradesh,24,Budaun,Budaun,24,1991,100.0,fuzzy,uttar pradesh_24
 NFHS-2,24,uttar pradesh,35,Etawah,Etawah,35,1991,100.0,fuzzy,uttar pradesh_35
-NFHS-2,24,uttar pradesh,35,Etawah,Etawah,35,1991,100.0,fuzzy,uttar pradesh_35
-NFHS-2,24,uttar pradesh,48,Barabanki,Barabanki,48,1991,100.0,fuzzy,uttar pradesh_48
 NFHS-2,24,uttar pradesh,48,Barabanki,Barabanki,48,1991,100.0,fuzzy,uttar pradesh_48
 NFHS-2,24,uttar pradesh,31,Unnao,Unnao,31,1991,100.0,fuzzy,uttar pradesh_31
-NFHS-2,24,uttar pradesh,31,Unnao,Unnao,31,1991,100.0,fuzzy,uttar pradesh_31
-NFHS-2,24,uttar pradesh,43,Fatehpur,Fatehpur,43,1991,100.0,fuzzy,uttar pradesh_43
 NFHS-2,24,uttar pradesh,43,Fatehpur,Fatehpur,43,1991,100.0,fuzzy,uttar pradesh_43
 NFHS-2,24,uttar pradesh,37,Kanpur Nagar,Kanpur Nagar,37,1991,100.0,fuzzy,uttar pradesh_37
-NFHS-2,24,uttar pradesh,37,Kanpur Nagar,Kanpur Nagar,37,1991,100.0,fuzzy,uttar pradesh_37
-NFHS-2,24,uttar pradesh,29,Sitapur,Sitapur,29,1991,100.0,fuzzy,uttar pradesh_29
 NFHS-2,24,uttar pradesh,29,Sitapur,Sitapur,29,1991,100.0,fuzzy,uttar pradesh_29
 NFHS-2,24,uttar pradesh,28,Kheri,Kheri,28,1991,100.0,fuzzy,uttar pradesh_28
-NFHS-2,24,uttar pradesh,28,Kheri,Kheri,28,1991,100.0,fuzzy,uttar pradesh_28
-NFHS-2,24,uttar pradesh,36,Kanpur Dehat,Kanpur Dehat,36,1991,100.0,fuzzy,uttar pradesh_36
 NFHS-2,24,uttar pradesh,36,Kanpur Dehat,Kanpur Dehat,36,1991,100.0,fuzzy,uttar pradesh_36
 NFHS-2,24,uttar pradesh,33,Rae Bareli,Rae Bareli,33,1991,100.0,fuzzy,uttar pradesh_33
-NFHS-2,24,uttar pradesh,33,Rae Bareli,Rae Bareli,33,1991,100.0,fuzzy,uttar pradesh_33
-NFHS-2,24,uttar pradesh,30,Hardoi,Hardoi,30,1991,100.0,fuzzy,uttar pradesh_30
 NFHS-2,24,uttar pradesh,30,Hardoi,Hardoi,30,1991,100.0,fuzzy,uttar pradesh_30
 NFHS-2,24,uttar pradesh,46,Bahraich,Bahraich,46,1991,100.0,fuzzy,uttar pradesh_46
-NFHS-2,24,uttar pradesh,46,Bahraich,Bahraich,46,1991,100.0,fuzzy,uttar pradesh_46
-NFHS-2,24,uttar pradesh,55,Deoria,Deoria,55,1991,100.0,fuzzy,uttar pradesh_55
 NFHS-2,24,uttar pradesh,55,Deoria,Deoria,55,1991,100.0,fuzzy,uttar pradesh_55
 NFHS-2,24,uttar pradesh,53,Basti,Basti,53,1991,100.0,fuzzy,uttar pradesh_53
-NFHS-2,24,uttar pradesh,53,Basti,Basti,53,1991,100.0,fuzzy,uttar pradesh_53
-NFHS-2,24,uttar pradesh,51,Siddharthnagar,Siddharth Nagar,51,1991,96.55172413793103,fuzzy,uttar pradesh_51
 NFHS-2,24,uttar pradesh,51,Siddharthnagar,Siddharth Nagar,51,1991,96.55172413793103,fuzzy,uttar pradesh_51
 NFHS-2,24,uttar pradesh,52,Mahrajganj,Maharajganj,52,1991,95.23809523809523,fuzzy,uttar pradesh_52
-NFHS-2,24,uttar pradesh,52,Mahrajganj,Maharajganj,52,1991,95.23809523809523,fuzzy,uttar pradesh_52
-NFHS-2,24,uttar pradesh,59,Ballia,Ballia,59,1991,100.0,fuzzy,uttar pradesh_59
 NFHS-2,24,uttar pradesh,59,Ballia,Ballia,59,1991,100.0,fuzzy,uttar pradesh_59
 NFHS-2,24,uttar pradesh,54,Gorakhpur,Gorakhpur,54,1991,100.0,fuzzy,uttar pradesh_54
-NFHS-2,24,uttar pradesh,54,Gorakhpur,Gorakhpur,54,1991,100.0,fuzzy,uttar pradesh_54
-NFHS-2,24,uttar pradesh,44,Pratapgarh,Pratapgarh,44,1991,100.0,fuzzy,uttar pradesh_44
 NFHS-2,24,uttar pradesh,44,Pratapgarh,Pratapgarh,44,1991,100.0,fuzzy,uttar pradesh_44
 NFHS-2,24,uttar pradesh,47,Gonda,Gonda,47,1991,100.0,fuzzy,uttar pradesh_47
-NFHS-2,24,uttar pradesh,47,Gonda,Gonda,47,1991,100.0,fuzzy,uttar pradesh_47
-NFHS-2,24,uttar pradesh,45,Allahabad,Allahabad,45,1991,100.0,fuzzy,uttar pradesh_45
 NFHS-2,24,uttar pradesh,45,Allahabad,Allahabad,45,1991,100.0,fuzzy,uttar pradesh_45
 NFHS-2,24,uttar pradesh,50,Sultanpur,Sultanpur,50,1991,100.0,fuzzy,uttar pradesh_50
-NFHS-2,24,uttar pradesh,50,Sultanpur,Sultanpur,50,1991,100.0,fuzzy,uttar pradesh_50
-NFHS-2,24,uttar pradesh,49,Faizabad,Faizabad,49,1991,100.0,fuzzy,uttar pradesh_49
 NFHS-2,24,uttar pradesh,49,Faizabad,Faizabad,49,1991,100.0,fuzzy,uttar pradesh_49
 NFHS-2,24,uttar pradesh,58,Jaunpur,Jaunpur,58,1991,100.0,fuzzy,uttar pradesh_58
-NFHS-2,24,uttar pradesh,58,Jaunpur,Jaunpur,58,1991,100.0,fuzzy,uttar pradesh_58
-NFHS-2,24,uttar pradesh,61,Varanasi,Varanasi,61,1991,100.0,fuzzy,uttar pradesh_61
 NFHS-2,24,uttar pradesh,61,Varanasi,Varanasi,61,1991,100.0,fuzzy,uttar pradesh_61
 NFHS-2,24,uttar pradesh,57,Azamgarh,Azamgarh,57,1991,100.0,fuzzy,uttar pradesh_57
-NFHS-2,24,uttar pradesh,57,Azamgarh,Azamgarh,57,1991,100.0,fuzzy,uttar pradesh_57
-NFHS-2,24,uttar pradesh,60,Ghazipur,Ghazipur,60,1991,100.0,fuzzy,uttar pradesh_60
 NFHS-2,24,uttar pradesh,60,Ghazipur,Ghazipur,60,1991,100.0,fuzzy,uttar pradesh_60
 NFHS-2,24,uttar pradesh,62,Mirzapur,Mirzapur,62,1991,100.0,fuzzy,uttar pradesh_62
-NFHS-2,24,uttar pradesh,62,Mirzapur,Mirzapur,62,1991,100.0,fuzzy,uttar pradesh_62
-NFHS-2,24,uttar pradesh,63,Sonbhadra,Sonbhadra,63,1991,100.0,fuzzy,uttar pradesh_63
 NFHS-2,24,uttar pradesh,63,Sonbhadra,Sonbhadra,63,1991,100.0,fuzzy,uttar pradesh_63
 NFHS-2,24,uttar pradesh,56,Mau,Mau,56,1991,100.0,fuzzy,uttar pradesh_56
-NFHS-2,24,uttar pradesh,56,Mau,Mau,56,1991,100.0,fuzzy,uttar pradesh_56
-NFHS-2,24,uttar pradesh,38,Jalaun,Jalaun,38,1991,100.0,fuzzy,uttar pradesh_38
 NFHS-2,24,uttar pradesh,38,Jalaun,Jalaun,38,1991,100.0,fuzzy,uttar pradesh_38
 NFHS-2,24,uttar pradesh,41,Hamirpur,Hamirpur,41,1991,100.0,fuzzy,uttar pradesh_41
-NFHS-2,24,uttar pradesh,41,Hamirpur,Hamirpur,41,1991,100.0,fuzzy,uttar pradesh_41
-NFHS-2,24,uttar pradesh,42,Banda,Banda,42,1991,100.0,fuzzy,uttar pradesh_42
 NFHS-2,24,uttar pradesh,42,Banda,Banda,42,1991,100.0,fuzzy,uttar pradesh_42
 NFHS-2,24,uttar pradesh,39,Jhansi,Jhansi,39,1991,100.0,fuzzy,uttar pradesh_39
-NFHS-2,24,uttar pradesh,39,Jhansi,Jhansi,39,1991,100.0,fuzzy,uttar pradesh_39
-NFHS-2,24,uttar pradesh,19,Mathura,Mathura,19,1991,100.0,fuzzy,uttar pradesh_19
 NFHS-2,24,uttar pradesh,19,Mathura,Mathura,19,1991,100.0,fuzzy,uttar pradesh_19
 NFHS-2,24,uttar pradesh,32,Lucknow,Lucknow,32,1991,100.0,fuzzy,uttar pradesh_32
-NFHS-2,24,uttar pradesh,32,Lucknow,Lucknow,32,1991,100.0,fuzzy,uttar pradesh_32
 NFHS-2,30,delhi,1,Delhi,Delhi,0,1991,100.0,fuzzy,delhi_0
-NFHS-2,30,delhi,1,Delhi,Delhi,0,1991,100.0,fuzzy,delhi_0
-NFHS-2,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,0,1991,34.285714285714285,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,0,1991,34.285714285714285,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,0,1991,36.0,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,0,1991,36.0,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,0,1991,25.0,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,0,1991,25.0,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,0,1991,32.57142857142857,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,0,1991,32.57142857142857,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,0,1991,27.692307692307693,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,0,1991,27.692307692307693,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,0,1991,31.25,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,0,1991,31.25,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,0,1991,33.333333333333336,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,0,1991,33.333333333333336,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,0,1991,34.2,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,0,1991,34.2,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,11,TIRAP,Arunachal Pradesh,0,1991,36.0,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,11,TIRAP,Arunachal Pradesh,0,1991,36.0,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,10,CHANGLANG,Arunachal Pradesh,0,1991,50.0,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,10,CHANGLANG,Arunachal Pradesh,0,1991,50.0,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,0,1991,30.000000000000004,fuzzy,arunachal pradesh_0
-NFHS-2,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,0,1991,30.000000000000004,fuzzy,arunachal pradesh_0
-NFHS-2,35,tripura,1,WEST TRIPURA,Tripura,0,1991,90.0,fuzzy,tripura_0
+NFHS-2,34,arunachal pradesh,3,EAST KAMENG,Arunachal Pradesh,3,1991,100.0,manual_override,arunachal pradesh_3
+NFHS-2,34,arunachal pradesh,1,TAWANG,Arunachal Pradesh,1,1991,100.0,manual_override,arunachal pradesh_1
+NFHS-2,34,arunachal pradesh,4,LOWER SUBANSIRI,Arunachal Pradesh,4,1991,100.0,manual_override,arunachal pradesh_4
+NFHS-2,34,arunachal pradesh,2,WEST KAMENG,Arunachal Pradesh,2,1991,100.0,manual_override,arunachal pradesh_2
+NFHS-2,34,arunachal pradesh,7,EAST SIANG,Arunachal Pradesh,7,1991,100.0,manual_override,arunachal pradesh_7
+NFHS-2,34,arunachal pradesh,5,UPPER SUBANSIRI,Arunachal Pradesh,5,1991,100.0,manual_override,arunachal pradesh_5
+NFHS-2,34,arunachal pradesh,8,DIBANG VALLEY,Arunachal Pradesh,8,1991,100.0,manual_override,arunachal pradesh_8
+NFHS-2,34,arunachal pradesh,6,WEST SIANG,Arunachal Pradesh,6,1991,100.0,manual_override,arunachal pradesh_6
+NFHS-2,34,arunachal pradesh,11,TIRAP,Arunachal Pradesh,11,1991,100.0,manual_override,arunachal pradesh_11
+NFHS-2,34,arunachal pradesh,10,CHANGLANG,Arunachal Pradesh,10,1991,100.0,manual_override,arunachal pradesh_10
+NFHS-2,34,arunachal pradesh,9,Lohit,Arunachal Pradesh,9,1991,100.0,manual_override,arunachal pradesh_9
 NFHS-2,35,tripura,1,WEST TRIPURA,Tripura,0,1991,90.0,fuzzy,tripura_0
 NFHS-2,35,tripura,2,NORTH TRIPURA,Tripura,0,1991,90.0,fuzzy,tripura_0
-NFHS-2,35,tripura,2,NORTH TRIPURA,Tripura,0,1991,90.0,fuzzy,tripura_0
-NFHS-2,35,tripura,3,SOUTH TRIPURA,Tripura,0,1991,90.0,fuzzy,tripura_0
 NFHS-2,35,tripura,3,SOUTH TRIPURA,Tripura,0,1991,90.0,fuzzy,tripura_0

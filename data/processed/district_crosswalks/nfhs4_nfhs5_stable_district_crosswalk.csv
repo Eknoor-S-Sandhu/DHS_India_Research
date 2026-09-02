@@ -1,0 +1,576 @@
+district_code,district_name_nfhs4,district_name_nfhs5,status,district_code_nfhs5
+1,kupwara,kupwara,stable,1
+2,badgam,badgam,stable,2
+3,leh,leh(ladakh),stable,3
+4,kargil,kargil,stable,4
+5,punch,punch,stable,5
+6,rajouri,rajouri,stable,6
+7,kathua,kathua,stable,7
+8,baramula,baramula,stable,8
+9,bandipore,bandipore,stable,9
+10,srinagar,srinagar,stable,10
+11,ganderbal,ganderbal,stable,11
+12,pulwama,pulwama,stable,12
+13,shupiyan,shupiyan,stable,13
+14,anantnag,anantnag,stable,14
+15,kulgam,kulgam,stable,15
+16,doda,doda,stable,16
+17,ramban,ramban,stable,17
+18,kishtwar,kishtwar,stable,18
+19,udhampur,udhampur,stable,19
+20,reasi,reasi,stable,20
+21,jammu,jammu,stable,21
+22,samba,samba,stable,22
+23,chamba,chamba,stable,23
+24,kangra,kangra,stable,24
+25,lahul and spiti,lahul & spiti,stable,25
+26,kullu,kullu,stable,26
+27,mandi,mandi,stable,27
+28,hamirpur,hamirpur,stable,28
+29,una,una,stable,29
+30,bilaspur,bilaspur,stable,30
+31,solan,solan,stable,31
+32,sirmaur,sirmaur,stable,32
+33,shimla,shimla,stable,33
+34,kinnaur,kinnaur,stable,34
+36,kapurthala,kapurthala,stable,36
+37,jalandhar,jalandhar,stable,37
+38,hoshiarpur,hoshiarpur,stable,38
+39,sangrur,sangrur,stable,53
+40,fatehgarh sahib,fatehgarh sahib,stable,40
+41,ludhiana,ludhiana,stable,41
+42,moga,moga,stable,42
+44,muktsar,muktsar,stable,44
+45,faridkot,faridkot,stable,45
+46,bathinda,bathinda,stable,46
+47,mansa,mansa,stable,47
+48,patiala,patiala,stable,48
+49,amritsar,amritsar,stable,49
+50,tarn taran,tarn taran,stable,50
+51,rupnagar,rupnagar,stable,51
+52,sahibzada ajit singh nagar,sahibzada ajit singh nagar,stable,52
+53,shahid bhagat singh nagar,shahid bhagat singh nagar,stable,39
+54,barnala,barnala,stable,54
+55,chandigarh,chandigarh,stable,55
+56,uttarkashi,uttarkashi,stable,56
+57,chamoli,chamoli,stable,57
+58,rudraprayag,rudraprayag,stable,58
+59,tehri garhwal,tehri garhwal,stable,59
+60,dehradun,dehradun,stable,60
+61,garhwal,garhwal,stable,61
+62,pithoragarh,pithoragarh,stable,62
+63,bageshwar,bageshwar,stable,63
+64,almora,almora,stable,64
+65,champawat,champawat,stable,65
+66,nainital,nainital,stable,66
+67,udham singh nagar,udham singh nagar,stable,67
+68,hardwar,hardwar,stable,68
+69,panchkula,panchkula,stable,69
+70,ambala,ambala,stable,70
+71,yamunanagar,yamunanagar,stable,71
+72,kurukshetra,kurukshetra,stable,72
+73,kaithal,kaithal,stable,73
+74,karnal,karnal,stable,74
+75,panipat,panipat,stable,75
+76,sonipat,sonipat,stable,76
+77,jind,jind,stable,77
+78,fatehabad,fatehabad,stable,78
+79,sirsa,sirsa,stable,79
+80,hisar,hisar,stable,80
+82,rohtak,rohtak,stable,82
+83,jhajjar,jhajjar,stable,83
+84,mahendragarh,mahendragarh,stable,84
+85,rewari,rewari,stable,85
+86,gurgaon,gurgaon,stable,86
+87,mewat,mewat,stable,87
+88,faridabad,faridabad,stable,88
+89,palwal,palwal,stable,89
+99,ganganagar,ganganagar,stable,99
+100,hanumangarh,hanumangarh,stable,100
+101,bikaner,bikaner,stable,101
+102,churu,churu,stable,102
+103,jhunjhunun,jhunjhunun,stable,103
+104,alwar,alwar,stable,104
+105,bharatpur,bharatpur,stable,105
+106,dhaulpur,dhaulpur,stable,106
+107,karauli,karauli,stable,107
+108,sawai madhopur,sawai madhopur,stable,108
+109,dausa,dausa,stable,109
+110,jaipur,jaipur,stable,110
+111,sikar,sikar,stable,111
+112,nagaur,nagaur,stable,112
+113,jodhpur,jodhpur,stable,113
+114,jaisalmer,jaisalmer,stable,114
+115,barmer,barmer,stable,115
+116,jalor,jalor,stable,116
+117,sirohi,sirohi,stable,117
+118,pali,pali,stable,118
+119,ajmer,ajmer,stable,119
+120,tonk,tonk,stable,120
+121,bundi,bundi,stable,121
+122,bhilwara,bhilwara,stable,122
+123,rajsamand,rajsamand,stable,123
+124,dungarpur,dungarpur,stable,124
+125,banswara,banswara,stable,125
+126,chittaurgarh,chittaurgarh,stable,126
+127,kota,kota,stable,127
+128,baran,baran,stable,128
+129,jhalawar,jhalawar,stable,129
+130,udaipur,udaipur,stable,130
+131,pratapgarh,pratapgarh,stable,131
+132,saharanpur,saharanpur,stable,132
+134,bijnor,bijnor,stable,134
+136,rampur,rampur,stable,136
+137,jyotiba phule nagar,jyotiba phule nagar,stable,137
+138,meerut,meerut,stable,138
+139,baghpat,baghpat,stable,139
+141,gautam buddha nagar,gautam buddha nagar,stable,141
+142,bulandshahr,bulandshahr,stable,142
+143,aligarh,aligarh,stable,143
+144,mahamaya nagar,mahamaya nagar,stable,144
+145,mathura,mathura,stable,145
+146,agra,agra,stable,146
+147,firozabad,firozabad,stable,147
+148,mainpuri,mainpuri,stable,148
+150,bareilly,bareilly,stable,150
+151,pilibhit,pilibhit,stable,151
+152,shahjahanpur,shahjahanpur,stable,152
+153,kheri,kheri,stable,153
+154,sitapur,sitapur,stable,154
+155,hardoi,hardoi,stable,155
+156,unnao,unnao,stable,156
+157,lucknow,lucknow,stable,157
+159,farrukhabad,farrukhabad,stable,159
+160,kannauj,kannauj,stable,160
+161,etawah,etawah,stable,161
+162,auraiya,auraiya,stable,162
+163,kanpur dehat,kanpur dehat,stable,163
+164,kanpur nagar,kanpur nagar,stable,164
+165,jalaun,jalaun,stable,165
+166,jhansi,jhansi,stable,166
+167,lalitpur,lalitpur,stable,167
+168,hamirpur,hamirpur,stable,168
+169,mahoba,mahoba,stable,169
+170,banda,banda,stable,170
+171,chitrakoot,chitrakoot,stable,171
+172,fatehpur,fatehpur,stable,172
+173,pratapgarh,pratapgarh,stable,173
+174,kaushambi,kaushambi,stable,174
+175,allahabad,allahabad,stable,175
+176,bara banki,bara banki,stable,176
+177,faizabad,faizabad,stable,177
+178,ambedkar nagar,ambedkar nagar,stable,178
+180,bahraich,bahraich,stable,180
+181,shrawasti,shrawasti,stable,181
+182,balrampur,balrampur,stable,182
+183,gonda,gonda,stable,183
+184,siddharth nagar,siddharthnagar,stable,184
+185,basti,basti,stable,185
+186,sant kabir nagar,sant kabir nagar,stable,186
+187,mahrajganj,mahrajganj,stable,187
+188,gorakhpur,gorakhpur,stable,188
+189,kushinagar,kushinagar,stable,189
+190,deoria,deoria,stable,190
+191,azamgarh,azamgarh,stable,191
+192,mau,mau,stable,192
+193,ballia,ballia,stable,193
+194,jaunpur,jaunpur,stable,194
+195,ghazipur,ghazipur,stable,195
+196,chandauli,chandauli,stable,196
+197,varanasi,varanasi,stable,197
+198,sant ravidas nagar (bhadohi),sant ravidas nagar (bhadohi),stable,198
+199,mirzapur,mirzapur,stable,199
+200,sonbhadra,sonbhadra,stable,200
+201,etah,etah,stable,201
+202,kanshiram nagar,kanshiram nagar,stable,202
+203,pashchim champaran,pashchim champaran,stable,203
+204,purba champaran,purba champaran,stable,204
+205,sheohar,sheohar,stable,205
+206,sitamarhi,sitamarhi,stable,206
+207,madhubani,madhubani,stable,207
+208,supaul,supaul,stable,208
+209,araria,araria,stable,209
+210,kishanganj,kishanganj,stable,210
+211,purnia,purnia,stable,211
+212,katihar,katihar,stable,212
+213,madhepura,madhepura,stable,213
+214,saharsa,saharsa,stable,214
+215,darbhanga,darbhanga,stable,215
+216,muzaffarpur,muzaffarpur,stable,216
+217,gopalganj,gopalganj,stable,217
+218,siwan,siwan,stable,218
+219,saran,saran,stable,219
+220,vaishali,vaishali,stable,220
+221,samastipur,samastipur,stable,221
+222,begusarai,begusarai,stable,222
+223,khagaria,khagaria,stable,223
+224,bhagalpur,bhagalpur,stable,224
+225,banka,banka,stable,225
+226,munger,munger,stable,226
+227,lakhisarai,lakhisarai,stable,227
+228,sheikhpura,sheikhpura,stable,228
+229,nalanda,nalanda,stable,229
+230,patna,patna,stable,230
+231,bhojpur,bhojpur,stable,231
+232,buxar,buxar,stable,232
+233,kaimur (bhabua),kaimur (bhabua),stable,233
+234,rohtas,rohtas,stable,234
+235,aurangabad,aurangabad,stable,235
+236,gaya,gaya,stable,236
+237,nawada,nawada,stable,237
+238,jamui,jamui,stable,238
+239,jehanabad,jehanabad,stable,239
+240,arwal,arwal,stable,240
+241,north  district,north  district,stable,241
+242,west district,west district,stable,242
+243,south district,south district,stable,243
+244,east district,east district,stable,244
+245,tawang,tawang,stable,245
+246,west kameng,west kameng,stable,246
+247,east kameng,east kameng,stable,247
+248,papumpare,papum pare,stable,248
+249,upper subansiri,upper subansiri,stable,249
+252,upper siang,upper siang,stable,252
+253,changlang,changlang,stable,253
+255,lower subansiri,lower subansiri,stable,255
+257,dibang valley,dibang valley,stable,257
+258,lower dibang valley,lower dibang valley,stable,258
+260,anjaw,anjaw,stable,260
+261,mon,mon,stable,261
+262,mokokchung,mokokchung,stable,262
+263,zunheboto,zunheboto,stable,263
+264,wokha,wokha,stable,264
+265,dimapur,dimapur,stable,265
+266,phek,phek,stable,266
+267,tuensang,tuensang,stable,267
+268,longleng,longleng,stable,268
+269,kiphire,kiphire,stable,269
+270,kohima,kohima,stable,270
+271,peren,peren,stable,271
+272,senapati (excluding 3 sub-divisions),senapati,stable,272
+273,tamenglong,tamenglong,stable,273
+274,churachandpur,churachandpur,stable,274
+275,bishnupur,bishnupur,stable,275
+276,thoubal,thoubal,stable,276
+277,imphal west,imphal west,stable,277
+278,imphal east,imphal east,stable,278
+279,ukhrul,ukhrul,stable,279
+280,chandel,chandel,stable,280
+281,mamit,mamit,stable,281
+282,kolasib,kolasib,stable,282
+283,aizawl,aizawl,stable,283
+284,champhai,champhai,stable,284
+285,serchhip,serchhip,stable,285
+286,lunglei,lunglei,stable,286
+287,lawngtlai,lawngtlai,stable,287
+288,saiha,saiha,stable,288
+291,dhalai,dhalai,stable,291
+295,south garo hills,south garo hills,stable,295
+297,ribhoi,ribhoi,stable,297
+298,east khasi hills,east khasi hills,stable,298
+300,kokrajhar,kokrajhar,stable,300
+302,goalpara,goalpara,stable,302
+303,barpeta,barpeta,stable,303
+304,morigaon,morigaon,stable,304
+307,lakhimpur,lakhimpur,stable,307
+308,dhemaji,dhemaji,stable,308
+309,tinsukia,tinsukia,stable,309
+310,dibrugarh,dibrugarh,stable,310
+313,golaghat,golaghat,stable,313
+315,dima hasao,dima hasao,stable,315
+316,cachar,cachar,stable,316
+317,karimganj,karimganj,stable,317
+318,hailakandi,hailakandi,stable,318
+319,bongaigaon,bongaigaon,stable,319
+320,chirang,chirang,stable,320
+321,kamrup,kamrup,stable,321
+322,kamrup metropolitan,kamrup metropolitan,stable,322
+323,nalbari,nalbari,stable,323
+324,baksa,baksa,stable,324
+325,darrang,darrang,stable,325
+326,udalguri,udalguri,stable,326
+327,darjiling,darjiling,stable,327
+328,jalpaiguri,jalpaiguri,stable,328
+329,koch bihar,koch bihar,stable,329
+330,uttar dinajpur,uttar dinajpur,stable,330
+331,dakshin dinajpur,dakshin dinajpur,stable,331
+332,maldah,maldah,stable,332
+333,murshidabad,murshidabad,stable,333
+334,birbhum,birbhum,stable,334
+336,nadia,nadia,stable,336
+337,north twenty four parganas,north twenty four parganas,stable,337
+338,hugli,hugli,stable,338
+339,bankura,bankura,stable,339
+340,puruliya,puruliya,stable,340
+341,haora,haora,stable,341
+342,kolkata,kolkata,stable,342
+343,south twenty four parganas,south twenty four parganas,stable,343
+344,paschim medinipur,paschim medinipur,stable,344
+345,purba medinipur,purba medinipur,stable,345
+346,garhwa,garhwa,stable,346
+347,chatra,chatra,stable,347
+348,kodarma,kodarma,stable,348
+349,giridih,giridih,stable,349
+350,deoghar,deoghar,stable,350
+351,godda,godda,stable,351
+352,sahibganj,sahibganj,stable,352
+353,pakur,pakur,stable,353
+354,dhanbad,dhanbad,stable,354
+355,bokaro,bokaro,stable,355
+356,lohardaga,lohardaga,stable,356
+357,purbi singhbhum,purbi singhbhum,stable,357
+358,palamu,palamu,stable,358
+359,latehar,latehar,stable,359
+360,hazaribagh,hazaribagh,stable,360
+361,ramgarh,ramgarh,stable,361
+362,dumka,dumka,stable,362
+363,jamtara,jamtara,stable,363
+364,ranchi,ranchi,stable,364
+365,khunti,khunti,stable,365
+366,gumla,gumla,stable,366
+367,simdega,simdega,stable,367
+368,pashchimi singhbhum,pashchimi singhbhum,stable,368
+369,saraikela kharsawan,saraikela-kharsawan,stable,369
+370,bargarh,bargarh,stable,370
+371,jharsuguda,jharsuguda,stable,371
+372,sambalpur,sambalpur,stable,372
+373,debagarh,debagarh,stable,373
+374,sundargarh,sundargarh,stable,374
+375,kendujhar,kendujhar,stable,375
+376,mayurbhanj,mayurbhanj,stable,376
+377,baleshwar,baleshwar,stable,377
+378,bhadrak,bhadrak,stable,378
+379,kendrapara,kendrapara,stable,379
+380,jagatsinghapur,jagatsinghapur,stable,380
+381,cuttack,cuttack,stable,381
+382,jajapur,jajapur,stable,382
+383,dhenkanal,dhenkanal,stable,383
+384,anugul,anugul,stable,384
+385,nayagarh,nayagarh,stable,385
+386,khordha,khordha,stable,386
+387,puri,puri,stable,387
+388,ganjam,ganjam,stable,388
+389,gajapati,gajapati,stable,389
+390,kandhamal,kandhamal,stable,390
+391,baudh,baudh,stable,391
+392,subarnapur,subarnapur,stable,392
+393,balangir,balangir,stable,393
+394,nuapada,nuapada,stable,394
+395,kalahandi,kalahandi,stable,395
+396,rayagada,rayagada,stable,396
+397,nabarangapur,nabarangapur,stable,397
+398,koraput,koraput,stable,398
+399,malkangiri,malkangiri,stable,399
+400,korea (koriya),koriya,stable,400
+402,jashpur,jashpur,stable,402
+403,raigarh,raigarh,stable,403
+404,korba,korba,stable,404
+405,janjgir - champa,janjgir - champa,stable,405
+407,kabirdham,kabeerdham,stable,407
+408,rajnandgaon,rajnandgaon,stable,408
+411,mahasamund,mahasamund,stable,411
+412,dhamtari,dhamtari,stable,412
+413,uttar bastar kanker,uttar bastar kanker,stable,413
+415,narayanpur,narayanpur,stable,415
+417,bijapur,bijapur,stable,417
+418,sheopur,sheopur,stable,418
+419,morena,morena,stable,419
+420,bhind,bhind,stable,420
+421,gwalior,gwalior,stable,421
+422,datia,datia,stable,422
+423,shivpuri,shivpuri,stable,423
+424,tikamgarh,tikamgarh,stable,424
+425,chhatarpur,chhatarpur,stable,425
+426,panna,panna,stable,426
+427,sagar,sagar,stable,427
+428,damoh,damoh,stable,428
+429,satna,satna,stable,429
+430,rewa,rewa,stable,430
+431,umaria,umaria,stable,431
+432,neemuch,neemuch,stable,432
+433,mandsaur,mandsaur,stable,433
+434,ratlam,ratlam,stable,434
+435,ujjain,ujjain,stable,435
+437,dewas,dewas,stable,437
+438,dhar,dhar,stable,438
+439,indore,indore,stable,439
+440,khargone (west nimar),khargone (west nimar),stable,440
+441,barwani,barwani,stable,441
+442,rajgarh,rajgarh,stable,442
+443,vidisha,vidisha,stable,443
+444,bhopal,bhopal,stable,444
+445,sehore,sehore,stable,445
+446,raisen,raisen,stable,446
+447,betul,betul,stable,447
+448,harda,harda,stable,448
+449,hoshangabad,hoshangabad,stable,449
+450,katni,katni,stable,450
+451,jabalpur,jabalpur,stable,451
+452,narsimhapur,narsimhapur,stable,452
+453,dindori,dindori,stable,453
+454,mandla,mandla,stable,454
+455,chhindwara,chhindwara,stable,455
+456,seoni,seoni,stable,456
+457,balaghat,balaghat,stable,457
+458,guna,guna,stable,458
+459,ashoknagar,ashoknagar,stable,459
+460,shahdol,shahdol,stable,460
+461,anuppur,anuppur,stable,461
+462,sidhi,sidhi,stable,462
+463,singrauli,singrauli,stable,463
+464,jhabua,jhabua,stable,464
+465,alirajpur,alirajpur,stable,465
+466,khandwa (east nimar),khandwa (east nimar),stable,466
+467,burhanpur,burhanpur,stable,467
+468,kachchh,kachchh,stable,468
+469,banaskantha,banas kantha,stable,469
+470,patan,patan,stable,470
+471,mahesana,mahesana,stable,471
+473,gandhinagar,gandhinagar,stable,473
+478,porbandar,porbandar,stable,478
+480,amreli,amreli,stable,480
+482,anand,anand,stable,482
+485,dohad,dohad,stable,485
+487,narmada,narmada,stable,487
+488,bharuch,bharuch,stable,488
+489,the dangs,the dangs,stable,489
+490,navsari,navsari,stable,490
+491,valsad,valsad,stable,491
+492,surat,surat,stable,492
+493,tapi,tapi,stable,493
+494,diu,diu,stable,494
+495,daman,daman,stable,495
+496,dadra & nagar haveli,dadra & nagar haveli,stable,496
+497,nandurbar,nandurbar,stable,497
+498,dhule,dhule,stable,498
+499,jalgaon,jalgaon,stable,499
+500,buldana,buldana,stable,500
+501,akola,akola,stable,501
+502,washim,washim,stable,502
+503,amravati,amravati,stable,503
+504,wardha,wardha,stable,504
+505,nagpur,nagpur,stable,505
+506,bhandara,bhandara,stable,506
+507,gondiya,gondiya,stable,507
+508,gadchiroli,gadchiroli,stable,508
+509,chandrapur,chandrapur,stable,509
+510,yavatmal,yavatmal,stable,510
+511,nanded,nanded,stable,511
+512,hingoli,hingoli,stable,512
+513,parbhani,parbhani,stable,513
+514,jalna,jalna,stable,514
+515,aurangabad,aurangabad,stable,515
+516,nashik,nashik,stable,516
+518,mumbai suburban,mumbai suburban,stable,518
+519,mumbai,mumbai,stable,519
+520,raigarh,raigarh,stable,520
+521,pune,pune,stable,521
+522,ahmadnagar,ahmadnagar,stable,522
+523,bid,bid,stable,523
+524,latur,latur,stable,524
+525,osmanabad,osmanabad,stable,525
+526,solapur,solapur,stable,526
+527,satara,satara,stable,527
+528,ratnagiri,ratnagiri,stable,528
+529,sindhudurg,sindhudurg,stable,529
+530,kolhapur,kolhapur,stable,530
+531,sangli,sangli,stable,531
+542,srikakulam,srikakulam,stable,542
+543,vizianagaram,vizianagaram,stable,543
+544,visakhapatnam,visakhapatnam,stable,544
+545,east godavari,east godavari,stable,545
+546,west godavari,west godavari,stable,546
+547,krishna,krishna,stable,547
+548,guntur,guntur,stable,548
+549,prakasam,prakasam,stable,549
+550,sri potti sriramulu nellore,sri potti sriramulu nellore,stable,550
+551,y.s.r.,y.s.r.,stable,551
+552,kurnool,kurnool,stable,552
+553,anantapur,anantapur,stable,553
+554,chittoor,chittoor,stable,554
+555,belgaum,belgaum,stable,555
+556,bagalkot,bagalkot,stable,556
+557,bijapur,bijapur,stable,557
+558,bidar,bidar,stable,558
+559,raichur,raichur,stable,559
+560,koppal,koppal,stable,560
+561,gadag,gadag,stable,561
+562,dharwad,dharwad,stable,562
+563,uttara kannada,uttara kannada,stable,563
+564,haveri,haveri,stable,564
+565,bellary,bellary,stable,565
+566,chitradurga,chitradurga,stable,566
+567,davanagere,davanagere,stable,567
+568,shimoga,shimoga,stable,568
+569,udupi,udupi,stable,569
+570,chikmagalur,chikmagalur,stable,570
+571,tumkur,tumkur,stable,571
+572,bangalore,bangalore,stable,572
+573,mandya,mandya,stable,573
+574,hassan,hassan,stable,574
+575,dakshina kannada,dakshina kannada,stable,575
+576,kodagu,kodagu,stable,576
+577,mysore,mysore,stable,577
+578,chamarajanagar,chamarajanagar,stable,578
+579,gulbarga,gulbarga,stable,579
+580,yadgir,yadgir,stable,580
+581,kolar,kolar,stable,581
+582,chikkaballapura,chikkaballapura,stable,582
+583,bangalore rural,bangalore rural,stable,583
+584,ramanagara,ramanagara,stable,584
+585,north goa,north goa,stable,585
+586,south goa,south goa,stable,586
+587,lakshadweep,lakshadweep,stable,587
+588,kasaragod,kasaragod,stable,588
+589,kannur,kannur,stable,589
+590,wayanad,wayanad,stable,590
+591,kozhikode,kozhikode,stable,591
+592,malappuram,malappuram,stable,592
+593,palakkad,palakkad,stable,593
+594,thrissur,thrissur,stable,594
+595,ernakulam,ernakulam,stable,595
+596,idukki,idukki,stable,596
+597,kottayam,kottayam,stable,597
+598,alappuzha,alappuzha,stable,598
+599,pathanamthitta,pathanamthitta,stable,599
+600,kollam,kollam,stable,600
+601,thiruvananthapuram,thiruvananthapuram,stable,601
+602,thiruvallur,thiruvallur,stable,602
+603,chennai,chennai,stable,603
+604,kancheepuram,kancheepuram,stable,604
+605,vellore,vellore,stable,605
+606,tiruvannamalai,tiruvannamalai,stable,606
+607,viluppuram,viluppuram,stable,607
+608,salem,salem,stable,608
+609,namakkal,namakkal,stable,609
+610,erode,erode,stable,610
+611,the nilgiris,the nilgiris,stable,611
+612,dindigul,dindigul,stable,612
+613,karur,karur,stable,613
+614,tiruchirappalli,tiruchirappalli,stable,614
+615,perambalur,perambalur,stable,615
+616,ariyalur,ariyalur,stable,616
+617,cuddalore,cuddalore,stable,617
+618,nagapattinam,nagapattinam,stable,618
+619,thiruvarur,thiruvarur,stable,619
+620,thanjavur,thanjavur,stable,620
+621,pudukkottai,pudukkottai,stable,621
+622,sivaganga,sivaganga,stable,622
+623,madurai,madurai,stable,623
+624,theni,theni,stable,624
+625,virudhunagar,virudhunagar,stable,625
+626,ramanathapuram,ramanathapuram,stable,626
+627,thoothukkudi,thoothukkudi,stable,627
+628,tirunelveli,tirunelveli,stable,628
+629,kanniyakumari,kanniyakumari,stable,629
+630,dharmapuri,dharmapuri,stable,630
+631,krishnagiri,krishnagiri,stable,631
+632,coimbatore,coimbatore,stable,632
+633,tiruppur,tiruppur,stable,633
+634,yanam,yanam,stable,634
+635,puducherry,puducherry,stable,635
+636,mahe,mahe,stable,636
+637,karaikal,karaikal,stable,637
+638,nicobars,nicobars,stable,638
+639,north & middle andaman,north  & middle andaman,stable,639
+640,south andaman,south andaman,stable,640
